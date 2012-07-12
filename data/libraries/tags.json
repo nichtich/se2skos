@@ -1,0 +1,1486 @@
+[
+   {
+      "count" : 20,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "public-libraries"
+   },
+   {
+      "count" : 18,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : true,
+      "name" : "academic-libraries"
+   },
+   {
+      "count" : 14,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "cataloging"
+   },
+   {
+      "count" : 14,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "classification"
+   },
+   {
+      "count" : 13,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "software"
+   },
+   {
+      "count" : 13,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "collection-development"
+   },
+   {
+      "count" : 12,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "patron-management"
+   },
+   {
+      "count" : 12,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "circulation"
+   },
+   {
+      "count" : 11,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "preservation"
+   },
+   {
+      "count" : 10,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "digital-collections"
+   },
+   {
+      "count" : 10,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "ebooks"
+   },
+   {
+      "count" : 9,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "youth-services"
+   },
+   {
+      "count" : 8,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "internet"
+   },
+   {
+      "count" : 7,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : true,
+      "name" : "archives"
+   },
+   {
+      "count" : 6,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "digital-media"
+   },
+   {
+      "count" : 6,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "digital-archiving"
+   },
+   {
+      "count" : 6,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "opac"
+   },
+   {
+      "count" : 6,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "professional-development"
+   },
+   {
+      "count" : 5,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "marc"
+   },
+   {
+      "count" : 5,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "api"
+   },
+   {
+      "count" : 5,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "statistics"
+   },
+   {
+      "count" : 5,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "web-archiving"
+   },
+   {
+      "count" : 5,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "e-resources"
+   },
+   {
+      "count" : 5,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "rfid"
+   },
+   {
+      "count" : 5,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "archiving"
+   },
+   {
+      "count" : 5,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "dewey-decimal-system"
+   },
+   {
+      "count" : 5,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "weeding"
+   },
+   {
+      "count" : 5,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "school-libraries"
+   },
+   {
+      "count" : 4,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "management"
+   },
+   {
+      "count" : 4,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "innovation"
+   },
+   {
+      "count" : 4,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "databases"
+   },
+   {
+      "count" : 4,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "storytime"
+   },
+   {
+      "count" : 4,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "information-technology"
+   },
+   {
+      "count" : 4,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "privacy"
+   },
+   {
+      "count" : 4,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "metadata"
+   },
+   {
+      "count" : 4,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "socialmedia"
+   },
+   {
+      "count" : 4,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "fair-use"
+   },
+   {
+      "count" : 4,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "public-services"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "public-computing"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "research-data"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "digital-humanities"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "lcc"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "small-libraries"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "innovative-interfaces"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "patron-involvement"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "search"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "linked-data"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "publishing"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "barcodes"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "interlibrary-loan"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "purchasing"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "digitization"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "special-collections"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "library-of-congress"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "magazines"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "research-support"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "lis-research"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "copyright"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "user-experience"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "internet-archive"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "identifiers"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "systems"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "library-cards"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "people-with-disabilities"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "home-libraries"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "print-on-demand"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "book-repair"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "censorship"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "scholarly-communication"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "security"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "libguides"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "indices"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "bibliographies"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "translation"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "collection-management"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "facilities"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "museums"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "kindle"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "video-games"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "marketing"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "open-access"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "reference"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "collection"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "citations"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "standards"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "intellectual-property"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "legal-questions"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "subject-headings"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "book-reviews"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "twitter"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "policies"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "book-recommendations"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "shelving"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "indexing"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "cutter"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "profession"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "young-adult"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "qr-codes"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "mobile-apps"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "website"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "web"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "homeless"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "technical-processing"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "anti-patterns"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "patron-driven"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "budgets"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "conferences"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "arduino"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "temperature"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "noise"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "tween"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "google-scholar"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "google-search"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "full-text"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "computer-services"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "scheduling"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "science-fiction"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "tags"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "technology"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "wikipedia"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "parental-permissions"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "sparql"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "data-management"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "laws"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "amazon"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "social-tagging"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "subscriptions"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "aacr2"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "rda"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "metrics"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "exhibition"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "readers-advisory"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "loc"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "spatial-data"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "gis-librarian"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "booktalks"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "babies"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "troubleshooting"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "reserves"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "frbr"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "periodicals"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "rare-items"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "employees"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "backups"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "aleph"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "scripting"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "sql"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "testing"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "curation"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "vendors"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "government-documents"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "codoc"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "sudocs"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "change"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "non-fiction"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "rights"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "crm"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "serials"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "nook"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "e-readers"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "ajax"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "theses-and-dissertations"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "folksonomies"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "cms"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "public-domain"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "pests"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "video"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "professors"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "games"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "scans"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "openurl"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "sip2"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "log-files"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "mailing-lists"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "close-stack"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "bibliometrics"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "self-service"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "imls"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "young-people"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "data-curation"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "horizon"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "tei"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "semantic-markup"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "catalog-enrichment"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "publishers"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "newspapers"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "audio"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "authority-control"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "holds"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "fees"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "challenges"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "book-sales"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "music"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "movies"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "corporate-libraries"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "regular-expressions"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "regex"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "buildings"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "ils"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "reporting"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "awards"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "history"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "dspace"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "dublin-core"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "geolocation"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "crowdsourcing"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "documents"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "fair-dealing"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "commonwealth-of-nations"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "institutions"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "torrent"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "hiring"
+   }
+]

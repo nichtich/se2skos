@@ -1,0 +1,219 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+@base <http://libraries.stackexchange.com/tags/> .
+
+<> a skos:ConceptScheme ;
+    skos:hasTopConcept <library-of-congress>, <e-resources>, <archiving>, <research-libraries>, <corporate-libraries>, <bibliographies>, <profession>, <public-libraries>, <government-libraries>, <metadata>, <institutions>, <internet>, <academic-libraries>, <e-readers>, <classification>, <circulation>, <school-libraries>, <cutter>, <collection>, <lcc>, <ddc>, <cataloging>, <digital-humanities>, <tei>, <preservation>, <ebooks> .
+
+<library-of-congress> a skos:Concept ;
+    skos:related <lcc> ;
+    skos:topConceptOf <> .
+
+<collection-development> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "collection-development"@en ;
+    skos:broader <collection> ;
+    skos:related <weeding>, <collection> ;
+    skos:scopeNote "Collection development includes selection and deselection of material to be included in the collection of a library or archive." ;
+    skos:narrower <patron-driven>, <weeding>, <purchasing> .
+
+<e-resources> a skos:Concept ;
+    skos:related <e-readers> ;
+    skos:topConceptOf <> .
+
+<archiving> a skos:Concept ;
+    skos:prefLabel "archiving"@en ;
+    skos:related <archives>, <web-archiving>, <preservation> ;
+    skos:scopeNote "The process of archiving materials, including selection, acquisition, and physical preparation for long-term storage and access. If you have a question about archives as institutions or that would usually occur only in the context of an archive, use [tag:archives]." ;
+    skos:narrower <digital-archiving>, <web-archiving> ;
+    skos:topConceptOf <> .
+
+<professional-development> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:broader <profession> .
+
+<archives> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "archives"@en ;
+    skos:broader <institutions> ;
+    skos:related <digital-collections>, <special-collections>, <archiving> ;
+    skos:scopeNote "Institutions or repositories dedicated to the long-term storage and preservation of materials, usually of a unique and historical nature or with the assumption that it will have that nature in the future. If you have a question about the process of archiving materials, including selection, acquisition, and physical preparation for long-term storage and access, use [tag:archiving] instead. See also: [tag:special-collections]" .
+
+<research-libraries> a skos:Concept ;
+    skos:related <academic-libraries> ;
+    skos:topConceptOf <> .
+
+<corporate-libraries> a skos:Concept ;
+    skos:related <academic-libraries> ;
+    skos:topConceptOf <> .
+
+<bibliographies> a skos:Concept ;
+    skos:related <cataloging> ;
+    skos:topConceptOf <> .
+
+<digital-collections> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:broader <collection> ;
+    skos:related <archives>, <web-archiving> .
+
+<profession> a skos:Concept ;
+    skos:prefLabel "profession"@en ;
+    skos:scopeNote "being a librarian, archivist, information scientist, etc. For example, professional and career concerns and questions about the current nature or future development of the profession." ;
+    skos:narrower <professional-development>, <hiring> ;
+    skos:topConceptOf <> .
+
+<web-archiving> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "web-archiving"@en ;
+    skos:broader <archiving> ;
+    skos:related <digital-archiving>, <internet>, <digital-collections>, <preservation>, <archiving> ;
+    skos:scopeNote "Collecting and preserving portions of the WWW" .
+
+<public-libraries> a skos:Concept ;
+    skos:related <academic-libraries> ;
+    skos:topConceptOf <> .
+
+<government-libraries> a skos:Concept ;
+    skos:related <academic-libraries> ;
+    skos:topConceptOf <> .
+
+<metadata> a skos:Concept ;
+    skos:related <cataloging> ;
+    skos:topConceptOf <> .
+
+<institutions> a skos:Concept ;
+    skos:prefLabel "institutions"@en ;
+    skos:scopeNote "formal organizations such as libraries and archives and their associations." ;
+    skos:narrower <internet-archive>, <archives>, <loc>, <museums>, <libraries> ;
+    skos:topConceptOf <> .
+
+<internet> a skos:Concept ;
+    skos:related <web-archiving> ;
+    skos:topConceptOf <> .
+
+<academic-libraries> a skos:Concept ;
+    skos:prefLabel "academic-libraries"@en ;
+    skos:related <school-libraries>, <research-libraries>, <corporate-libraries>, <public-libraries>, <government-libraries> ;
+    skos:scopeNote "Academic libraries are libraries with the primary purpose of serving members of their post-secondary educational institutions rather than, e.g. members of the general public or another sort of institution. (Libraries for primary and secondary education fall under [school-libraries].) This tag should be used to indicate questions about academic libraries as an institution or that would almost exclusively occur in the context of academic libraries." ;
+    skos:topConceptOf <> .
+
+<kindle> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:broader <e-readers> .
+
+<patron-driven> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:broader <collection-development> .
+
+<e-readers> a skos:Concept ;
+    skos:prefLabel "e-readers"@en ;
+    skos:related <e-resources>, <ebooks> ;
+    skos:scopeNote "portable electronic device to read ebooks and other digital publications" ;
+    skos:narrower <nook>, <kindle> ;
+    skos:topConceptOf <> .
+
+<hiring> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:broader <profession> .
+
+<loc> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:broader <institutions> .
+
+<purchasing> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:broader <collection-development> .
+
+<classification> a skos:Concept ;
+    skos:related <lcc> ;
+    skos:topConceptOf <> .
+
+<circulation> a skos:Concept ;
+    skos:related <cataloging> ;
+    skos:topConceptOf <> .
+
+<nook> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:broader <e-readers> .
+
+<school-libraries> a skos:Concept ;
+    skos:related <academic-libraries> ;
+    skos:topConceptOf <> .
+
+<digital-archiving> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:broader <archiving> ;
+    skos:related <web-archiving> .
+
+<cutter> a skos:Concept ;
+    skos:related <lcc> ;
+    skos:topConceptOf <> .
+
+<internet-archive> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:broader <institutions> .
+
+<special-collections> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:broader <collection> ;
+    skos:related <archives> .
+
+<collection> a skos:Concept ;
+    skos:prefLabel "collection"@en ;
+    skos:related <weeding>, <collection-development> ;
+    skos:scopeNote "a managed set of publications or objects held by a library, archive, or museum" ;
+    skos:narrower <digital-collections>, <collection-management>, <collection-development>, <special-collections> ;
+    skos:topConceptOf <> .
+
+<libraries> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:broader <institutions> .
+
+<lcc> a skos:Concept ;
+    skos:prefLabel "lcc"@en ;
+    skos:related <cutter>, <library-of-congress>, <classification>, <ddc> ;
+    skos:scopeNote "The Library of Congress Classification (LCC) is used by the library of congress and other academic libraries especially in the US." ;
+    skos:topConceptOf <> .
+
+<ddc> a skos:Concept ;
+    skos:related <lcc> ;
+    skos:topConceptOf <> .
+
+<weeding> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:prefLabel "weeding"@en ;
+    skos:broader <collection-development> ;
+    skos:related <collection-development>, <collection> ;
+    skos:scopeNote "A process for removing duplicate, damaged, obsolete, or little-used material from a library collection. " .
+
+<cataloging> a skos:Concept ;
+    skos:prefLabel "cataloging"@en ;
+    skos:related <bibliographies>, <metadata>, <circulation> ;
+    skos:scopeNote "Creation of bibliographic records which describe publications and library holdings." ;
+    skos:topConceptOf <> .
+
+<digital-humanities> a skos:Concept ;
+    skos:prefLabel "digital-humanities"@en ;
+    skos:related <tei> ;
+    skos:scopeNote "analyzing broad swathes of human experience in ways that weren&#39;t feasible before computers and digital materials as well as applying humanities techniques to digital objects.\r\n\r\n&quot;Humanities computing&quot; is an older term for the field which became DH; please use this tag instead." ;
+    skos:topConceptOf <> .
+
+<tei> a skos:Concept ;
+    skos:related <digital-humanities> ;
+    skos:topConceptOf <> .
+
+<collection-management> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:broader <collection> .
+
+<museums> a skos:Concept ;
+    skos:inScheme <> ;
+    skos:broader <institutions> .
+
+<preservation> a skos:Concept ;
+    skos:related <web-archiving>, <archiving> ;
+    skos:topConceptOf <> .
+
+<ebooks> a skos:Concept ;
+    skos:related <e-readers> ;
+    skos:topConceptOf <> .

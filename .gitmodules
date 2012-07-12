@@ -1,0 +1,3 @@
+[submodule "skos-simple"]
+	path = skos-simple
+	url = git@github.com:nichtich/skos-simple.git

@@ -1,0 +1,14 @@
+[
+   {
+      "creation_date" : 1340832117,
+      "applied_count" : 0,
+      "to_tag" : "academic-libraries",
+      "from_tag" : "university-libraries"
+   },
+   {
+      "creation_date" : 1339099244,
+      "applied_count" : 0,
+      "to_tag" : "archives",
+      "from_tag" : "archive"
+   }
+]

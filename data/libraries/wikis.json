@@ -1,0 +1,191 @@
+[
+   {
+      "body" : "<p>Institutions or repositories dedicated to the long-term storage and preservation of materials, usually of a unique and historical nature or with the assumption that it will have that nature in the future. If you have a question about the process of archiving materials, including selection, acquisition, and physical preparation for long-term storage and access, use <a href=\"/questions/tagged/archiving\" class=\"post-tag\" title=\"show questions tagged 'archiving'\" rel=\"tag\">archiving</a> instead.</p>\n\n<p>Specific forms of archives or otherwise overlapping concepts, such as <a href=\"/questions/tagged/digital-collections\" class=\"post-tag\" title=\"show questions tagged 'digital-collections'\" rel=\"tag\">digital-collections</a> and <a href=\"/questions/tagged/special-collections\" class=\"post-tag\" title=\"show questions tagged 'special-collections'\" rel=\"tag\">special-collections</a>, may have their own tags. Please use discretion when applying more than one of these. However, there is no general taxonomy for archive types as there is for library types.</p>\n\n<p>This tag roughly matches:</p>\n\n<ul>\n<li>JITA class <a href=\"http://eprints.rclis.org/handle/10760/3660\" rel=\"nofollow\">DL. Archives</a></li>\n</ul>\n",
+      "excerpt" : "Institutions or repositories dedicated to the long-term storage and preservation of materials, usually of a unique and historical nature or with the assumption that it will have that nature in the future. If you have a question about the process of archiving materials, including selection, acquisition, and physical preparation for long-term storage and access, use [tag:archiving] instead. See also: [tag:special-collections]",
+      "tag_name" : "archives",
+      "excerpt_last_edit_date" : 1339179168,
+      "body_last_edit_date" : 1340150766
+   },
+   {
+      "body" : "",
+      "excerpt" : "Preservation is concerned with establishing or maintaining the accessibility and integrity of recorded information in various forms, both analog and digital. ",
+      "tag_name" : "preservation",
+      "excerpt_last_edit_date" : 1339009138,
+      "body_last_edit_date" : 1338994882
+   },
+   {
+      "body" : "<p>Cataloging involves both the creation of <a href=\"/questions/tagged/bibliographies\" class=\"post-tag\" title=\"show questions tagged 'bibliographies'\" rel=\"tag\">bibliographies</a> and basic information needed for <a href=\"/questions/tagged/circulation\" class=\"post-tag\" title=\"show questions tagged 'circulation'\" rel=\"tag\">circulation</a> of library holdings. The bibliographic records created by cataloging contain <a href=\"/questions/tagged/metadata\" class=\"post-tag\" title=\"show questions tagged 'metadata'\" rel=\"tag\">metadata</a>.</p>\n",
+      "excerpt" : "Creation of bibliographic records which describe publications and library holdings.",
+      "tag_name" : "cataloging",
+      "excerpt_last_edit_date" : 1340812899,
+      "body_last_edit_date" : 1340812892
+   },
+   {
+      "body" : "",
+      "excerpt" : "The organization of content by subject for the purpose of colocsting similar document to aid in browsing a collection. ",
+      "tag_name" : "classification",
+      "excerpt_last_edit_date" : 1338762664,
+      "body_last_edit_date" : 1338644572
+   },
+   {
+      "body" : "<p>See ↓<a href=\"/questions/tagged/purchasing\" class=\"post-tag\" title=\"show questions tagged 'purchasing'\" rel=\"tag\">purchasing</a>, ↓<a href=\"/questions/tagged/weeding\" class=\"post-tag\" title=\"show questions tagged 'weeding'\" rel=\"tag\">weeding</a>, and ↓<a href=\"/questions/tagged/patron-driven\" class=\"post-tag\" title=\"show questions tagged 'patron-driven'\" rel=\"tag\">patron-driven</a> for specific kinds of collection development. For other aspects of collections in libraries and related institutions see ↑<a href=\"/questions/tagged/collection\" class=\"post-tag\" title=\"show questions tagged 'collection'\" rel=\"tag\">collection</a>.</p>\n\n<p>There is a Wikipedia article on <a href=\"http://en.wikipedia.org/wiki/Library_collection_development\" rel=\"nofollow\">library collection development</a>.</p>\n",
+      "excerpt" : "Collection development includes selection and deselection of material to be included in the collection of a library or archive.",
+      "tag_name" : "collection-development",
+      "excerpt_last_edit_date" : 1340822928,
+      "body_last_edit_date" : 1340822923
+   },
+   {
+      "body" : "<p>Public libraries are libraries with the primary purpose of serving members of the public rather than, e.g., members of a specific institution or organization.</p>\n\n<p>This is part of a non-overlapping categorization of libraries along with academic/college libraries, school libraries, government libraries, corporate libraries, and the rare subscription libraries. Some large public libraries are also research libraries.</p>\n\n<p>This tag should be used to indicate questions about public libraries as an institution or that would almost exclusively occur in the context of public libraries.</p>\n",
+      "excerpt" : "Public libraries are libraries with the primary purpose of serving members of the public rather than, e.g., members of a specific institution or organization. This tag should be used to indicate questions about, or that may almost always occur in the context of, public libraries.",
+      "tag_name" : "public-libraries",
+      "excerpt_last_edit_date" : 1338762777,
+      "body_last_edit_date" : 1338762775
+   },
+   {
+      "body" : "",
+      "excerpt" : "Online Public Access Catalog. The patron-facing display of a library&#39;s holdings. ",
+      "tag_name" : "opac",
+      "excerpt_last_edit_date" : 1338762759,
+      "body_last_edit_date" : 1338643431
+   },
+   {
+      "body" : "",
+      "excerpt" : "Application Programming Interface. A method provided by a computer system that allows another to interact with it",
+      "tag_name" : "api",
+      "excerpt_last_edit_date" : 1338762661,
+      "body_last_edit_date" : 1338643604
+   },
+   {
+      "body" : "<p>Academic libraries are libraries with the primary purpose of serving members of their post-secondary educational institutions rather than, e.g. members of the general public or another sort of institution.</p>\n\n<p>This is part of a non-overlapping categorization of libraries along with <a href=\"/questions/tagged/public-libraries\" class=\"post-tag\" title=\"show questions tagged 'public-libraries'\" rel=\"tag\">public-libraries</a>, <a href=\"/questions/tagged/school-libraries\" class=\"post-tag\" title=\"show questions tagged 'school-libraries'\" rel=\"tag\">school-libraries</a> (for primary and secondary education), <a href=\"/questions/tagged/government-libraries\" class=\"post-tag\" title=\"show questions tagged 'government-libraries'\" rel=\"tag\">government-libraries</a>, <a href=\"/questions/tagged/corporate-libraries\" class=\"post-tag\" title=\"show questions tagged 'corporate-libraries'\" rel=\"tag\">corporate-libraries</a>, and others. Many or most academic libraries are also <a href=\"/questions/tagged/research-libraries\" class=\"post-tag\" title=\"show questions tagged 'research-libraries'\" rel=\"tag\">research-libraries</a>, although that tag should not be included if not immediately relevant to the question.</p>\n\n<p>This tag should be used to indicate questions about academic libraries as an institution or that would almost exclusively occur in the context of academic libraries.</p>\n",
+      "excerpt" : "Academic libraries are libraries with the primary purpose of serving members of their post-secondary educational institutions rather than, e.g. members of the general public or another sort of institution. (Libraries for primary and secondary education fall under [school-libraries].) This tag should be used to indicate questions about academic libraries as an institution or that would almost exclusively occur in the context of academic libraries.",
+      "tag_name" : "academic-libraries",
+      "excerpt_last_edit_date" : 1340898732,
+      "body_last_edit_date" : 1339179147
+   },
+   {
+      "body" : "<p>See also ↑<a href=\"/questions/tagged/collection-development\" class=\"post-tag\" title=\"show questions tagged 'collection-development'\" rel=\"tag\">collection-development</a> and ⇡<a href=\"/questions/tagged/collection\" class=\"post-tag\" title=\"show questions tagged 'collection'\" rel=\"tag\">collection</a> for related and more general aspects.</p>\n",
+      "excerpt" : "A process for removing duplicate, damaged, obsolete, or little-used material from a library collection. ",
+      "tag_name" : "weeding",
+      "excerpt_last_edit_date" : 1341973047,
+      "body_last_edit_date" : 1340822932
+   },
+   {
+      "body" : "<p>The process of archiving materials, including selection, acquisition, and physical preparation for long-term storage and access. If you have a question about archives as institutions or that would usually occur only in the context of an archive, use ↑<a href=\"/questions/tagged/archives\" class=\"post-tag\" title=\"show questions tagged 'archives'\" rel=\"tag\">archives</a>.</p>\n\n<p>Specific forms of archiving, such as  ↓<a href=\"/questions/tagged/digital-archiving\" class=\"post-tag\" title=\"show questions tagged 'digital-archiving'\" rel=\"tag\">digital-archiving</a> and  ↓<a href=\"/questions/tagged/web-archiving\" class=\"post-tag\" title=\"show questions tagged 'web-archiving'\" rel=\"tag\">web-archiving</a>, may have their own tags. Please use discretion when applying more than one of these.</p>\n\n<p>Specific steps in this process are not unique to archives or archiving and have their own tags; e.g., <a href=\"/questions/tagged/preservation\" class=\"post-tag\" title=\"show questions tagged 'preservation'\" rel=\"tag\">preservation</a>. If your interest is only in the process and not in its context, please do not use this tag.</p>\n",
+      "excerpt" : "The process of archiving materials, including selection, acquisition, and physical preparation for long-term storage and access. If you have a question about archives as institutions or that would usually occur only in the context of an archive, use [tag:archives].",
+      "tag_name" : "archiving",
+      "excerpt_last_edit_date" : 1339179172,
+      "body_last_edit_date" : 1341692694
+   },
+   {
+      "body" : "<p>See <a href=\"http://dewey.info/\" rel=\"nofollow\">http://dewey.info/</a> for an outline.</p>\n",
+      "excerpt" : "A system that attempts to create a defined set of numbers for subject.",
+      "tag_name" : "dewey-decimal-system",
+      "excerpt_last_edit_date" : 1339099643,
+      "body_last_edit_date" : 1340559557
+   },
+   {
+      "body" : "<p>Web archiving is <a href=\"/questions/tagged/digital-archiving\" class=\"post-tag\" title=\"show questions tagged 'digital-archiving'\" rel=\"tag\">digital-archiving</a> with focus on content published at the Web. See also <a href=\"/questions/tagged/archiving\" class=\"post-tag\" title=\"show questions tagged 'archiving'\" rel=\"tag\">archiving</a> and <a href=\"/questions/tagged/preservation\" class=\"post-tag\" title=\"show questions tagged 'preservation'\" rel=\"tag\">preservation</a> for questions on other forms of archiving, <a href=\"/questions/tagged/digital-collections\" class=\"post-tag\" title=\"show questions tagged 'digital-collections'\" rel=\"tag\">digital-collections</a> for (possibly archived) collections of digital content, and <a href=\"/questions/tagged/internet\" class=\"post-tag\" title=\"show questions tagged 'internet'\" rel=\"tag\">internet</a> for general questions about the Web.</p>\n\n<p>A more detailed description is given in the <a href=\"http://en.wikipedia.org/wiki/Web_archiving\" rel=\"nofollow\">Wikipedia article on Web archiving</a>.</p>\n",
+      "excerpt" : "Collecting and preserving portions of the WWW",
+      "tag_name" : "web-archiving",
+      "excerpt_last_edit_date" : 1338928042,
+      "body_last_edit_date" : 1338928040
+   },
+   {
+      "body" : "",
+      "excerpt" : "Radio-Frequency IDentifiers.  Used in libraries to uniquely identify books in patron self-service and back-room automation systems. ",
+      "tag_name" : "rfid",
+      "excerpt_last_edit_date" : 1338762779,
+      "body_last_edit_date" : 1338643326
+   },
+   {
+      "body" : "",
+      "excerpt" : "Machine-readable patterns of Lines and/or shapes containing encoded data that is read by an optical scanner. ",
+      "tag_name" : "barcodes",
+      "excerpt_last_edit_date" : 1338762657,
+      "body_last_edit_date" : 1338643868
+   },
+   {
+      "body" : "",
+      "excerpt" : "Innovative Interfaces, Inc. is an ILS vendor based in Emeryville, California, USA. Its main products include the Millennium ILS, Sierra ILS, and Encore discovery layer.",
+      "tag_name" : "innovative-interfaces",
+      "excerpt_last_edit_date" : 1339193944,
+      "body_last_edit_date" : 1339191777
+   },
+   {
+      "body" : "",
+      "excerpt" : "Structured data that includes many relationships between unique identifiers. Each resource is identified by an HTTP URI, which can be used to retrieve information about the resource and links to other resources in RDF format. Relationships have links types from Ontologies and the set of all connected linked data is also known as Semantic Web.",
+      "tag_name" : "linked-data",
+      "excerpt_last_edit_date" : 1339099645,
+      "body_last_edit_date" : 1339064103
+   },
+   {
+      "body" : "<p>Digital humanities (DH) is \"<a href=\"http://libraries.stackexchange.com/a/414/345\">analyz[ing] broad swathes of human experience in ways that weren't feasible before computers and digital materials</a>\" as well as applying humanities techniques to digital objects. For a more in-depth discussion, <a href=\"http://en.wikipedia.org/wiki/Digital_humanities\" rel=\"nofollow\">the current Wikipedia page</a> is likely to have an up-to-date summary of this evolving field.</p>\n\n<p>This tag is a general subject tag, describing a general field within the broad topic of \"libraries and information science\" that a question might fall into rather than necessarily describing something that the question is specifically about. For example, <a href=\"/questions/tagged/tei\" class=\"post-tag\" title=\"show questions tagged 'tei'\" rel=\"tag\">tei</a> (the Text Encoding Initiative) is a specific standard within a sub-field of digital humanities; a question specifically about TEI might then be tagged both \"TEI\" and \"digital humanities.\" (This practice is particularly helpful to those who might want to follow a single broad field tag rather than try to think of every specific item it might cover and follow all of them.)</p>\n\n<p><em>Humanities computing</em> is an older term for the field which became digital humanities.</p>\n",
+      "excerpt" : "analyzing broad swathes of human experience in ways that weren&#39;t feasible before computers and digital materials as well as applying humanities techniques to digital objects.\r\n\r\n&quot;Humanities computing&quot; is an older term for the field which became DH; please use this tag instead.",
+      "tag_name" : "digital-humanities",
+      "excerpt_last_edit_date" : 1340910648,
+      "body_last_edit_date" : 1340910642
+   },
+   {
+      "body" : "<p>The Library of Congress Classification is a ↑<a href=\"/questions/tagged/classification\" class=\"post-tag\" title=\"show questions tagged 'classification'\" rel=\"tag\">classification</a> that was first developed in the late nineteenth century to organize the collection of the <a href=\"/questions/tagged/library-of-congress\" class=\"post-tag\" title=\"show questions tagged 'library-of-congress'\" rel=\"tag\">library-of-congress</a>. It was influenced by <a href=\"/questions/tagged/ddc\" class=\"post-tag\" title=\"show questions tagged 'ddc'\" rel=\"tag\">ddc</a> and <a href=\"/questions/tagged/cutter\" class=\"post-tag\" title=\"show questions tagged 'cutter'\" rel=\"tag\">cutter</a> classification. The LCC notations are used as base of LOC call numbers. See the <a href=\"http://en.wikipedia.org/wiki/Library_of_Congress_Classification\" rel=\"nofollow\">Wikipedia article on LCC</a> and <a href=\"http://www.loc.gov/aba/cataloging/classification/\" rel=\"nofollow\">the LOC website</a> for further information.</p>\n",
+      "excerpt" : "The Library of Congress Classification (LCC) is used by the library of congress and other academic libraries especially in the US.",
+      "tag_name" : "lcc",
+      "excerpt_last_edit_date" : 1341862991,
+      "body_last_edit_date" : 1341862989
+   },
+   {
+      "body" : "<p>For specific kinds of collections use ↓<a href=\"/questions/tagged/special-collections\" class=\"post-tag\" title=\"show questions tagged 'special-collections'\" rel=\"tag\">special-collections</a>, ↓<a href=\"/questions/tagged/digital-collections\" class=\"post-tag\" title=\"show questions tagged 'digital-collections'\" rel=\"tag\">digital-collections</a>, or a create a new tag. For the creation and management of collections, use ↓<a href=\"/questions/tagged/collection-development\" class=\"post-tag\" title=\"show questions tagged 'collection-development'\" rel=\"tag\">collection-development</a> or ↓<a href=\"/questions/tagged/collection-management\" class=\"post-tag\" title=\"show questions tagged 'collection-management'\" rel=\"tag\">collection-management</a>.</p>\n",
+      "excerpt" : "a managed set of publications or objects held by a library, archive, or museum",
+      "tag_name" : "collection",
+      "excerpt_last_edit_date" : 1341692682,
+      "body_last_edit_date" : 1341692692
+   },
+   {
+      "body" : "<p>This is <strong>NOT</strong> the tag for anything you might do in the course of your professional life; this is a tag for questions about the profession itself, not about all of the things that professionals might be interested in.</p>\n\n<p>For special aspects see ↓<a href=\"/questions/tagged/professional-development\" class=\"post-tag\" title=\"show questions tagged 'professional-development'\" rel=\"tag\">professional-development</a> and ↓<a href=\"/questions/tagged/hiring\" class=\"post-tag\" title=\"show questions tagged 'hiring'\" rel=\"tag\">hiring</a>.</p>\n",
+      "excerpt" : "being a librarian, archivist, information scientist, etc. For example, professional and career concerns and questions about the current nature or future development of the profession.",
+      "tag_name" : "profession",
+      "excerpt_last_edit_date" : 1341616719,
+      "body_last_edit_date" : 1341616735
+   },
+   {
+      "body" : "",
+      "excerpt" : "The nook is a tablet reading device developed by Barnes &amp; Noble.",
+      "tag_name" : "nook",
+      "excerpt_last_edit_date" : 1337790551,
+      "body_last_edit_date" : 1337737315
+   },
+   {
+      "body" : "<p>e-readers are computers primarily designed to read and store <a href=\"/questions/tagged/ebooks\" class=\"post-tag\" title=\"show questions tagged 'ebooks'\" rel=\"tag\">ebooks</a>, periodicals and other digital publications (<a href=\"/questions/tagged/e-resources\" class=\"post-tag\" title=\"show questions tagged 'e-resources'\" rel=\"tag\">e-resources</a>). </p>\n\n<p>Particular e-readers include ↓<a href=\"/questions/tagged/kindle\" class=\"post-tag\" title=\"show questions tagged 'kindle'\" rel=\"tag\">kindle</a>, and ↓<a href=\"/questions/tagged/nook\" class=\"post-tag\" title=\"show questions tagged 'nook'\" rel=\"tag\">nook</a>. See Wikipedia for an overview of \n<a href=\"http://en.wikipedia.org/wiki/E-book#Dedicated_hardware_readers\" rel=\"nofollow\">dedicated hardware ebook readers</a>.</p>\n",
+      "excerpt" : "portable electronic device to read ebooks and other digital publications",
+      "tag_name" : "e-readers",
+      "excerpt_last_edit_date" : 1341085281,
+      "body_last_edit_date" : 1341085277
+   },
+   {
+      "body" : "<p>A log file is a file which is generated by a software process to record some specific details (events) about the workings of this process. Most logfiles are plain, human-readable text files, some however are using a binary format to conserve space and need specific treatment for post-processing. (Example: Unix login history in <code>utmp</code>/<code>wtmp</code> format)</p>\n\n<p>A log file can be categorized into several types:</p>\n\n<ol>\n<li>Access log which records information related to the usage of the service provided by this process.</li>\n<li>Error log which records error conditions.</li>\n<li>Info/Debug log which records more detailed information as compared with other logs.</li>\n<li>Transaction log to document a chain of events, this often is required to be immutable to avoid later tampering.</li>\n<li><code>redo logs</code>, containing the complete information to replay a chain of actions, often used where incomplete data transactions would lead to inconsistent data, for example in file systems or databases.</li>\n</ol>\n\n<p>The main two goals of creating and maintaining log files are:</p>\n\n<ol>\n<li>Finding and debugging problems.</li>\n<li>Gathering usage information.</li>\n</ol>\n\n<p>Depending on the frequence of events and the level of detail, logfiles may be growing very quickly, and usually require a strategy for managing their growth. </p>\n",
+      "excerpt" : "A log file is file which is generated by a software process to record some specific details about the workings of this process.",
+      "tag_name" : "log-files",
+      "excerpt_last_edit_date" : 1339179180,
+      "body_last_edit_date" : 1339179177
+   },
+   {
+      "body" : "",
+      "excerpt" : "A challenge is any formal request that an item be reclassified, restricted, withdrawn, or otherwise made more inaccessible.",
+      "tag_name" : "challenges",
+      "excerpt_last_edit_date" : 1339983606,
+      "body_last_edit_date" : 1339963372
+   },
+   {
+      "body" : "",
+      "excerpt" : "Outsourcing activities to a broad community of amateurs or volunteers.",
+      "tag_name" : "crowdsourcing",
+      "excerpt_last_edit_date" : 1340812911,
+      "body_last_edit_date" : 1340797566
+   },
+   {
+      "body" : "<p>This tag is to be used for general questions about (forms of) institutions, organizations, and associations. More specific tags exist for:</p>\n\n<ul>\n<li><p>types of institutions:  ↓<a href=\"/questions/tagged/libraries\" class=\"post-tag\" title=\"show questions tagged 'libraries'\" rel=\"tag\">libraries</a> ↓<a href=\"/questions/tagged/archives\" class=\"post-tag\" title=\"show questions tagged 'archives'\" rel=\"tag\">archives</a> ↓<a href=\"/questions/tagged/museums\" class=\"post-tag\" title=\"show questions tagged 'museums'\" rel=\"tag\">museums</a> ...</p></li>\n<li><p>particular institutions: ↓<a href=\"/questions/tagged/loc\" class=\"post-tag\" title=\"show questions tagged 'loc'\" rel=\"tag\">loc</a> ↓<a href=\"/questions/tagged/internet-archive\" class=\"post-tag\" title=\"show questions tagged 'internet-archive'\" rel=\"tag\">internet-archive</a> ...</p></li>\n</ul>\n",
+      "excerpt" : "formal organizations such as libraries and archives and their associations.",
+      "tag_name" : "institutions",
+      "excerpt_last_edit_date" : 1341168410,
+      "body_last_edit_date" : 1341168407
+   }
+]
