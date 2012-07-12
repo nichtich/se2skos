@@ -28,3 +28,5 @@ included as git submodule. You may install SKOS::Simple from CPAN or checkout:
 	git submodule update
 
 Feel free to fork and reuse!
+
+![sample-graph.png](sample graph from libraries.stackexchange.com)
