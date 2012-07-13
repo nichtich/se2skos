@@ -1,0 +1,2725 @@
+[
+   {
+      "count" : 931,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : true,
+      "name" : "cc.complexity-theory"
+   },
+   {
+      "count" : 774,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : true,
+      "name" : "ds.algorithms"
+   },
+   {
+      "count" : 508,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "reference-request"
+   },
+   {
+      "count" : 380,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : true,
+      "name" : "graph-theory"
+   },
+   {
+      "count" : 275,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : true,
+      "name" : "co.combinatorics"
+   },
+   {
+      "count" : 254,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : true,
+      "name" : "graph-algorithms"
+   },
+   {
+      "count" : 181,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : true,
+      "name" : "np-hardness"
+   },
+   {
+      "count" : 174,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "soft-question"
+   },
+   {
+      "count" : 159,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "complexity-classes"
+   },
+   {
+      "count" : 151,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : true,
+      "name" : "lo.logic"
+   },
+   {
+      "count" : 150,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : true,
+      "name" : "fl.formal-languages"
+   },
+   {
+      "count" : 143,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : true,
+      "name" : "cr.crypto-security"
+   },
+   {
+      "count" : 141,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : true,
+      "name" : "ds.data-structures"
+   },
+   {
+      "count" : 138,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : true,
+      "name" : "computability"
+   },
+   {
+      "count" : 133,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : true,
+      "name" : "cg.comp-geom"
+   },
+   {
+      "count" : 125,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "quantum-computing"
+   },
+   {
+      "count" : 122,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : true,
+      "name" : "pl.programming-languages"
+   },
+   {
+      "count" : 113,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "approximation-algorithms"
+   },
+   {
+      "count" : 96,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "optimization"
+   },
+   {
+      "count" : 95,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : true,
+      "name" : "automata-theory"
+   },
+   {
+      "count" : 90,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "big-list"
+   },
+   {
+      "count" : 83,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "sat"
+   },
+   {
+      "count" : 78,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "counting-complexity"
+   },
+   {
+      "count" : 76,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "machine-learning"
+   },
+   {
+      "count" : 70,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "circuit-complexity"
+   },
+   {
+      "count" : 70,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "time-complexity"
+   },
+   {
+      "count" : 69,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "lower-bounds"
+   },
+   {
+      "count" : 68,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "turing-machines"
+   },
+   {
+      "count" : 59,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "big-picture"
+   },
+   {
+      "count" : 53,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : true,
+      "name" : "lg.learning"
+   },
+   {
+      "count" : 53,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "linear-algebra"
+   },
+   {
+      "count" : 52,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : true,
+      "name" : "dc.parallel-comp"
+   },
+   {
+      "count" : 51,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "terminology"
+   },
+   {
+      "count" : 50,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "type-theory"
+   },
+   {
+      "count" : 50,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "approximation-hardness"
+   },
+   {
+      "count" : 47,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "randomness"
+   },
+   {
+      "count" : 45,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "linear-programming"
+   },
+   {
+      "count" : 42,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : true,
+      "name" : "ai.artificial-intel"
+   },
+   {
+      "count" : 41,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : true,
+      "name" : "dc.distributed-comp"
+   },
+   {
+      "count" : 41,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "it.information-theory"
+   },
+   {
+      "count" : 41,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "reductions"
+   },
+   {
+      "count" : 40,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : true,
+      "name" : "open-problem"
+   },
+   {
+      "count" : 40,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "pr.probability"
+   },
+   {
+      "count" : 39,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "advice-request"
+   },
+   {
+      "count" : 39,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "lambda-calculus"
+   },
+   {
+      "count" : 39,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "randomized-algorithms"
+   },
+   {
+      "count" : 38,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "research-practice"
+   },
+   {
+      "count" : 37,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "tree"
+   },
+   {
+      "count" : 37,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "space-bounded"
+   },
+   {
+      "count" : 34,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "oracle"
+   },
+   {
+      "count" : 34,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "functional-programming"
+   },
+   {
+      "count" : 34,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : true,
+      "name" : "gt.game-theory"
+   },
+   {
+      "count" : 33,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "grammars"
+   },
+   {
+      "count" : 33,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "boolean-functions"
+   },
+   {
+      "count" : 32,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "sorting"
+   },
+   {
+      "count" : 32,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : true,
+      "name" : "matrices"
+   },
+   {
+      "count" : 31,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "np"
+   },
+   {
+      "count" : 31,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "application-of-theory"
+   },
+   {
+      "count" : 30,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "derandomization"
+   },
+   {
+      "count" : 29,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "db.databases"
+   },
+   {
+      "count" : 27,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "proofs"
+   },
+   {
+      "count" : 27,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : true,
+      "name" : "nt.number-theory"
+   },
+   {
+      "count" : 26,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "communication-complexity"
+   },
+   {
+      "count" : 25,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "coding-theory"
+   },
+   {
+      "count" : 25,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : true,
+      "name" : "graph-colouring"
+   },
+   {
+      "count" : 24,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "ho.history-overview"
+   },
+   {
+      "count" : 24,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "hash-function"
+   },
+   {
+      "count" : 24,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "regular-language"
+   },
+   {
+      "count" : 24,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "quantum-information"
+   },
+   {
+      "count" : 23,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "ne.neural-evol"
+   },
+   {
+      "count" : 23,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "career"
+   },
+   {
+      "count" : 22,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "directed-acyclic-graph"
+   },
+   {
+      "count" : 22,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "factoring"
+   },
+   {
+      "count" : 21,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "software"
+   },
+   {
+      "count" : 21,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "graph-isomorphism"
+   },
+   {
+      "count" : 21,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "algebra"
+   },
+   {
+      "count" : 21,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "puzzles"
+   },
+   {
+      "count" : 21,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "descriptive-complexity"
+   },
+   {
+      "count" : 21,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "treewidth"
+   },
+   {
+      "count" : 21,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "parameterized-complexity"
+   },
+   {
+      "count" : 20,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "regular-expressions"
+   },
+   {
+      "count" : 20,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "pcp"
+   },
+   {
+      "count" : 20,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "proof-complexity"
+   },
+   {
+      "count" : 20,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "semantics"
+   },
+   {
+      "count" : 20,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "teaching"
+   },
+   {
+      "count" : 19,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "conditional-results"
+   },
+   {
+      "count" : 19,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : true,
+      "name" : "ct.category-theory"
+   },
+   {
+      "count" : 19,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "context-free"
+   },
+   {
+      "count" : 19,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "interactive-proofs"
+   },
+   {
+      "count" : 19,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "polynomials"
+   },
+   {
+      "count" : 18,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "clustering"
+   },
+   {
+      "count" : 18,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "permutations"
+   },
+   {
+      "count" : 18,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "planar-graphs"
+   },
+   {
+      "count" : 18,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "tsp"
+   },
+   {
+      "count" : 17,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "physics"
+   },
+   {
+      "count" : 17,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "query-complexity"
+   },
+   {
+      "count" : 17,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "formal-modeling"
+   },
+   {
+      "count" : 17,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "survey"
+   },
+   {
+      "count" : 17,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "universal-computation"
+   },
+   {
+      "count" : 17,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "relativization"
+   },
+   {
+      "count" : 17,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "kolmogorov-complexity"
+   },
+   {
+      "count" : 17,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "st.statistics"
+   },
+   {
+      "count" : 17,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "scheduling"
+   },
+   {
+      "count" : 16,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "upper-bounds"
+   },
+   {
+      "count" : 16,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "expanders"
+   },
+   {
+      "count" : 16,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "metrics"
+   },
+   {
+      "count" : 16,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "parsing"
+   },
+   {
+      "count" : 16,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "semidefinite-programming"
+   },
+   {
+      "count" : 16,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "machine-models"
+   },
+   {
+      "count" : 16,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "string-matching"
+   },
+   {
+      "count" : 15,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "heuristics"
+   },
+   {
+      "count" : 15,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : true,
+      "name" : "pseudorandomness"
+   },
+   {
+      "count" : 15,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "books"
+   },
+   {
+      "count" : 15,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : true,
+      "name" : "na.numerical-analysis"
+   },
+   {
+      "count" : 15,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "proof-theory"
+   },
+   {
+      "count" : 15,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : true,
+      "name" : "compilers"
+   },
+   {
+      "count" : 15,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "algebraic-complexity"
+   },
+   {
+      "count" : 15,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "set-cover"
+   },
+   {
+      "count" : 15,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "coq"
+   },
+   {
+      "count" : 15,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "tag-removed"
+   },
+   {
+      "count" : 15,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "permanent"
+   },
+   {
+      "count" : 14,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "partial-order"
+   },
+   {
+      "count" : 14,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "spectral-graph-theory"
+   },
+   {
+      "count" : 14,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "matching"
+   },
+   {
+      "count" : 14,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "computing-over-reals"
+   },
+   {
+      "count" : 14,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "model-checking"
+   },
+   {
+      "count" : 14,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "max-cut"
+   },
+   {
+      "count" : 14,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "implementation"
+   },
+   {
+      "count" : 13,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "csp"
+   },
+   {
+      "count" : 13,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "clique"
+   },
+   {
+      "count" : 13,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "denotational-semantics"
+   },
+   {
+      "count" : 13,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "finite-model-theory"
+   },
+   {
+      "count" : 13,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "average-case-complexity"
+   },
+   {
+      "count" : 13,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : true,
+      "name" : "advice-and-nonuniformity"
+   },
+   {
+      "count" : 13,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "pseudorandom-generators"
+   },
+   {
+      "count" : 13,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "nondeterminism"
+   },
+   {
+      "count" : 13,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "data-streams"
+   },
+   {
+      "count" : 13,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "network-modeling"
+   },
+   {
+      "count" : 12,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "proof-assistants"
+   },
+   {
+      "count" : 12,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "online-algorithms"
+   },
+   {
+      "count" : 12,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "topology"
+   },
+   {
+      "count" : 12,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "random-walk"
+   },
+   {
+      "count" : 12,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "markov-chains"
+   },
+   {
+      "count" : 12,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "hamiltonian-paths"
+   },
+   {
+      "count" : 12,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "halting-problem"
+   },
+   {
+      "count" : 12,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "paper-review"
+   },
+   {
+      "count" : 12,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "graph-drawing"
+   },
+   {
+      "count" : 12,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "polynomial-hierarchy"
+   },
+   {
+      "count" : 11,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "p-vs-np"
+   },
+   {
+      "count" : 11,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "writing"
+   },
+   {
+      "count" : 11,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "fixed-parameter-tractable"
+   },
+   {
+      "count" : 11,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "genetic-algorithms"
+   },
+   {
+      "count" : 11,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "cv.computer-vision"
+   },
+   {
+      "count" : 11,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "polynomial-time"
+   },
+   {
+      "count" : 11,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "one-way-function"
+   },
+   {
+      "count" : 11,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "integer-programming"
+   },
+   {
+      "count" : 11,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "type-inference"
+   },
+   {
+      "count" : 11,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "matrix-product"
+   },
+   {
+      "count" : 11,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "conferences"
+   },
+   {
+      "count" : 10,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : true,
+      "name" : "exp-time-algorithms"
+   },
+   {
+      "count" : 10,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "circuit-families"
+   },
+   {
+      "count" : 10,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "encoding"
+   },
+   {
+      "count" : 10,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "context-free-languages"
+   },
+   {
+      "count" : 10,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "vc-dimension"
+   },
+   {
+      "count" : 10,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "automated-theorem-proving"
+   },
+   {
+      "count" : 9,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "board-games"
+   },
+   {
+      "count" : 9,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "image-processing"
+   },
+   {
+      "count" : 9,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "cryptographic-attack"
+   },
+   {
+      "count" : 9,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "packing"
+   },
+   {
+      "count" : 9,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "binary-decision-diagrams"
+   },
+   {
+      "count" : 9,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "computable-analysis"
+   },
+   {
+      "count" : 9,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "hypergraphs"
+   },
+   {
+      "count" : 9,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "concurrency"
+   },
+   {
+      "count" : 8,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "unique-games-conjecture"
+   },
+   {
+      "count" : 8,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "language-design"
+   },
+   {
+      "count" : 8,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "dfa"
+   },
+   {
+      "count" : 8,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "string-search"
+   },
+   {
+      "count" : 8,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "property-testing"
+   },
+   {
+      "count" : 8,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "program-verification"
+   },
+   {
+      "count" : 8,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "recursion"
+   },
+   {
+      "count" : 8,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "dynamic-algorithms"
+   },
+   {
+      "count" : 8,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "primal-dual"
+   },
+   {
+      "count" : 8,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "gct"
+   },
+   {
+      "count" : 8,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "statistical-physics"
+   },
+   {
+      "count" : 8,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "zero-knowledge"
+   },
+   {
+      "count" : 8,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "lattice"
+   },
+   {
+      "count" : 8,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "order-theory"
+   },
+   {
+      "count" : 8,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "integer-lattice"
+   },
+   {
+      "count" : 8,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "topological-graph-theory"
+   },
+   {
+      "count" : 8,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "security"
+   },
+   {
+      "count" : 8,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "cellular-automata"
+   },
+   {
+      "count" : 8,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "max-flow-min-cut"
+   },
+   {
+      "count" : 8,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "natural-computing"
+   },
+   {
+      "count" : 8,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "near-neighbors"
+   },
+   {
+      "count" : 8,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "type-systems"
+   },
+   {
+      "count" : 7,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "convex-optimization"
+   },
+   {
+      "count" : 7,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "edit-distance"
+   },
+   {
+      "count" : 7,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "set-theory"
+   },
+   {
+      "count" : 7,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "automorphism"
+   },
+   {
+      "count" : 7,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "linear-temporal-logic"
+   },
+   {
+      "count" : 7,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "term-rewriting-systems"
+   },
+   {
+      "count" : 7,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "max-flow"
+   },
+   {
+      "count" : 7,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "decision-trees"
+   },
+   {
+      "count" : 7,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "unique-solution"
+   },
+   {
+      "count" : 7,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "sparse-matrix"
+   },
+   {
+      "count" : 7,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "relational-structures"
+   },
+   {
+      "count" : 7,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "compressed-sensing"
+   },
+   {
+      "count" : 7,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "ramsey-theory"
+   },
+   {
+      "count" : 7,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "online-learning"
+   },
+   {
+      "count" : 7,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "imperative-programming"
+   },
+   {
+      "count" : 6,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "process-algebra"
+   },
+   {
+      "count" : 6,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "time-hierarchy"
+   },
+   {
+      "count" : 6,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "embeddings"
+   },
+   {
+      "count" : 6,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "space-time-tradeoff"
+   },
+   {
+      "count" : 6,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "dynamic-programming"
+   },
+   {
+      "count" : 6,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "metric-spaces"
+   },
+   {
+      "count" : 6,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "genetic-programming"
+   },
+   {
+      "count" : 6,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : true,
+      "name" : "project-topic"
+   },
+   {
+      "count" : 6,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "normalization"
+   },
+   {
+      "count" : 6,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "formal-methods"
+   },
+   {
+      "count" : 6,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "separation"
+   },
+   {
+      "count" : 6,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "fourier"
+   },
+   {
+      "count" : 6,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "black-box"
+   },
+   {
+      "count" : 6,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "natural-proofs"
+   },
+   {
+      "count" : 6,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "domain-theory"
+   },
+   {
+      "count" : 6,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "graph-classes"
+   },
+   {
+      "count" : 6,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "linear-logic"
+   },
+   {
+      "count" : 6,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "graph-minor"
+   },
+   {
+      "count" : 6,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "approximation"
+   },
+   {
+      "count" : 6,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "logspace"
+   },
+   {
+      "count" : 5,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "convex-geometry"
+   },
+   {
+      "count" : 5,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "shannon-entropy"
+   },
+   {
+      "count" : 5,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "sorting-network"
+   },
+   {
+      "count" : 5,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "dependent-type"
+   },
+   {
+      "count" : 5,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "search-problem"
+   },
+   {
+      "count" : 5,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "np-intermediate"
+   },
+   {
+      "count" : 5,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "homomorphic-encryption"
+   },
+   {
+      "count" : 5,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "recreational"
+   },
+   {
+      "count" : 5,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "logic-programming"
+   },
+   {
+      "count" : 5,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "simplex"
+   },
+   {
+      "count" : 5,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "integrality-gap"
+   },
+   {
+      "count" : 5,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "data-mining"
+   },
+   {
+      "count" : 5,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "nexp"
+   },
+   {
+      "count" : 5,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "partition-problem"
+   },
+   {
+      "count" : 5,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "formulas"
+   },
+   {
+      "count" : 5,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : true,
+      "name" : "queueing-theory"
+   },
+   {
+      "count" : 5,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "comp-number-theory"
+   },
+   {
+      "count" : 5,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "combinatorial-game-theory"
+   },
+   {
+      "count" : 5,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "greedy-algorithms"
+   },
+   {
+      "count" : 5,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "epsilon-nets"
+   },
+   {
+      "count" : 5,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "data-sets"
+   },
+   {
+      "count" : 5,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "examples"
+   },
+   {
+      "count" : 4,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "total-ordering"
+   },
+   {
+      "count" : 4,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "chernoff-bound"
+   },
+   {
+      "count" : 4,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "polymorphism"
+   },
+   {
+      "count" : 4,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "norms"
+   },
+   {
+      "count" : 4,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "streaming"
+   },
+   {
+      "count" : 4,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "barriers"
+   },
+   {
+      "count" : 4,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "symmetry"
+   },
+   {
+      "count" : 4,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "primes"
+   },
+   {
+      "count" : 4,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "logical-relations"
+   },
+   {
+      "count" : 4,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "intuition"
+   },
+   {
+      "count" : 4,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "bioinformatics"
+   },
+   {
+      "count" : 4,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "sequent-calculus"
+   },
+   {
+      "count" : 4,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "uniformity"
+   },
+   {
+      "count" : 4,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "phase-transition"
+   },
+   {
+      "count" : 4,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "range-searching"
+   },
+   {
+      "count" : 4,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "social-sciences"
+   },
+   {
+      "count" : 4,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "gr.group-theory"
+   },
+   {
+      "count" : 4,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "extractors"
+   },
+   {
+      "count" : 4,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "submodularity"
+   },
+   {
+      "count" : 4,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "multicommodity-flow"
+   },
+   {
+      "count" : 4,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "shortest-path"
+   },
+   {
+      "count" : 4,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "polygon"
+   },
+   {
+      "count" : 4,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "arithmetic-circuits"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "delaunay-triangulation"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "fault-tolerance"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "trouble-with-paper"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "probability"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "journals"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "p-hardness"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "ni.networking-internet"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "structural-complexity"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "function"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "linear-equations"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "monotone"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "philosophy"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "privacy"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "heuristic-algorithms"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "os.operating-systems"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "stochastic-process"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "smoothed-analysis"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "authorship"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "card-games"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "boolean-matrix"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "obfuscation"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "formal-systems"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "notation"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "algebraic-topology"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "hypercomputation"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "amortized-analysis"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "random-k-sat"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "alternating-hierarchy"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "tensor-rank"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "sample-complexity"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "cliquewidth"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "transitive-closure"
+   },
+   {
+      "count" : 3,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "combinatory-logic"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "ppad"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "bounds"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "apx"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "experimental"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "mandelbrot"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "hard-instances"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "probabilistic-circuits"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "knowledge-representation"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "petri-nets"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "complexity-assumptions"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "modal-logic"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "svm"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "percolation"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "mu-calculus"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "padding"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "natural-deduction"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "measure-theory"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "transitive-reduction"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "bibliography"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "proof-techniques"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "skip-lists"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "qma"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "proof-search"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "fourier-analysis"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "object-oriented"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "parametricity"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "succinct"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "pf.performance"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "undecidability"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "cache-oblivious"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "feasible-interpolation"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "post-correspondence"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "iterated-rounding"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "constraints"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : true,
+      "name" : "ce.computational-finance"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "church-turing-thesis"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "quantum-walk"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "model-theory"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "citations"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "key-exchange"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "bounded-degree"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "untagged"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "random-graph"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "fractals"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "prefix-free-code"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "ar.hardware-architecture"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "pspace"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "evolutionary-game-theory"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "mg.metric-geometry"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "recursive"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "pi-calculus"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "simulation"
+   },
+   {
+      "count" : 2,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "high-dimensional-geometry"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "network-flow"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "random-context"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "analytical-methods"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "incidences"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "reasoning"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "sublinear-space"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "calculus-of-constructions"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "huffman"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "graph-homomorphism"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "actor-model"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "space-complexity"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "erdos-renyi"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "sublinear-algorithms"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "word-ram"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "isabelle"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "continuations"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "independence"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "anonymity"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "decidability"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "lisp"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "scheme"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "sd.sound"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "ar.computer-architecture"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "monte-carlo"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "video-games"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "counter-automata"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "unary-languages"
+   },
+   {
+      "count" : 1,
+      "is_moderator_only" : false,
+      "is_required" : false,
+      "has_synonyms" : false,
+      "name" : "exp-time-hypothesis"
+   }
+]

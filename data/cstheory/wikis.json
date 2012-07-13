@@ -1,0 +1,712 @@
+[
+   {
+      "body" : "<p><a href=\"http://en.wikipedia.org/wiki/Computability_theory\" rel=\"nofollow\">Computability theory</a> (also known as recursion theory) is a branch of mathematical logic and computer science. It is mainly concerned with <a href=\"http://en.wikipedia.org/wiki/Computability\" rel=\"nofollow\">computability</a>.</p>\n\n<p>When some resource is restricted (such as time or space), then the <a href=\"http://cstheory.stackexchange.com/questions/tagged/cc.complexity-theory\">cc.complexity-theory</a> tag is more appropriate.</p>\n",
+      "excerpt" : "Computability theory a.k.a. recursion theory.",
+      "tag_name" : "computability",
+      "excerpt_last_edit_date" : 1301759146,
+      "body_last_edit_date" : 1301759129
+   },
+   {
+      "body" : "",
+      "excerpt" : "Automata Theory, including abstract machines, grammars, parsing, grammatical inference, transducers, and finite-state techniques",
+      "tag_name" : "automata-theory",
+      "excerpt_last_edit_date" : 1301547407,
+      "body_last_edit_date" : 1301534948
+   },
+   {
+      "body" : "<p>Questions related to <a href=\"http://en.wikipedia.org/wiki/Quantum_computer\" rel=\"nofollow\">quantum computing</a>.</p>\n\n<p>See also:</p>\n\n<ul>\n<li><a href=\"http://plato.stanford.edu/entries/qt-quantcomp/\" rel=\"nofollow\">quantum computing</a> article on SEP </li>\n<li><a href=\"http://www.quantiki.org/wiki/\" rel=\"nofollow\">Quantiki</a></li>\n</ul>\n",
+      "excerpt" : "Quantum computation and computational issues related to quantum mechanics",
+      "tag_name" : "quantum-computing",
+      "excerpt_last_edit_date" : 1303281510,
+      "body_last_edit_date" : 1303282188
+   },
+   {
+      "body" : "",
+      "excerpt" : "Reference-request is used when the author needs to know about work related to the question.",
+      "tag_name" : "reference-request",
+      "excerpt_last_edit_date" : 1299811374,
+      "body_last_edit_date" : 1299806893
+   },
+   {
+      "body" : "<p><a href=\"http://en.wikipedia.org/wiki/Graph_theory\" rel=\"nofollow\">Graph theory</a> is part of discrete mathematics which studies <a href=\"http://en.wikipedia.org/wiki/Graph_%28mathematics%29\" rel=\"nofollow\">graphs</a>, mathematical structures used to model pairwise relations between objects.</p>\n",
+      "excerpt" : "Graph theory is the study of graphs, mathematical structures used to model pairwise relations between objects.",
+      "tag_name" : "graph-theory",
+      "excerpt_last_edit_date" : 1290350841,
+      "body_last_edit_date" : 1290350841
+   },
+   {
+      "body" : "<p><a href=\"http://en.wikipedia.org/wiki/Combinatorics\" rel=\"nofollow\">Combinatorics</a> deals with discrete mathematical structures.  The structures can be either finite or countable. Some subfields are</p>\n\n<ul>\n<li>(<a href=\"http://en.wikipedia.org/wiki/Enumerative_combinatorics\" rel=\"nofollow\">Enumerative combinatorics</a>) counting the number of structures in a collection,</li>\n<li>(<a href=\"http://en.wikipedia.org/wiki/Combinatorial_design\" rel=\"nofollow\">Combinatorial design</a>) proving a collection is non-empty,</li>\n<li>(<a href=\"http://en.wikipedia.org/wiki/Extremal_combinatorics\" rel=\"nofollow\">Extremal combinatorics</a>) finding maximal/minimal objects in a collection,</li>\n<li>(<a href=\"http://en.wikipedia.org/wiki/Graph_theory\" rel=\"nofollow\">Graph theory</a>).</li>\n</ul>\n\n<p><a href=\"http://en.wikipedia.org/wiki/Algebraic_combinatorics\" rel=\"nofollow\">Algebraic</a>/<a href=\"http://en.wikipedia.org/wiki/Probabilistic_combinatorics\" rel=\"nofollow\">probabilistic</a>/<a href=\"http://en.wikipedia.org/wiki/Analytic_combinatorics\" rel=\"nofollow\">analytic</a> methods are all useful in combinatorics.</p>\n\n<p>For problems studying the complexity of computations on discrete structures, <a href=\"/questions/tagged/ds.algorithms\" class=\"post-tag\" title=\"show questions tagged 'ds.algorithms'\" rel=\"tag\">ds.algorithms</a> or <a href=\"/questions/tagged/cc.complexity-theory\" class=\"post-tag\" title=\"show questions tagged 'cc.complexity-theory'\" rel=\"tag\">cc.complexity-theory</a> is more appropriate.</p>\n",
+      "excerpt" : "Questions related to combinatorics and discrete mathematical structures",
+      "tag_name" : "co.combinatorics",
+      "excerpt_last_edit_date" : 1333233245,
+      "body_last_edit_date" : 1333233244
+   },
+   {
+      "body" : "<p>In complexity theory, <a href=\"http://en.wikipedia.org/wiki/NP-hard\" rel=\"nofollow\">NP-hard problems</a> are, informally speaking, problems which are at least as hard as all problems in <a href=\"http://qwiki.stanford.edu/index.php/Complexity_Zoo%3aN#np\" rel=\"nofollow\">NP</a>.  Difficulty of problems is compared by constructing reductions from one problem to the other.</p>\n\n<p>NP-hard problems which themselves belong to NP are called <a href=\"http://en.wikipedia.org/wiki/NP-complete\" rel=\"nofollow\">NP-complete problems</a>.  More informally, NP-complete problems are the hardest problems in NP.</p>\n",
+      "excerpt" : "Questions related to NP-hardness and NP-completeness.",
+      "tag_name" : "np-hardness",
+      "excerpt_last_edit_date" : 1290283760,
+      "body_last_edit_date" : 1290283760
+   },
+   {
+      "body" : "<p>Questions about computational <a href=\"http://en.wikipedia.org/wiki/Complexity_class\" rel=\"nofollow\">complexity classes</a>.</p>\n\n<p>Please check the <a href=\"http://qwiki.stanford.edu/index.php/Complexity_Zoo\" rel=\"nofollow\">Complexity Zoo</a> before asking a question about relations between complexity classes.</p>\n",
+      "excerpt" : "Computational complexity classes and their relations",
+      "tag_name" : "complexity-classes",
+      "excerpt_last_edit_date" : 1301431222,
+      "body_last_edit_date" : 1301431222
+   },
+   {
+      "body" : "<p>An <a href=\"http://en.wikipedia.org/wiki/Approximation_algorithm\" rel=\"nofollow\">approximation algorithm</a> for an optimization problem is an algorithm which finds a feasible solution, with a guarantee on how close the objective value of the solution produced by the algorithm is to the optimal value.</p>\n\n<p>A question about the intrinsic difficulty of approximation should be tagged as <a href=\"/questions/tagged/approximation-hardness\" class=\"post-tag\" title=\"show questions tagged 'approximation-hardness'\" rel=\"tag\">approximation-hardness</a>.</p>\n",
+      "excerpt" : "Questions about approximation algorithms.",
+      "tag_name" : "approximation-algorithms",
+      "excerpt_last_edit_date" : 1290299547,
+      "body_last_edit_date" : 1290284975
+   },
+   {
+      "body" : "<p>The <code>soft-question</code> tag is often confused with the <code>big-picture</code> tag, which serves a different purpose. The difference between the two is explained <a href=\"http://meta.cstheory.stackexchange.com/questions/182/big-picture-vs-soft-question/183#183\">here</a>.</p>\n\n<p><strong>Examples:</strong></p>\n\n<ul>\n<li>How would you teach X to undergrads?</li>\n<li>Why computer scientists do X when Y happens?</li>\n<li>Is theoretical computer science part of pure math?</li>\n<li>How long will it take to settle P vs NP in your opinion?</li>\n</ul>\n",
+      "excerpt" : "A soft question is a question (possibly subjective) about the field of theoretical computer science as opposed to being a question in theoretical computer science.",
+      "tag_name" : "soft-question",
+      "excerpt_last_edit_date" : 1316551987,
+      "body_last_edit_date" : 1284947789
+   },
+   {
+      "body" : "<p><a href=\"http://en.wikipedia.org/wiki/Computational_complexity_theory\" rel=\"nofollow\">Computational complexity</a> is about the inherent difficulty of computational problems, <em>when some resource is limited</em>.</p>\n\n<p>Time and space are the most common resource limits.  These restrict the number of steps or tape squares that a Turing machine may use.  Less common limits are the number of alternations, nondeterministic steps, bits of advice, or quantum bits used in the computation.</p>\n\n<p>In the $\\rm{P} \\overset{?}{=} \\rm{NP}$ question, time is polynomially bounded in the size of the input.  This question asks whether polynomially many nondeterministic steps can decide some problem for which polynomially many deterministic steps is not enough.</p>\n\n<p><a href=\"http://cstheory.stackexchange.com/questions/tagged/computability\"><code>Computability</code></a> is a better tag when only very weak limits are placed on the allowed computations, for instance when the computation may use any finite amount of time.</p>\n\n<p>For interactions that can continue indefinitely, consider instead the tag <a href=\"http://cstheory.stackexchange.com/questions/tagged/distributed-systems\"><code>distributed-systems</code></a>.</p>\n",
+      "excerpt" : "P versus NP and other resource-bounded computation.",
+      "tag_name" : "cc.complexity-theory",
+      "excerpt_last_edit_date" : 1302001622,
+      "body_last_edit_date" : 1288631142
+   },
+   {
+      "body" : "",
+      "excerpt" : "Questions about properties and applications of data structures.",
+      "tag_name" : "ds.data-structures",
+      "excerpt_last_edit_date" : 1302213905,
+      "body_last_edit_date" : 1302203142
+   },
+   {
+      "body" : "<p>Questions tagged with <code>ds.algorithms</code> are generally asking an <a href=\"http://en.wikipedia.org/wiki/Algorithm\" rel=\"nofollow\">algorithm</a> for a specific task, or asking to analyze some specific algorithm (different types of analysis are listed in <a href=\"http://cstheory.stackexchange.com/q/894/873\">this topic</a>). </p>\n\n<p>In the former case, it is possible to ask an algorithm for a specific task, <em>whose resource (time/memory/etc.) consumption is somehow bounded</em>.</p>\n\n<p>Questions which seek the intrinsic difficulty of some <strong>problem</strong> (rather than some specific <strong>algorithm</strong>) are better be tagged with \n<a href=\"http://cstheory.stackexchange.com/tags/cc.complexity-theory/info\"><code>cc.complexity-theory</code></a>.</p>\n",
+      "excerpt" : "Questions regarding well-defined instructions for completing a task, and relevant analysis in terms of time/memory/etc.",
+      "tag_name" : "ds.algorithms",
+      "excerpt_last_edit_date" : 1296603859,
+      "body_last_edit_date" : 1288724022
+   },
+   {
+      "body" : "",
+      "excerpt" : "Computational Geometry is the study of geometric problems from a computational perspective. Examples of problems include: computation of geometric objects such as convex hulls, dimensionality reduction, shortest path problems in metric spaces, or finding a small subset of points that approximates some measure of the whole set (i.e. a coreset).",
+      "tag_name" : "cg.comp-geom",
+      "excerpt_last_edit_date" : 1299790865,
+      "body_last_edit_date" : 1299790188
+   },
+   {
+      "body" : "<p>This tag is used for <a href=\"http://en.wikipedia.org/wiki/Logic_in_computer_science\" rel=\"nofollow\">Logic in Computer Science</a> and <a href=\"http://en.wikipedia.org/wiki/Mathematical_logic\" rel=\"nofollow\">Mathematical Logic</a> questions, corresponding to <a href=\"http://arxiv.org/list/cs.LO/\" rel=\"nofollow\">cs.LO</a> and <a href=\"http://arxiv.org/list/math.LO/\" rel=\"nofollow\">math.Lo</a> tags on arXive.</p>\n",
+      "excerpt" : "Computational and mathematical logic.",
+      "tag_name" : "lo.logic",
+      "excerpt_last_edit_date" : 1301759220,
+      "body_last_edit_date" : 1288936476
+   },
+   {
+      "body" : "",
+      "excerpt" : "Programming languages, in particular, focussing on their semantics.",
+      "tag_name" : "pl.programming-languages",
+      "excerpt_last_edit_date" : 1302002288,
+      "body_last_edit_date" : 1302002288
+   },
+   {
+      "body" : "<p>Any algorithm on graphs for which correctness and complexity can be analysed is proper for this tag. </p>\n\n<p>For heuristics about graph problems that can not be analysed in theory, <a href=\"/questions/tagged/heuristics\" class=\"post-tag\" title=\"show questions tagged 'heuristics'\" rel=\"tag\">heuristics</a> is more appropriate. Problems about properties of graphs should be tagged <a href=\"/questions/tagged/graph-theory\" class=\"post-tag\" title=\"show questions tagged 'graph-theory'\" rel=\"tag\">graph-theory</a>. Problems about general algorithms (not specifically about graphs) should be tagged <a href=\"/questions/tagged/ds.algorithms\" class=\"post-tag\" title=\"show questions tagged 'ds.algorithms'\" rel=\"tag\">ds.algorithms</a>.</p>\n",
+      "excerpt" : "Algorithms on graphs, excluding heuristics.",
+      "tag_name" : "graph-algorithms",
+      "excerpt_last_edit_date" : 1302001673,
+      "body_last_edit_date" : 1302001662
+   },
+   {
+      "body" : "<p><strong>Cryptography</strong> is the practice and study of hiding information. (Information) <strong>security</strong> means protecting information and information systems from unauthorized access, use, disclosure, disruption, modification, perusal, inspection, recording or destruction.</p>\n\n<p>Questions regarding cryptography/security can be roughly divided into two general types: <strong>Theoretical</strong> questions, and <strong>practical</strong> questions. </p>\n\n<p>Examples of theoretical questions:</p>\n\n<ol>\n<li>What assumptions are needed for the existence of cryptographic construct X?</li>\n<li>How cipher X is proved to be secure?</li>\n<li>Can we use cryptographic construct X to design protocol Y?</li>\n</ol>\n\n<p>Examples of applied questions:</p>\n\n<ol>\n<li>How can I fix application X to prevent stack overflow?</li>\n<li>What tools are available to check a site against XSS?</li>\n<li>Which one is faster: OpenSSL or Crypto++?</li>\n</ol>\n\n<p>Please note that we only answer research-level <em>theoretical questions</em> here. Asking an <em>applied question</em> will usually result in the question being <strong>down-voted</strong> and <strong>closed</strong>. To ask an applied question, you are advised to try <a href=\"http://stackoverflow.com/\">StackOverflow</a> or <a href=\"http://security.stackexchange.com/\">IT Security</a>.</p>\n",
+      "excerpt" : "Theoretical aspects of cryptography and information security.",
+      "tag_name" : "cr.crypto-security",
+      "excerpt_last_edit_date" : 1301759215,
+      "body_last_edit_date" : 1301759200
+   },
+   {
+      "body" : "<p>Question about <a href=\"http://en.wikipedia.org/wiki/Formal_language\" rel=\"nofollow\">formal languages</a> including <a href=\"http://en.wikipedia.org/wiki/Automata_theory\" rel=\"nofollow\">automata theory</a>, <a href=\"http://en.wikipedia.org/wiki/Formal_grammar\" rel=\"nofollow\">grammars</a>.</p>\n\n<p>Roughly corresponds to arXiv tag<a href=\"http://arxiv.org/list/cs.FL/\" rel=\"nofollow\">cs.FL</a> and <a href=\"http://www.acm.org/about/class/ccs98-html\" rel=\"nofollow\">ACM Subject Classes</a> F.1.1, and F.4.3.</p>\n\n<p>For question about computability and Turing machines <a href=\"/questions/tagged/computability\" class=\"post-tag\" title=\"show questions tagged 'computability'\" rel=\"tag\">computability</a> tag should be used.</p>\n",
+      "excerpt" : "formal languages, grammars, automata theory",
+      "tag_name" : "fl.formal-languages",
+      "excerpt_last_edit_date" : 1301435611,
+      "body_last_edit_date" : 1301435611
+   },
+   {
+      "body" : "<p>General questions about selecting a best element from some set of available alternatives.</p>\n",
+      "excerpt" : "general questions about selecting a best element from some set of available alternatives.",
+      "tag_name" : "optimization",
+      "excerpt_last_edit_date" : 1327653837,
+      "body_last_edit_date" : 1327653841
+   },
+   {
+      "body" : "<p>This tag should be used for <em>theoretical</em> questions related to Machine Learning (roughly falling under <a href=\"http://arxiv.org/archive/cs\" rel=\"nofollow\">arXiv</a>'s <a href=\"http://arxiv.org/list/cs.LG/recent\" rel=\"nofollow\">cs.LG - Learning</a>).</p>\n\n<p>The question <em>must</em> satisfy the usual scope requirements for cstheory as explained in the <a href=\"http://cstheory.stackexchange.com/faq\">FAQ</a>.</p>\n\n<p>You may also want to check AI Q&amp;A site <a href=\"http://metaoptimize.com/qa/\" rel=\"nofollow\">Meta Optimize</a> which has a more general AI scope.</p>\n",
+      "excerpt" : "Theoretical questions about Machine learning, especially Computational Learning Theory, including Algorithmic Learning Theory, PAC learning, and Bayesian Inference",
+      "tag_name" : "machine-learning",
+      "excerpt_last_edit_date" : 1313641796,
+      "body_last_edit_date" : 1313643149
+   },
+   {
+      "body" : "<p><a href=\"http://en.wikipedia.org/wiki/Circuit_complexity\" rel=\"nofollow\">Circuit complexity</a> is a branch of complexity theory that studies circuits (usually Boolean circuits) and their associated functions in terms of their size, depth, gate set, fanin, etc.</p>\n",
+      "excerpt" : "Circuit complexity is the study of resource-bounded circuits and the functions computed by such circuits.",
+      "tag_name" : "circuit-complexity",
+      "excerpt_last_edit_date" : 1316966478,
+      "body_last_edit_date" : 1316966465
+   },
+   {
+      "body" : "<p>Use for questions related to complexity lowerbounds (including computational/circuit/communication/proof/... complexity lowerbounds).</p>\n\n<p>Typically a lowerbound is a result showing that a problem cannot be computed by certain amount of resources, and demonstrates the difficulty of solving the problem. </p>\n\n<p>A hardness result (a.k.a universality) should not be confused with a lowerbound result. Hardness of a problem for a class means that a problem is as difficult as any other problem in that class, whereas a lowerbound for a problem shows that the problem is outside that class. For hardness results please use <a href=\"/questions/tagged/hardness\" class=\"post-tag\" title=\"show questions tagged 'hardness'\" rel=\"tag\">hardness</a>.</p>\n",
+      "excerpt" : "complexity lowerbounds",
+      "tag_name" : "lower-bounds",
+      "excerpt_last_edit_date" : 1303281680,
+      "body_last_edit_date" : 1315750658
+   },
+   {
+      "body" : "<p>Use if the question will not have an answer to be accepted but the answers will be a list of items, e.g. </p>\n\n<ul>\n<li>\"<a href=\"http://cstheory.stackexchange.com/questions/1168/what-papers-should-everyone-read\">what papers should everyone read?</a>\", </li>\n<li>\"<a href=\"http://cstheory.stackexchange.com/questions/174/major-unsolved-problems-in-theoretical-computer-science\">What are the major unsolved problems in theoretical computer science?</a>\", </li>\n<li>\"<a href=\"http://cstheory.stackexchange.com/questions/121/using-error-correcting-codes-in-theory\">What are the uses of error-correcting codes in theory?</a>\". </li>\n</ul>\n\n<p>See the questions tagged with <a href=\"/questions/tagged/big-list\" class=\"post-tag\" title=\"show questions tagged 'big-list'\" rel=\"tag\">big-list</a> for more examples.</p>\n\n<p>It is also common (but not always necessary) to make a <a href=\"/questions/tagged/big-list\" class=\"post-tag\" title=\"show questions tagged 'big-list'\" rel=\"tag\">big-list</a> question a Community Wiki.</p>\n",
+      "excerpt" : "Questions whose answers are a big list of items (books, theorems, software, ...)",
+      "tag_name" : "big-list",
+      "excerpt_last_edit_date" : 1300163845,
+      "body_last_edit_date" : 1300248920
+   },
+   {
+      "body" : "<p>The tag <a href=\"/questions/tagged/sat\" class=\"post-tag\" title=\"show questions tagged 'sat'\" rel=\"tag\">sat</a> refers to <a href=\"http://en.wikipedia.org/wiki/Boolean_satisfiability_problem\" rel=\"nofollow\">SAT</a>, the Boolean satisfiability problem.</p>\n",
+      "excerpt" : "SAT stands for the Boolean satisfiability problem.",
+      "tag_name" : "sat",
+      "excerpt_last_edit_date" : 1285622899,
+      "body_last_edit_date" : 1290386345
+   },
+   {
+      "body" : "<p>This tag should be used for <em>theoretical</em> questions related to Distributed Computing (roughly falling under <a href=\"http://arxiv.org/archive/cs\" rel=\"nofollow\">arXiv</a>'s <a href=\"http://arxiv.org/list/cs.IT/recent\" rel=\"nofollow\">cs.IT - Information Theory</a>).</p>\n",
+      "excerpt" : "Questions in Information Theory",
+      "tag_name" : "it.information-theory",
+      "excerpt_last_edit_date" : 1313643316,
+      "body_last_edit_date" : 1313643316
+   },
+   {
+      "body" : "",
+      "excerpt" : "Questions regarding the complexity of a particular algorithm or relations among time-bounded complexity classes",
+      "tag_name" : "time-complexity",
+      "excerpt_last_edit_date" : 1319644904,
+      "body_last_edit_date" : 1319644805
+   },
+   {
+      "body" : "<p>Mathematical and computational method for finding the best outcome in a given mathematical model where the list of requirements is represented as linear relationships.</p>\n",
+      "excerpt" : "Mathematical and computational method for finding the best outcome in a given mathematical model where the list of requirements is represented as linear relationships.",
+      "tag_name" : "linear-programming",
+      "excerpt_last_edit_date" : 1342067843,
+      "body_last_edit_date" : 1342067821
+   },
+   {
+      "body" : "<p>Questions about definitions, terms, and common names in theoretical computer science.</p>\n",
+      "excerpt" : "questions about definitions, terms, and common names in theoretical computer science.",
+      "tag_name" : "terminology",
+      "excerpt_last_edit_date" : 1327653835,
+      "body_last_edit_date" : 1327653836
+   },
+   {
+      "body" : "<p>The <code>big-picture</code> tag is for questions that have a larger scope. They might have a very specific answer (and so would not automatically require a CW tag), but they are more philosophical in nature. One good example of a big-picture question is</p>\n\n<ul>\n<li><a href=\"http://cstheory.stackexchange.com/questions/1233/semantic-vs-syntactic-complexity-classes\">Semantic vs. Syntactic Complexity Classes</a></li>\n</ul>\n\n<p>because it's asking a specific question (\"what is the meaning of a semantic complexity class\"), but it's also exploring the deeper meaning behind the intent of such classes. </p>\n",
+      "excerpt" : "The big picture tag is for a &quot;broad, overall view or perspective of an issue or problem.&quot;",
+      "tag_name" : "big-picture",
+      "excerpt_last_edit_date" : 1284947951,
+      "body_last_edit_date" : 1284354968
+   },
+   {
+      "body" : "",
+      "excerpt" : "Type structure is a syntactic discipline for enforcing levels of abstraction. ",
+      "tag_name" : "type-theory",
+      "excerpt_last_edit_date" : 1301991640,
+      "body_last_edit_date" : 1301991626
+   },
+   {
+      "body" : "<p>This tag is for questions related to hardness of approximation (also called inapproximability) of optimization problems.</p>\n\n<ul>\n<li>Please consider adding also <a href=\"/questions/tagged/cc.complexity-theory\" class=\"post-tag\" title=\"show questions tagged 'cc.complexity-theory'\" rel=\"tag\">cc.complexity-theory</a>.</li>\n<li>Questions specifically related to probabilistically checkable proofs are better tagged as <a href=\"/questions/tagged/pcp\" class=\"post-tag\" title=\"show questions tagged 'pcp'\" rel=\"tag\">pcp</a>.</li>\n<li>Questions about approximation algorithms rather than hardness should be tagged as <a href=\"/questions/tagged/approximation-algorithms\" class=\"post-tag\" title=\"show questions tagged 'approximation-algorithms'\" rel=\"tag\">approximation-algorithms</a>.</li>\n<li>Questions about NP-hardness of solving optimization problems exactly rather than approximately should be tagged as <a href=\"/questions/tagged/np-hardness\" class=\"post-tag\" title=\"show questions tagged 'np-hardness'\" rel=\"tag\">np-hardness</a>.</li>\n</ul>\n",
+      "excerpt" : "Hardness of approximation, aka inapproximability.",
+      "tag_name" : "approximation-hardness",
+      "excerpt_last_edit_date" : 1290401246,
+      "body_last_edit_date" : 1290401246
+   },
+   {
+      "body" : "<p>This tag should be used for <em>theoretical</em> questions related to Parallel Computing (roughly falling under <a href=\"http://arxiv.org/archive/cs\" rel=\"nofollow\">arXiv</a>'s <a href=\"http://arxiv.org/list/cs.DC/recent\" rel=\"nofollow\">cs.DC - Distributed, Parallel, and Cluster Computing</a>).</p>\n\n<p>The question <em>must</em> satisfy the usual scope requirements for cstheory as explained in the <a href=\"http://cstheory.stackexchange.com/faq\">FAQ</a>.</p>\n",
+      "excerpt" : "Theoretical questions in Parallel Computing",
+      "tag_name" : "dc.parallel-comp",
+      "excerpt_last_edit_date" : 1313643129,
+      "body_last_edit_date" : 1313643129
+   },
+   {
+      "body" : "<p>Tag <a href=\"/questions/tagged/lg.learning\" class=\"post-tag\" title=\"show questions tagged 'lg.learning'\" rel=\"tag\">lg.learning</a> refers to the research area of <a href=\"http://en.wikipedia.org/wiki/Machine_learning\" rel=\"nofollow\">machine learning</a>, and <a href=\"http://en.wikipedia.org/wiki/Computational_learning_theory\" rel=\"nofollow\">learning theory</a> specifically (falling under <a href=\"http://arxiv.org/archive/cs\" rel=\"nofollow\">arXiv</a>'s <a href=\"http://arxiv.org/list/cs.LG/recent\" rel=\"nofollow\">cs.LG - Learning</a>), as opposed to the general practice of learning.  This tag includes the theory of PAC learning, algorithmic learning theory, and computational aspects of Bayesian inference and graphical models.  Questions about implementation issues and statistical properties of machine learning systems are more likely to be welcomed at the <a href=\"http://stats.stackexchange.com/\">CrossValidated</a> or <a href=\"http://metaoptimize.com/qa/\" rel=\"nofollow\">MetaOptimize Q&amp;A</a> sites.</p>\n\n<p>The questions <em>must</em> satisfy the usual scope requirements for cstheory as explained in the <a href=\"http://cstheory.stackexchange.com/faq\">FAQ</a>.</p>\n",
+      "excerpt" : "Machine learning and learning theory.",
+      "tag_name" : "lg.learning",
+      "excerpt_last_edit_date" : 1302001669,
+      "body_last_edit_date" : 1313642581
+   },
+   {
+      "body" : "<p>This tag should be used for <em>theoretical</em> questions related to Distributed Computing (roughly falling under <a href=\"http://arxiv.org/archive/cs\" rel=\"nofollow\">arXiv</a>'s <a href=\"http://arxiv.org/list/cs.DC/recent\" rel=\"nofollow\">cs.DC - Distributed, Parallel, and Cluster Computing</a>).</p>\n\n<p>The question <em>must</em> satisfy the usual scope requirements for cstheory as explained in the <a href=\"http://cstheory.stackexchange.com/faq\">FAQ</a>.</p>\n",
+      "excerpt" : "Theoretical questions in Distributed Computing",
+      "tag_name" : "dc.distributed-comp",
+      "excerpt_last_edit_date" : 1313642836,
+      "body_last_edit_date" : 1313642836
+   },
+   {
+      "body" : "<p>Counting complexity requires counting the number of distinct solutions.  These function problems are at least as difficult as deciding if the instance has a solution.</p>\n\n<p>Counting complexity most commonly refers to <a href=\"http://qwiki.stanford.edu/index.php/Complexity_Zoo%3aSymbols#sharpp\" rel=\"nofollow\">#P</a> (number-P or sharp-P).  Each problem in #P requires computing the number of accepting paths of a nondeterministic Turing machine which runs in polynomial time.  #P-complete problems include #SAT and counting the number of solutions of many NP-complete decision problems.  However, counting the number of perfect matchings in a bipartite graph is also #P-complete: deciding whether a bipartite graph has a perfect matching can be established in polynomial time.  The same applies to #2-SAT: the decision version is in P.</p>\n",
+      "excerpt" : "How hard is counting the number of solutions?",
+      "tag_name" : "counting-complexity",
+      "excerpt_last_edit_date" : 1301841763,
+      "body_last_edit_date" : 1301841759
+   },
+   {
+      "body" : "<p>This tag should be used for <em>theoretical</em> questions related to Artificial Intelligence  (roughly falling under <a href=\"http://arxiv.org/archive/cs\" rel=\"nofollow\">arXiv</a>'s <a href=\"http://arxiv.org/list/cs.AI/recent\" rel=\"nofollow\">cs.AI - Artificial Intelligence</a>).</p>\n\n<p>The question <em>must</em> satisfy the usual scope requirements for cstheory as explained in the <a href=\"http://cstheory.stackexchange.com/faq\">FAQ</a>.</p>\n\n<p>You may also want to check AI Q&amp;A site <a href=\"http://metaoptimize.com/qa/\" rel=\"nofollow\">Meta Optimize</a> which has a more general AI scope.</p>\n",
+      "excerpt" : "Theoretical questions about Artificial Intelligence ",
+      "tag_name" : "ai.artificial-intel",
+      "excerpt_last_edit_date" : 1313642187,
+      "body_last_edit_date" : 1313642187
+   },
+   {
+      "body" : "",
+      "excerpt" : "Given a sequence of elements, find a permutation such that the elements are in a certain order.",
+      "tag_name" : "sorting",
+      "excerpt_last_edit_date" : 1331592397,
+      "body_last_edit_date" : 1331592271
+   },
+   {
+      "body" : "<p>Any studies on the space resources of computations are within the scope of space-bounded complexity. Complexity classes like <a href=\"http://en.wikipedia.org/wiki/L_%28complexity%29\" rel=\"nofollow\">logspace L</a> and <a href=\"http://en.wikipedia.org/wiki/NL_%28complexity%29\" rel=\"nofollow\">NL</a> are the center of studies in space-bounded computations, while other restrictions like <a href=\"http://en.wikipedia.org/wiki/PSPACE\" rel=\"nofollow\">polynomial space</a> are also important. </p>\n\n<p><a href=\"/questions/tagged/complexity-classes\" class=\"post-tag\" title=\"show questions tagged 'complexity-classes'\" rel=\"tag\">complexity-classes</a> is more suitable if the question is about the relations between a space-bounded class and other classes. </p>\n",
+      "excerpt" : "Questions concern specifically in space resources of computations in complexity theory or algorithms.",
+      "tag_name" : "space-bounded",
+      "excerpt_last_edit_date" : 1292294928,
+      "body_last_edit_date" : 1292294928
+   },
+   {
+      "body" : "<p>Use this tag if:</p>\n\n<ul>\n<li><strong>well-known open problems</strong>: the problem is equivalent to a well-known <a href=\"http://en.wikipedia.org/wiki/Open_problem\" rel=\"nofollow\">open problem</a> in the literature</li>\n<li><strong>community open problems</strong>: the question is not answered after considerable time and the community decides that the question is an open problem (<a href=\"http://meta.cstheory.stackexchange.com/\">meta</a> can be used for discussions)</li>\n</ul>\n\n<hr>\n\n<p><a href=\"http://cstheory.stackexchange.com/\">cstheory</a> is <strong>not</strong> the right place to ask <strong>well-known open problems</strong>. You should post questions you're actually seriously thinking about. If you're thinking about a well-known open problem, provide some background and ask about something specific related to the problem, like \"Such and such is a well-known open problem. So-and-so proposed this and that approach. Does anybody know if this aspect of their proposal can be made to work under these circumstances?\" If you want to contribute to (or view) a list of open problems, visit the <a href=\"http://garden.irmacs.sfu.ca/\" rel=\"nofollow\">Open Problem Garden</a>.</p>\n\n<p>If it turns out that a problem is equivalent to a well-known open problem, then the <a href=\"/questions/tagged/open-problem\" class=\"post-tag\" title=\"show questions tagged 'open-problem'\" rel=\"tag\">open-problem</a> tag is added. After that, the question essentially becomes, \"What is known about this problem? What are some possible ways to approach this problem? What are some ways that people have tried to attack it before, and with what results?\" That way, the cstheory thread for the problem becomes a repository of resources related to the problem. Perhaps the answers could be organized by approach, with an outline of the basic approach, followed by a horizontal rule and a summary of what is promising about the approach and why it doesn't give a complete solution.</p>\n\n<p>To join the discussion about how cstheory should deal with open problems, go to <a href=\"http://meta.cstheory.stackexchange.com/questions/1058/tag-wiki-open-problem\">this</a> meta cstheory thread.</p>\n",
+      "excerpt" : "Problems known to be open in the literature and any problem that, after being posed, is decided to be open by the community.",
+      "tag_name" : "open-problem",
+      "excerpt_last_edit_date" : 1300161579,
+      "body_last_edit_date" : 1300613667
+   },
+   {
+      "body" : "",
+      "excerpt" : "A tree is a special type of graph which only allows for a hierarchical set of edges similar to a tree . Mathematically it is actually an arborescence. Trees have a root node and children nodes. In formal terms it is described as a acyclic connected graph.",
+      "tag_name" : "tree",
+      "excerpt_last_edit_date" : 1313511469,
+      "body_last_edit_date" : 1313511201
+   },
+   {
+      "body" : "",
+      "excerpt" : "A reduction is the transformation of one problem into another problem. A example of using a reduction would be to be to show if a problem P is undecidable. This would be achieved by transforming or performing a reduction of a decision problem $P$ into a undecidable problem. If this can be achieved then we have shown that this problem P is undecidable.",
+      "tag_name" : "reductions",
+      "excerpt_last_edit_date" : 1315284165,
+      "body_last_edit_date" : 1315236274
+   },
+   {
+      "body" : "<p>For questions related to the complexity class <a href=\"http://en.wikipedia.org/wiki/NP_%28complexity%29\" rel=\"nofollow\">NP</a>.</p>\n",
+      "excerpt" : "NP stands for Nondeterministic Polynomial time.",
+      "tag_name" : "np",
+      "excerpt_last_edit_date" : 1284933884,
+      "body_last_edit_date" : 1284933884
+   },
+   {
+      "body" : "",
+      "excerpt" : "An algorithm whose behaviour is determined by its input and a generator producing uniformly random numbers.",
+      "tag_name" : "randomized-algorithms",
+      "excerpt_last_edit_date" : 1331566584,
+      "body_last_edit_date" : 1331554755
+   },
+   {
+      "body" : "<p>This tag should be used for <em>theoretical</em> questions related to Computer Science and Game Theory (roughly falling under <a href=\"http://arxiv.org/archive/cs\" rel=\"nofollow\">arXiv</a>'s <a href=\"http://arxiv.org/list/cs.GT/recent\" rel=\"nofollow\">cs.GT - Computer Science and Game Theory</a>) e.g. Algorithmic Game Theory.</p>\n\n<p>The question <em>must</em> satisfy the usual scope requirements for cstheory as explained in the <a href=\"http://cstheory.stackexchange.com/faq\">FAQ</a>.</p>\n",
+      "excerpt" : "Theoretical question related to Computer Science and Game Theory",
+      "tag_name" : "gt.game-theory",
+      "excerpt_last_edit_date" : 1313643003,
+      "body_last_edit_date" : 1313643003
+   },
+   {
+      "body" : "<p>Practical questions about doing research in theoretical computer science</p>\n",
+      "excerpt" : "practical questions about doing research in theoretical computer science",
+      "tag_name" : "advice-request",
+      "excerpt_last_edit_date" : 1327653839,
+      "body_last_edit_date" : 1327653814
+   },
+   {
+      "body" : "<p>This tag should be used for questions about the conduct of research in TCS. </p>\n",
+      "excerpt" : "Questions relating to the *practice* of research in theoryCS",
+      "tag_name" : "research-practice",
+      "excerpt_last_edit_date" : 1322469418,
+      "body_last_edit_date" : 1322469418
+   },
+   {
+      "body" : "<p>This tag should be used for <em>theoretical</em> questions related to Databases (roughly falling under <a href=\"http://arxiv.org/archive/cs\" rel=\"nofollow\">arXiv</a>'s <a href=\"http://arxiv.org/list/cs.DB/recent\" rel=\"nofollow\">cs.DB - Databases</a>).</p>\n\n<p>The question <em>must</em> satisfy the usual scope requirements for cstheory as explained in the <a href=\"http://cstheory.stackexchange.com/faq\">FAQ</a>.</p>\n",
+      "excerpt" : "Theoretical questions in Databases",
+      "tag_name" : "db.databases",
+      "excerpt_last_edit_date" : 1313643414,
+      "body_last_edit_date" : 1313643414
+   },
+   {
+      "body" : "<p>Use this tag if the question is motivated by an application outside theoretical computer science.</p>\n\n<p>The <em>research-level</em> requirement is generally more relaxed for application-of-theory questions, but the OP is usually expected to provide some background information about the application as a motivation for the question.</p>\n",
+      "excerpt" : "Theoretical questions arising from applications of theoretical computer science in other areas of computer science research/practice or other subjects",
+      "tag_name" : "application-of-theory",
+      "excerpt_last_edit_date" : 1301694802,
+      "body_last_edit_date" : 1301694728
+   },
+   {
+      "body" : "<p>Questions about attaining and maintaining a career in fields related to theoretical computer science</p>\n",
+      "excerpt" : "questions about attaining and maintaining a career in fields related to theoretical computer science",
+      "tag_name" : "career",
+      "excerpt_last_edit_date" : 1327653839,
+      "body_last_edit_date" : 1327653828
+   },
+   {
+      "body" : "",
+      "excerpt" : "Descriptive complexity classifies problems based on how\r\nhard it is to express the problem in some logical formalism.",
+      "tag_name" : "descriptive-complexity",
+      "excerpt_last_edit_date" : 1329227110,
+      "body_last_edit_date" : 1329224934
+   },
+   {
+      "body" : "",
+      "excerpt" : "The history behind the topics: where their name comes from, who discovered them, when they were first proved, how they evolved during the years.",
+      "tag_name" : "ho.history-overview",
+      "excerpt_last_edit_date" : 1319649505,
+      "body_last_edit_date" : 1319645938
+   },
+   {
+      "body" : "<p>The tag <a href=\"http://en.wikipedia.org/wiki/Mathematical_proof\" rel=\"nofollow\">proofs</a> is used for questions about existing or possible proofs of a specific theorem or a conjecture.</p>\n\n<p>Question on proofs in more specific sense should use more other tags like: [formal-methods], [proof-theory], [proof-search], [automated-theorem-proving], [proof-complexity], [interactive-proofs], [proof-assistants], [natural-proofs].</p>\n",
+      "excerpt" : "Used for questions about existing or possible proofs of a specific theorem or conjecture",
+      "tag_name" : "proofs",
+      "excerpt_last_edit_date" : 1289883847,
+      "body_last_edit_date" : 1289883847
+   },
+   {
+      "body" : "<p>Parameterized complexity is the study of the computational complexity of problems with respect to more than one parameter, with the idea of isolating those parameters that might contribute to the intrinsic complexity of the problem. For more info, visit the <a href=\"http://fpt.wikidot.com/\" rel=\"nofollow\">parameterized complexity wiki</a>. </p>\n",
+      "tag_name" : "parameterized-complexity",
+      "excerpt_last_edit_date" : 1284871574,
+      "body_last_edit_date" : 1284871574
+   },
+   {
+      "body" : "",
+      "excerpt" : "A graph G is isomorphic to a graph H if there is a relabeling of the vertices of G that produces H, and vice-versa. The graph-isomorphism problem (GI) is that of deciding whether graphs G and H are isomorphic.",
+      "tag_name" : "graph-isomorphism",
+      "excerpt_last_edit_date" : 1302057359,
+      "body_last_edit_date" : 1302048658
+   },
+   {
+      "body" : "",
+      "excerpt" : "This is a mathematical structure composed of a set of points or vertices and a set of connectors or edges. The edges connect the vertices and those vertices are directed. Also no cycles or in other words a directed edge that connects a vertex to a vertex are disallowed.",
+      "tag_name" : "directed-acyclic-graph",
+      "excerpt_last_edit_date" : 1315114120,
+      "body_last_edit_date" : 1315112983
+   },
+   {
+      "body" : "<p>This tag should be used for <em>theoretical</em> questions related to Neural and Evolutionary Computing (roughly falling under <a href=\"http://arxiv.org/archive/cs\" rel=\"nofollow\">arXiv</a>'s <a href=\"http://arxiv.org/list/cs.NE/recent\" rel=\"nofollow\">cs.NE - Neural and Evolutionary Computing</a>).</p>\n\n<p>The question <em>must</em> satisfy the usual scope requirements for cstheory as explained in the <a href=\"http://cstheory.stackexchange.com/faq\">FAQ</a>.</p>\n",
+      "excerpt" : "Theoretical questions in  Neural and Evolutionary Computing",
+      "tag_name" : "ne.neural-evol",
+      "excerpt_last_edit_date" : 1313643521,
+      "body_last_edit_date" : 1313643521
+   },
+   {
+      "body" : "<p>Used for questions about softwares and applications, e.g. softwares used for managing bibliography, version control, or SAT solvers.</p>\n\n<p>This tag should <strong>not</strong> be used for question related to software engineering.</p>\n\n<p>The questions should be in the scope of the site as explained in the <a href=\"http://cstheory.stackexchange.com/faq\">FAQ</a>.</p>\n",
+      "excerpt" : "Software/Programs/Applications",
+      "tag_name" : "software",
+      "excerpt_last_edit_date" : 1298095638,
+      "body_last_edit_date" : 1312309497
+   },
+   {
+      "body" : "",
+      "tag_name" : "regular-language",
+      "excerpt_last_edit_date" : 1329835771,
+      "body_last_edit_date" : 1329835771
+   },
+   {
+      "body" : "<p>Questions related to <a href=\"http://en.wikipedia.org/wiki/Quantum_information\" rel=\"nofollow\">quantum information</a>. Some topics that are often considered (cf. <a href=\"http://books.google.de/books/about/Quantum_Computation_and_Quantum_Informat.html?id=65FqEKQOfP8C&amp;redir_esc=y\" rel=\"nofollow\">[1]</a>) subfields of quantum information are : quantum communication and cryptography, quantum process tomography, quantum error correction, entropy and entanglement theory, and data compression.</p>\n\n<p>For more information, see also:</p>\n\n<ul>\n<li><a href=\"http://en.wikipedia.org/wiki/Information_theory\" rel=\"nofollow\">\"Classical\" information theory</a>.</li>\n<li><a href=\"http://www.quantiki.org/wiki/\" rel=\"nofollow\">Quantiki</a>.</li>\n</ul>\n\n<p>Note: the tag differs from quantum-computing, mainly because it applies to questions about TCS and quantum physics that are not exclusively computational.</p>\n",
+      "excerpt" : "Theoretical issues related to the quantum treatment of information",
+      "tag_name" : "quantum-information",
+      "excerpt_last_edit_date" : 1336409294,
+      "body_last_edit_date" : 1336409290
+   },
+   {
+      "body" : "<p>Use this tag for questions where the OP is asking a \"how to model\" question.</p>\n\n<p>You should provide a reasonably clear and complete informal description of the task or concept you want a mathematical model for. Try to break your problem to parts and ask them one at a time. Don't ask a very-high level question, break it to reasonable parts and try to explain as mathematically as possible. Think clearly about what you want, and try to answer your question yourself before asking it on cstheory, explain what you have tried or found and why they are not satisfying. Do your homework, don't ask others to do what is your job.</p>\n\n<p>Check <a href=\"http://meta.cstheory.stackexchange.com/questions/1295/requirements-and-recommendations-for-how-to-model-x-how-to-do-x-x-an-inform\">this meta-discussion</a> for further requirements and recommendations.</p>\n\n<p>The questions must satisfy the general requirements for being in the scope of cstheory as explained in the <a href=\"http://cstheory.stackexchange.com/faq\">FAQ</a>.</p>\n\n<p>The related meta-discussion is <a href=\"http://meta.cstheory.stackexchange.com/questions/514/how-to-model-this-questions\">here</a>.</p>\n",
+      "excerpt" : "Questions that ask for a mathematical/formal model of an intuitive concept or task",
+      "tag_name" : "formal-modeling",
+      "excerpt_last_edit_date" : 1314072805,
+      "body_last_edit_date" : 1314073823
+   },
+   {
+      "body" : "<p>For questions related to <a href=\"http://en.wikipedia.org/wiki/Probabilistically_checkable_proof\" rel=\"nofollow\">probabilistically checkable proofs (PCP)</a>.</p>\n\n<p>Questions about hardness of approximation of some optimization problems rather than specifically about PCP are better tagged as <a href=\"/questions/tagged/approximation-hardness\" class=\"post-tag\" title=\"show questions tagged 'approximation-hardness'\" rel=\"tag\">approximation-hardness</a>.</p>\n\n<p>The tag should not be used for other purposes like <em>Post's Correspondence Problem</em>.</p>\n",
+      "excerpt" : "Probabilistically checkable proofs",
+      "tag_name" : "pcp",
+      "excerpt_last_edit_date" : 1305224068,
+      "body_last_edit_date" : 1305224068
+   },
+   {
+      "body" : "",
+      "excerpt" : "Questions about the theory of regular expressions, both in the sense of \r\nKleene&#39;s original definition and of POSIX regular expressions.",
+      "tag_name" : "regular-expressions",
+      "excerpt_last_edit_date" : 1303034919,
+      "body_last_edit_date" : 1303034667
+   },
+   {
+      "body" : "<p><a href=\"http://en.wikipedia.org/wiki/Proof_complexity\" rel=\"nofollow\">Proof Complexity</a> is a branch of computational complexity theory and logic concerned with the efficiency of proving theorems in various propositional proof systems, and first and higher order theories.</p>\n\n<p>One of the major objectives is finding hard tautologies and proving lower-bounds on the proof size of these tautologies in propositional proof systems like Resolution, Frege, Polynomial Calculus, Extended Frege.</p>\n\n<p>Propositional proof systems are related to bounded arithmetic theories in a similar way to the relation between uniform and nonuniform complexity classes in computational complexity. For example, the translation of any $\\Pi^B_1$ statement in the first order theory $TV^0$(which is equal to first order version of $PV$) has polynomial size proofs in Extended Frege. Moreover $TV^0$ proves soundness of Extended Frege and Extended Frege can p-simulate any proof system that $TV^0$ proves its soundness. The theories are also connected to computational complexity classes in a strong sense: the provably total functions of the theory are exactly functions computable in the complexity class, e.g. $TV^0$ can prove a function is total iff the function is in $P$.</p>\n\n<p>Examples of hard tautologies are Pigeon-Hole-Principle (PHP) and random CNF formulas.</p>\n\n<p>Proof Complexity is related to Computational Complexity, Automated Theorem Proving and Proof Search, Bounded Arithmetic.</p>\n",
+      "excerpt" : "propositional proof systems and corresponding bounded arithmetic theories",
+      "tag_name" : "proof-complexity",
+      "excerpt_last_edit_date" : 1289885292,
+      "body_last_edit_date" : 1289899810
+   },
+   {
+      "body" : "<p>Some results in theoretical computer science and mathematics, and particularly in computational complexity, are conditional on some result that is not known to be true.  An example is Ladner's Theorem, which says that <em>if P≠NP, then</em> there is an infinite hierarchy of complexity classes between P and the NP-complete problems.  If someone were to prove that P=NP, then Ladner's Theorem would become uninteresting, since anything can be deduced from a false premise.  However, if P≠NP were to be proved, then the conclusion of Ladner's Theorem would be unconditionally true.</p>\n\n<p>This tag identifies questions which deal with conditional results, and is meant to be used together with other tags such as <a href=\"/questions/tagged/cc.complexity-theory\" class=\"post-tag\" title=\"show questions tagged 'cc.complexity-theory'\" rel=\"tag\">cc.complexity-theory</a> or <a href=\"/questions/tagged/ds.data-structures\" class=\"post-tag\" title=\"show questions tagged 'ds.data-structures'\" rel=\"tag\">ds.data-structures</a>.</p>\n",
+      "excerpt" : "Add X as a hypothesis, where X is not known to be either true or false.",
+      "tag_name" : "conditional-results",
+      "excerpt_last_edit_date" : 1301759185,
+      "body_last_edit_date" : 1301759181
+   },
+   {
+      "body" : "",
+      "excerpt" : "The travelling salesman problem (TSP) is an NP-hard problem in combinatorial optimization studied in operations research and theoretical computer science. Given a list of cities and their pairwise distances, the task is to find a shortest possible tour that visits each city exactly once.",
+      "tag_name" : "tsp",
+      "excerpt_last_edit_date" : 1315564981,
+      "body_last_edit_date" : 1315564938
+   },
+   {
+      "body" : "",
+      "excerpt" : "An expander is a sparse (low degree) graph with high &quot;expansion,&quot; measured in one of several ways; typically akin to the minimum ratio of the size of a subgraph boundary to the subgraph&#39;s volume.",
+      "tag_name" : "expanders",
+      "excerpt_last_edit_date" : 1299826698,
+      "body_last_edit_date" : 1299825876
+   },
+   {
+      "body" : "<p>This tag is used for <strong>closed questions</strong> <em>when</em> there is <strong>no suitable tag</strong>.</p>\n",
+      "excerpt" : "Closed questions with no suitable tags",
+      "tag_name" : "tag-removed",
+      "excerpt_last_edit_date" : 1301429966,
+      "body_last_edit_date" : 1301430822
+   },
+   {
+      "body" : "",
+      "excerpt" : "The Kolmogorov complexity of a string s is equal to the length of the shortest program computing s and halting. Measures the lack of structure in a string.",
+      "tag_name" : "kolmogorov-complexity",
+      "excerpt_last_edit_date" : 1331587664,
+      "body_last_edit_date" : 1331584849
+   },
+   {
+      "body" : "",
+      "excerpt" : "A heuristic is a procedure that can apply generically to many problems (for example gradient descent, alternating optimization, simulated annealing) but will typically not have formal guarantees associated with its use. ",
+      "tag_name" : "heuristics",
+      "excerpt_last_edit_date" : 1312998092,
+      "body_last_edit_date" : 1312998092
+   },
+   {
+      "body" : "",
+      "excerpt" : "A matching is a subset of the edges of a graph, such that no edge in the subset shares a vertex with another.",
+      "tag_name" : "matching",
+      "excerpt_last_edit_date" : 1322716934,
+      "body_last_edit_date" : 1322713125
+   },
+   {
+      "body" : "<p>CSP stands for the <a href=\"http://en.wikipedia.org/wiki/Constraint_satisfaction_problem\" rel=\"nofollow\">constraint satisfaction problem</a>.  If your question is in fact about SAT, you may want to use the more specific tag <a href=\"/questions/tagged/sat\" class=\"post-tag\" title=\"show questions tagged 'sat'\" rel=\"tag\">sat</a> instead.</p>\n",
+      "excerpt" : "CSP stands for the constraint satisfaction problem.",
+      "tag_name" : "csp",
+      "excerpt_last_edit_date" : 1290386239,
+      "body_last_edit_date" : 1290386239
+   },
+   {
+      "body" : "<p>An <strong>advice string</strong> is an extra input to a Turing machine which is allowed to depend on the length $n$ of the input, but not on input itself. Turing machines can simulate families of Boolean circuits if they take a an advice string of proper length.</p>\n\n<p>The complexity class ${\\sf C}/f(n)$ denotes the class of problems decidable by Turing machines in class $\\sf C$ which take advices of length $f(n)$, where $n$ is the size of input. Examples include ${\\sf P}/poly$ and ${\\sf NP}/poly$ (incidentally, ${\\sf P}/poly$ denotes the class of languages decidable by polynomial-size circuits). Such classes are also called <em>non-uniform</em> because the advice strings can be supplied separately for each length without specifying how they are computed. If each advice string can itself be generated by supplying $1^n$ to an efficient circuit, then the class is called \"uniform\". So $\\mathsf{P}$ can be thought of as $\\mathsf{P}\\text{poly}$ with uniform circuits</p>\n\n<p>It is well-known that ${\\sf BPP} \\subset {\\sf P}/poly$, but the inverse does not hold, since ${\\sf P}/poly$ includes undecidable problems. Interestingly, even ${\\sf P}/1$ (a polynomial-time Turing machine which takes one bit of advice) includes undecidable problems.</p>\n\n<p><strong>Related tags:</strong> <a href=\"/questions/tagged/uniformity\" class=\"post-tag\" title=\"show questions tagged 'uniformity'\" rel=\"tag\">uniformity</a>, <a href=\"/questions/tagged/circuit-complexity\" class=\"post-tag\" title=\"show questions tagged 'circuit-complexity'\" rel=\"tag\">circuit-complexity</a>, <a href=\"/questions/tagged/circuit-families\" class=\"post-tag\" title=\"show questions tagged 'circuit-families'\" rel=\"tag\">circuit-families</a>, <a href=\"/questions/tagged/cc.complexity-theory\" class=\"post-tag\" title=\"show questions tagged 'cc.complexity-theory'\" rel=\"tag\">cc.complexity-theory</a>, <a href=\"/questions/tagged/complexity-classes\" class=\"post-tag\" title=\"show questions tagged 'complexity-classes'\" rel=\"tag\">complexity-classes</a>, <a href=\"/questions/tagged/computability\" class=\"post-tag\" title=\"show questions tagged 'computability'\" rel=\"tag\">computability</a></p>\n\n<p><strong>Reference(s):</strong> </p>\n\n<ol>\n<li><a href=\"http://en.wikipedia.org/wiki/Advice_%28complexity%29\" rel=\"nofollow\">Wikipedia's topic on Advice</a>.</li>\n<li><a href=\"http://en.wikipedia.org/wiki/Circuit_complexity\" rel=\"nofollow\">Wikipedia's topic on Circuit Complexity</a></li>\n</ol>\n",
+      "tag_name" : "advice-and-nonuniformity",
+      "excerpt_last_edit_date" : 1290456046,
+      "body_last_edit_date" : 1290456046
+   },
+   {
+      "body" : "",
+      "excerpt" : "A path in a graph is said to be Hamiltonian if it visits each vertex exactly once.",
+      "tag_name" : "hamiltonian-paths",
+      "excerpt_last_edit_date" : 1331587660,
+      "body_last_edit_date" : 1331585145
+   },
+   {
+      "body" : "",
+      "excerpt" : "Topology the study of objects that can be continuously deformed into other objects without tearing or making holes in the object. It can also mean a family of sets that have the property of a topological space. The properties are convergence, connectedness, and continuity. ",
+      "tag_name" : "topology",
+      "excerpt_last_edit_date" : 1315262204,
+      "body_last_edit_date" : 1313450058
+   },
+   {
+      "body" : "<p>Informally, a function is called one-way if it is easy to compute, but hard to invert. These definitions are formally captured as follows: function $f \\colon \\{0,1\\}^* \\to \\{0,1\\}^*$ is called <em>one-way</em> if it has the following properties:</p>\n\n<ol>\n<li><strong>Easy to compute:</strong> There exist a (deterministic) polynomial-time machine $M$ such that, $\\forall x \\in \\{0,1\\}^* \\quad M(x)=f(x)$.</li>\n<li><strong>Hard to invert:</strong> For all probabilistic polynomial-time machines $A$, for all positive polynomials $p(\\cdot)$, and for all sufficiently large $n\\in \\mathbb{N}$, the inequality $\\Pr_{x\\leftarrow _R \\{0,1\\}^n}[f(A(1^n,f(x)))=f(x)] &lt; \\tfrac{1}{p(n)}$ holds.</li>\n</ol>\n\n<p>There are several definitions which more or less resemble this one. For instance, one might let the machine $M$ to be probabilistic, and let it fail with negligible probability.</p>\n\n<p>One-way permutations are a special class of one-way functions. It is proven that, secure secret-key encryptions exist iff one-way functions exits, and secure public-key encryptions exist iff one-way permutations exits.</p>\n",
+      "excerpt" : "Questions regarding easy-to-compute, but hard-to-invert functions.",
+      "tag_name" : "one-way-function",
+      "excerpt_last_edit_date" : 1291515651,
+      "body_last_edit_date" : 1291515651
+   },
+   {
+      "body" : "",
+      "excerpt" : "Given a program and the input for it, does it halt or run forever?",
+      "tag_name" : "halting-problem",
+      "excerpt_last_edit_date" : 1331587655,
+      "body_last_edit_date" : 1331585341
+   },
+   {
+      "body" : "",
+      "excerpt" : "A family of heuristic search algorithms mimicing the process of natural evolution.",
+      "tag_name" : "genetic-algorithms",
+      "excerpt_last_edit_date" : 1331587644,
+      "body_last_edit_date" : 1331585213
+   },
+   {
+      "body" : "<p>This tag should be used for <em>theoretical</em> questions related to Computer Vision (roughly falling under <a href=\"http://arxiv.org/archive/cs\" rel=\"nofollow\">arXiv</a>'s <a href=\"http://arxiv.org/list/cs.CV/recent\" rel=\"nofollow\">cs.CV - Computer Vision and Pattern Recognition</a>).</p>\n\n<p>The question <em>must</em> satisfy the usual scope requirements for cstheory as explained in the <a href=\"http://cstheory.stackexchange.com/faq\">FAQ</a>.</p>\n\n<p>You may also want to check AI Q&amp;A site <a href=\"http://metaoptimize.com/qa/\" rel=\"nofollow\">Meta Optimize</a> which has a more general AI scope.</p>\n",
+      "excerpt" : "Theoretical questions about Computer Vision",
+      "tag_name" : "cv.computer-vision",
+      "excerpt_last_edit_date" : 1313642382,
+      "body_last_edit_date" : 1313642382
+   },
+   {
+      "body" : "",
+      "excerpt" : "Concurrency is the study of systems that operate simultaneously. For example given a set of elevators and a pool of people who want to go to various floors. An example of a concurrent system would be the management system that would tell where the elevators go and where to let off a person of the pool of people.",
+      "tag_name" : "concurrency",
+      "excerpt_last_edit_date" : 1313998442,
+      "body_last_edit_date" : 1313985445
+   },
+   {
+      "body" : "",
+      "excerpt" : "Given a specification, does a program satisfy it?",
+      "tag_name" : "program-verification",
+      "excerpt_last_edit_date" : 1331587670,
+      "body_last_edit_date" : 1331584980
+   },
+   {
+      "body" : "",
+      "excerpt" : "VC-dimension (after Vapnik and Chervonenkis) is a measure of the power of a set of shapes (ranges) to realize subsets of points. VC-dimension is a vital analysis tool in the fields of machine learning and computational geometry.",
+      "tag_name" : "vc-dimension",
+      "excerpt_last_edit_date" : 1299790880,
+      "body_last_edit_date" : 1299790410
+   },
+   {
+      "body" : "",
+      "excerpt" : "Geometric Complexity Theory",
+      "tag_name" : "gct",
+      "excerpt_last_edit_date" : 1314221779,
+      "body_last_edit_date" : 1314221779
+   },
+   {
+      "body" : "<p>This tag is used for question about <a href=\"http://en.wikipedia.org/wiki/Set_theory\" rel=\"nofollow\">set theory</a> branch of logic. See also <a href=\"http://plato.stanford.edu/\" rel=\"nofollow\">SEP</a>'s <a href=\"http://plato.stanford.edu/entries/set-theory/\" rel=\"nofollow\">set theory article</a>.</p>\n",
+      "excerpt" : "Questions about set theory",
+      "tag_name" : "set-theory",
+      "excerpt_last_edit_date" : 1305787685,
+      "body_last_edit_date" : 1305787685
+   },
+   {
+      "body" : "<p>Online learning is concerned with machine learning problems for which examples present themselves one at a time, and the learner needs to classify each on the spot before moving on to the next example.</p>\n",
+      "tag_name" : "online-learning",
+      "excerpt_last_edit_date" : 1288054755,
+      "body_last_edit_date" : 1288057342
+   },
+   {
+      "body" : "<p>Questions asking for help about choosing a project/thesis topic.</p>\n\n<p>Please read <a href=\"http://meta.cstheory.stackexchange.com/questions/802/policy-questions-about-topic-for-research-project/\">cstheory's policy regarding topic questions</a>.</p>\n",
+      "excerpt" : "topic for a project/thesis",
+      "tag_name" : "project-topic",
+      "excerpt_last_edit_date" : 1305687890,
+      "body_last_edit_date" : 1305687890
+   },
+   {
+      "body" : "<p><a href=\"http://en.wikipedia.org/wiki/Linear_logic\" rel=\"nofollow\">Linear logic</a> limits some of the deduction rules that hold in classical logic.  Both <a href=\"http://en.wikipedia.org/wiki/Idempotency_of_entailment\" rel=\"nofollow\">contraction</a> and <a href=\"http://en.wikipedia.org/wiki/Monotonicity_of_entailment\" rel=\"nofollow\">weakening</a> rules are replaced by less powerful versions.</p>\n\n<p>Linear logic has applications in programming language semantics.  For LTL in verification and modal logic, use <a href=\"/questions/tagged/linear-temporal-logic\" class=\"post-tag\" title=\"show questions tagged 'linear-temporal-logic'\" rel=\"tag\">linear-temporal-logic</a> instead.</p>\n",
+      "excerpt" : "Logic with limited contraction and weakening.",
+      "tag_name" : "linear-logic",
+      "excerpt_last_edit_date" : 1302001689,
+      "body_last_edit_date" : 1302001684
+   },
+   {
+      "body" : "",
+      "excerpt" : "A data-set is a set or collection of data. This is usually presented as a table where the column represents a observation. Each row represents a element in the set of data.",
+      "tag_name" : "data-sets",
+      "excerpt_last_edit_date" : 1315114129,
+      "body_last_edit_date" : 1315113115
+   },
+   {
+      "body" : "<p>Informally speaking, a <a href=\"http://en.wikipedia.org/wiki/Norm\" rel=\"nofollow\">norm</a> is a function that assigns “lengths” or “sizes” to vectors, matrices and so on.</p>\n\n<p>This tag can be applied to questions related to the notion of norms.  Note that mathematical questions primarily about the notion of norms may be off-topic on this website.</p>\n",
+      "excerpt" : "Norms as in the l_p norms, normed vector spaces, matrix norms and so on.",
+      "tag_name" : "norms",
+      "excerpt_last_edit_date" : 1291919089,
+      "body_last_edit_date" : 1291919089
+   },
+   {
+      "body" : "",
+      "excerpt" : "An algorithm which at every point makes the locally optimal choice.",
+      "tag_name" : "greedy-algorithms",
+      "excerpt_last_edit_date" : 1331587648,
+      "body_last_edit_date" : 1331585789
+   },
+   {
+      "body" : "<p>Used for questions in <a href=\"http://en.wikipedia.org/wiki/Combinatorial_game_theory\" rel=\"nofollow\">combinatorial game theory</a>.</p>\n",
+      "excerpt" : "Combinatorial game theory",
+      "tag_name" : "combinatorial-game-theory",
+      "excerpt_last_edit_date" : 1303025998,
+      "body_last_edit_date" : 1303025998
+   },
+   {
+      "body" : "<p>Use for theoretical computer science questions related to <a href=\"http://en.wikipedia.org/wiki/Bioinformatics\" rel=\"nofollow\">bioinformatics</a>.</p>\n",
+      "excerpt" : "Algorithms, data-structures, and other theoretical questions arising from arising from bioinformatics",
+      "tag_name" : "bioinformatics",
+      "excerpt_last_edit_date" : 1301964952,
+      "body_last_edit_date" : 1301964952
+   },
+   {
+      "body" : "<p>This tag should be used for <em>theoretical</em> questions related to <a href=\"http://en.wikipedia.org/wiki/Privacy\" rel=\"nofollow\">Privacy</a> (roughly falling under <a href=\"http://arxiv.org/archive/cs\" rel=\"nofollow\">arXiv</a>'s <a href=\"http://arxiv.org/list/cs.CR/recent\" rel=\"nofollow\">cs.CR - Cryptography and Security</a>).</p>\n\n<p>The question <em>must</em> satisfy the usual scope requirements for cstheory as explained in the <a href=\"http://cstheory.stackexchange.com/faq\">FAQ</a>.</p>\n",
+      "excerpt" : "Theoretical questions related to Privacy",
+      "tag_name" : "privacy",
+      "excerpt_last_edit_date" : 1313643701,
+      "body_last_edit_date" : 1313643701
+   },
+   {
+      "body" : "",
+      "excerpt" : "Algebraic topology is the study of objects under continuous deformation using tools from abstract algebra such as groups, fields , rings and algebras (a combination of a group and a ring). An example is the TemperleyâLieb algebra to study braids in knot theory.",
+      "tag_name" : "algebraic-topology",
+      "excerpt_last_edit_date" : 1313459885,
+      "body_last_edit_date" : 1313450227
+   },
+   {
+      "body" : "<p>This tag should be used for <em>theoretical</em> question related to computer networks and Internet architecture (falling under to arXiv's <a href=\"http://arxiv.org/list/cs.NI/recent\" rel=\"nofollow\">NI - Networking and Internet Architecture</a> tag).</p>\n\n<p>The question should satisfy the usual scope requirements for cstheory as explained in the <a href=\"http://cstheory.stackexchange.com/faq\">FAQ</a>.</p>\n",
+      "excerpt" : "Theoretical question related to networking and Internet architecture",
+      "tag_name" : "ni.networking-internet",
+      "excerpt_last_edit_date" : 1313595648,
+      "body_last_edit_date" : 1313595648
+   },
+   {
+      "body" : "<p>This  tag should be used for questions in <a href=\"http://en.wikipedia.org/wiki/Structural_complexity_theory\" rel=\"nofollow\">Structural Complexity Theory</a>.</p>\n",
+      "excerpt" : "Structural Complexity Theory",
+      "tag_name" : "structural-complexity",
+      "excerpt_last_edit_date" : 1313711304,
+      "body_last_edit_date" : 1313711304
+   },
+   {
+      "body" : "<p>Use for question in <a href=\"http://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning\" rel=\"nofollow\">Knowledge representation and reasoning</a>.</p>\n",
+      "excerpt" : "Knowledge representation and reasoning",
+      "tag_name" : "knowledge-representation",
+      "excerpt_last_edit_date" : 1301361403,
+      "body_last_edit_date" : 1301361403
+   },
+   {
+      "body" : "<p><a href=\"http://en.wikipedia.org/wiki/QMA\" rel=\"nofollow\">QMA</a> is the quantum analogue of MA.</p>\n",
+      "excerpt" : "QMA stands for the complexity class Quantum Merlin Arthur.",
+      "tag_name" : "qma",
+      "excerpt_last_edit_date" : 1284934087,
+      "body_last_edit_date" : 1284934087
+   },
+   {
+      "body" : "",
+      "excerpt" : "Cache-oblivious algorithms perform within a constant factor of the least possible number of memory transfers. They are analyzed on the ideal-cache model which assumes no knowledge of the parameters of the memory hierarchy.",
+      "tag_name" : "cache-oblivious",
+      "excerpt_last_edit_date" : 1331587639,
+      "body_last_edit_date" : 1331586120
+   },
+   {
+      "body" : "<p>An approximation algorithm by Jain for steiner network has used this technique in a quite novel way. Following which there are series of results which uses this result. A book by Mohit singh et al captures the technique quite beautifully. </p>\n",
+      "excerpt" : "Iterated rounding technique has been recently used in approximation algorithms and can be used to design even the exact algorithms. This technique exploits the structural nature of the optimal extreme solutions of the linear programming formulation.",
+      "tag_name" : "iterated-rounding",
+      "excerpt_last_edit_date" : 1310360932,
+      "body_last_edit_date" : 1310360928
+   },
+   {
+      "body" : "<p>This tag should be used for <em>theoretical</em> questions related to Computational Finance (roughly falling under <a href=\"http://arxiv.org/archive/cs\" rel=\"nofollow\">arXiv</a>'s <a href=\"http://arxiv.org/list/cs.CE/recent\" rel=\"nofollow\">cs.CE - Computational Engineering, Finance, and Science</a>).</p>\n\n<p>The question <em>must</em> satisfy the usual scope requirements for cstheory as explained in the <a href=\"http://cstheory.stackexchange.com/faq\">FAQ</a>.</p>\n",
+      "excerpt" : "Theoretical questions in Computational Finance",
+      "tag_name" : "ce.computational-finance",
+      "excerpt_last_edit_date" : 1314218263,
+      "body_last_edit_date" : 1314218263
+   },
+   {
+      "body" : "",
+      "excerpt" : "A model for generating random graphs on n nodes, where an edge between each pair of nodes is generated with equal independent probability.",
+      "tag_name" : "erdos-renyi",
+      "excerpt_last_edit_date" : 1331572948,
+      "body_last_edit_date" : 1331568912
+   }
+]
