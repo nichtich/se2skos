@@ -14,6 +14,13 @@
       "body_last_edit_date" : 1338994882
    },
    {
+      "body" : "",
+      "excerpt" : "Dealing with the presentation and organization of digitized and born digital collections. Including issues around web design, search, faceted browsing, etc.",
+      "tag_name" : "digital-collections",
+      "excerpt_last_edit_date" : 1343148137,
+      "body_last_edit_date" : 1343144952
+   },
+   {
       "body" : "<p>Cataloging involves both the creation of <a href=\"/questions/tagged/bibliographies\" class=\"post-tag\" title=\"show questions tagged 'bibliographies'\" rel=\"tag\">bibliographies</a> and basic information needed for <a href=\"/questions/tagged/circulation\" class=\"post-tag\" title=\"show questions tagged 'circulation'\" rel=\"tag\">circulation</a> of library holdings. The bibliographic records created by cataloging contain <a href=\"/questions/tagged/metadata\" class=\"post-tag\" title=\"show questions tagged 'metadata'\" rel=\"tag\">metadata</a>.</p>\n",
       "excerpt" : "Creation of bibliographic records which describe publications and library holdings.",
       "tag_name" : "cataloging",
@@ -49,18 +56,18 @@
       "body_last_edit_date" : 1338643431
    },
    {
-      "body" : "",
-      "excerpt" : "Application Programming Interface. A method provided by a computer system that allows another to interact with it",
-      "tag_name" : "api",
-      "excerpt_last_edit_date" : 1338762661,
-      "body_last_edit_date" : 1338643604
-   },
-   {
       "body" : "<p>Academic libraries are libraries with the primary purpose of serving members of their post-secondary educational institutions rather than, e.g. members of the general public or another sort of institution.</p>\n\n<p>This is part of a non-overlapping categorization of libraries along with <a href=\"/questions/tagged/public-libraries\" class=\"post-tag\" title=\"show questions tagged 'public-libraries'\" rel=\"tag\">public-libraries</a>, <a href=\"/questions/tagged/school-libraries\" class=\"post-tag\" title=\"show questions tagged 'school-libraries'\" rel=\"tag\">school-libraries</a> (for primary and secondary education), <a href=\"/questions/tagged/government-libraries\" class=\"post-tag\" title=\"show questions tagged 'government-libraries'\" rel=\"tag\">government-libraries</a>, <a href=\"/questions/tagged/corporate-libraries\" class=\"post-tag\" title=\"show questions tagged 'corporate-libraries'\" rel=\"tag\">corporate-libraries</a>, and others. Many or most academic libraries are also <a href=\"/questions/tagged/research-libraries\" class=\"post-tag\" title=\"show questions tagged 'research-libraries'\" rel=\"tag\">research-libraries</a>, although that tag should not be included if not immediately relevant to the question.</p>\n\n<p>This tag should be used to indicate questions about academic libraries as an institution or that would almost exclusively occur in the context of academic libraries.</p>\n",
       "excerpt" : "Academic libraries are libraries with the primary purpose of serving members of their post-secondary educational institutions rather than, e.g. members of the general public or another sort of institution. (Libraries for primary and secondary education fall under [school-libraries].) This tag should be used to indicate questions about academic libraries as an institution or that would almost exclusively occur in the context of academic libraries.",
       "tag_name" : "academic-libraries",
       "excerpt_last_edit_date" : 1340898732,
       "body_last_edit_date" : 1339179147
+   },
+   {
+      "body" : "<p>Digital preservation is the active management of digital content over time to ensure ongoing access. It includes issues relating to ensuring the authenticity and availability of digital objects and information, the obsolescence of file formats, considerations of the longevity of storage media and systems, and the emulation and migration of digital information. The goal of digital preservation is long term access to digital content. </p>\n",
+      "excerpt" : "Digital preservation is the active management of digital content over time to ensure ongoing access. It includes issues relating to ensuring the authenticity and availability of digital objects and information, the obsolescence of file formats, considerations of the longevity of storage media and systems, and the emulation and migration of digital information. The goal of digital preservation is long term access to digital content. ",
+      "tag_name" : "digital-preservation",
+      "excerpt_last_edit_date" : 1343128054,
+      "body_last_edit_date" : 1343128051
    },
    {
       "body" : "<p>See also ↑<a href=\"/questions/tagged/collection-development\" class=\"post-tag\" title=\"show questions tagged 'collection-development'\" rel=\"tag\">collection-development</a> and ⇡<a href=\"/questions/tagged/collection\" class=\"post-tag\" title=\"show questions tagged 'collection'\" rel=\"tag\">collection</a> for related and more general aspects.</p>\n",
@@ -99,6 +106,20 @@
    },
    {
       "body" : "",
+      "excerpt" : "Application Programming Interface. A method provided by a computer system that allows another to interact with it",
+      "tag_name" : "api",
+      "excerpt_last_edit_date" : 1338762661,
+      "body_last_edit_date" : 1338643604
+   },
+   {
+      "body" : "<p>Digital humanities (DH) is \"<a href=\"http://libraries.stackexchange.com/a/414/345\">analyz[ing] broad swathes of human experience in ways that weren't feasible before computers and digital materials</a>\" as well as applying humanities techniques to digital objects. For a more in-depth discussion, <a href=\"http://en.wikipedia.org/wiki/Digital_humanities\" rel=\"nofollow\">the current Wikipedia page</a> is likely to have an up-to-date summary of this evolving field.</p>\n\n<p>This tag is a general subject tag, describing a general field within the broad topic of \"libraries and information science\" that a question might fall into rather than necessarily describing something that the question is specifically about. For example, <a href=\"/questions/tagged/tei\" class=\"post-tag\" title=\"show questions tagged 'tei'\" rel=\"tag\">tei</a> (the Text Encoding Initiative) is a specific standard within a sub-field of digital humanities; a question specifically about TEI might then be tagged both \"TEI\" and \"digital humanities.\" (This practice is particularly helpful to those who might want to follow a single broad field tag rather than try to think of every specific item it might cover and follow all of them.)</p>\n\n<p><em>Humanities computing</em> is an older term for the field which became digital humanities.</p>\n",
+      "excerpt" : "analyzing broad swathes of human experience in ways that weren&#39;t feasible before computers and digital materials as well as applying humanities techniques to digital objects.\r\n\r\n&quot;Humanities computing&quot; is an older term for the field which became DH; please use this tag instead.",
+      "tag_name" : "digital-humanities",
+      "excerpt_last_edit_date" : 1340910648,
+      "body_last_edit_date" : 1340910642
+   },
+   {
+      "body" : "",
       "excerpt" : "Machine-readable patterns of Lines and/or shapes containing encoded data that is read by an optical scanner. ",
       "tag_name" : "barcodes",
       "excerpt_last_edit_date" : 1338762657,
@@ -112,6 +133,13 @@
       "body_last_edit_date" : 1339191777
    },
    {
+      "body" : "<p>A <a href=\"http://en.wikipedia.org/wiki/Citation\" rel=\"nofollow\">citation</a> is a reference in one <a href=\"/questions/tagged/document\" class=\"post-tag\" title=\"show questions tagged 'document'\" rel=\"tag\">document</a> pointing to another document. The referenced document is specified with basic <a href=\"/questions/tagged/metadata\" class=\"post-tag\" title=\"show questions tagged 'metadata'\" rel=\"tag\">metadata</a> in a specific citation style. Citations can be used to find related documents and for ↑<a href=\"/questions/tagged/bibliometrics\" class=\"post-tag\" title=\"show questions tagged 'bibliometrics'\" rel=\"tag\">bibliometrics</a>.</p>\n\n<p>Recent publications on citations can be found via:</p>\n\n<ul>\n<li><p>LC Subject heading <em><a href=\"http://www.worldcat.org/search?q=su%3ABibliographical%20Citations\" rel=\"nofollow\">Bibliographical citations</a></em></p></li>\n<li><p>DDC class <em><a href=\"http://deweyresearch.oclc.org/ddcbrowser2/SearchServlet?query=dd%3A025.48\" rel=\"nofollow\">025.48 subject indexing</a></em></p></li>\n<li><p>JITA class <em><a href=\"http://eprints.rclis.org/handle/10760/3629\" rel=\"nofollow\">BB. Bibliometric methods</a></em></p></li>\n<li><p>GND authority records <em><a href=\"http://d-nb.info/gnd/4319296-8\" rel=\"nofollow\">Zitatenanalyse</a></em> and <em><a href=\"http://d-nb.info/gnd/4296615-2\" rel=\"nofollow\">Zitierindex</a></em></p></li>\n</ul>\n",
+      "excerpt" : "questions about citation analysis, styles, indexing, search etc.",
+      "tag_name" : "citations",
+      "excerpt_last_edit_date" : 1343380095,
+      "body_last_edit_date" : 1343380092
+   },
+   {
       "body" : "",
       "excerpt" : "Structured data that includes many relationships between unique identifiers. Each resource is identified by an HTTP URI, which can be used to retrieve information about the resource and links to other resources in RDF format. Relationships have links types from Ontologies and the set of all connected linked data is also known as Semantic Web.",
       "tag_name" : "linked-data",
@@ -119,18 +147,25 @@
       "body_last_edit_date" : 1339064103
    },
    {
-      "body" : "<p>Digital humanities (DH) is \"<a href=\"http://libraries.stackexchange.com/a/414/345\">analyz[ing] broad swathes of human experience in ways that weren't feasible before computers and digital materials</a>\" as well as applying humanities techniques to digital objects. For a more in-depth discussion, <a href=\"http://en.wikipedia.org/wiki/Digital_humanities\" rel=\"nofollow\">the current Wikipedia page</a> is likely to have an up-to-date summary of this evolving field.</p>\n\n<p>This tag is a general subject tag, describing a general field within the broad topic of \"libraries and information science\" that a question might fall into rather than necessarily describing something that the question is specifically about. For example, <a href=\"/questions/tagged/tei\" class=\"post-tag\" title=\"show questions tagged 'tei'\" rel=\"tag\">tei</a> (the Text Encoding Initiative) is a specific standard within a sub-field of digital humanities; a question specifically about TEI might then be tagged both \"TEI\" and \"digital humanities.\" (This practice is particularly helpful to those who might want to follow a single broad field tag rather than try to think of every specific item it might cover and follow all of them.)</p>\n\n<p><em>Humanities computing</em> is an older term for the field which became digital humanities.</p>\n",
-      "excerpt" : "analyzing broad swathes of human experience in ways that weren&#39;t feasible before computers and digital materials as well as applying humanities techniques to digital objects.\r\n\r\n&quot;Humanities computing&quot; is an older term for the field which became DH; please use this tag instead.",
-      "tag_name" : "digital-humanities",
-      "excerpt_last_edit_date" : 1340910648,
-      "body_last_edit_date" : 1340910642
-   },
-   {
       "body" : "<p>The Library of Congress Classification is a ↑<a href=\"/questions/tagged/classification\" class=\"post-tag\" title=\"show questions tagged 'classification'\" rel=\"tag\">classification</a> that was first developed in the late nineteenth century to organize the collection of the <a href=\"/questions/tagged/library-of-congress\" class=\"post-tag\" title=\"show questions tagged 'library-of-congress'\" rel=\"tag\">library-of-congress</a>. It was influenced by <a href=\"/questions/tagged/ddc\" class=\"post-tag\" title=\"show questions tagged 'ddc'\" rel=\"tag\">ddc</a> and <a href=\"/questions/tagged/cutter\" class=\"post-tag\" title=\"show questions tagged 'cutter'\" rel=\"tag\">cutter</a> classification. The LCC notations are used as base of LOC call numbers. See the <a href=\"http://en.wikipedia.org/wiki/Library_of_Congress_Classification\" rel=\"nofollow\">Wikipedia article on LCC</a> and <a href=\"http://www.loc.gov/aba/cataloging/classification/\" rel=\"nofollow\">the LOC website</a> for further information.</p>\n",
       "excerpt" : "The Library of Congress Classification (LCC) is used by the library of congress and other academic libraries especially in the US.",
       "tag_name" : "lcc",
       "excerpt_last_edit_date" : 1341862991,
       "body_last_edit_date" : 1341862989
+   },
+   {
+      "body" : "<p>The main tasks managed by an integrated library system include ↓<a href=\"/questions/tagged/circulation\" class=\"post-tag\" title=\"show questions tagged 'circulation'\" rel=\"tag\">circulation</a>, ↓<a href=\"/questions/tagged/collection-management\" class=\"post-tag\" title=\"show questions tagged 'collection-management'\" rel=\"tag\">collection-management</a>, and ↓<a href=\"/questions/tagged/cataloging\" class=\"post-tag\" title=\"show questions tagged 'cataloging'\" rel=\"tag\">cataloging</a>. The ILS may also include an ↓<a href=\"/questions/tagged/opac\" class=\"post-tag\" title=\"show questions tagged 'opac'\" rel=\"tag\">opac</a> among other modules. In practice the ↑<a href=\"/questions/tagged/software\" class=\"post-tag\" title=\"show questions tagged 'software'\" rel=\"tag\">software</a> is tightly coupled, so combination of modules from different vendors is difficult. See also the <a href=\"http://en.wikipedia.org/wiki/Integrated_library_system\" rel=\"nofollow\">Wikipedia article on ILS</a>.</p>\n\n<p>Recent publications on ILS can be found via mappings to</p>\n\n<ul>\n<li>LC Subject heading <em><a href=\"http://www.worldcat.org/search?q=su%3AIntegrated+library+systems+%28Computer+systems%29\" rel=\"nofollow\">Integrated library systems (Computer systems)</a></em></li>\n<li>JITA class\n<em><a href=\"http://eprints.rclis.org/handle/10760/3775\" rel=\"nofollow\">LQ. Library automation systems</a></em></li>\n<li>GND authority record <em><a href=\"http://d-nb.info/gnd/4583297-3\" rel=\"nofollow\">Bibliotheksinformationssystem</a></em></li>\n</ul>\n",
+      "excerpt" : "an integrated library system (ILS) is a software system for collection management, circulation and other tasks in a library.",
+      "tag_name" : "ils",
+      "excerpt_last_edit_date" : 1342180136,
+      "body_last_edit_date" : 1342191377
+   },
+   {
+      "body" : "",
+      "excerpt" : "Questions about technical terms and definitions",
+      "tag_name" : "terminology",
+      "excerpt_last_edit_date" : 1343086493,
+      "body_last_edit_date" : 1343076126
    },
    {
       "body" : "<p>For specific kinds of collections use ↓<a href=\"/questions/tagged/special-collections\" class=\"post-tag\" title=\"show questions tagged 'special-collections'\" rel=\"tag\">special-collections</a>, ↓<a href=\"/questions/tagged/digital-collections\" class=\"post-tag\" title=\"show questions tagged 'digital-collections'\" rel=\"tag\">digital-collections</a>, or a create a new tag. For the creation and management of collections, use ↓<a href=\"/questions/tagged/collection-development\" class=\"post-tag\" title=\"show questions tagged 'collection-development'\" rel=\"tag\">collection-development</a> or ↓<a href=\"/questions/tagged/collection-management\" class=\"post-tag\" title=\"show questions tagged 'collection-management'\" rel=\"tag\">collection-management</a>.</p>\n",
@@ -145,6 +180,13 @@
       "tag_name" : "profession",
       "excerpt_last_edit_date" : 1341616719,
       "body_last_edit_date" : 1341616735
+   },
+   {
+      "body" : "",
+      "excerpt" : "This tag exists for professional librarians to solicit recommendations for additions to their collections, not for private users.",
+      "tag_name" : "book-recommendations",
+      "excerpt_last_edit_date" : 1343089547,
+      "body_last_edit_date" : 1343089547
    },
    {
       "body" : "",
@@ -169,23 +211,23 @@
    },
    {
       "body" : "",
-      "excerpt" : "A challenge is any formal request that an item be reclassified, restricted, withdrawn, or otherwise made more inaccessible.",
-      "tag_name" : "challenges",
-      "excerpt_last_edit_date" : 1339983606,
-      "body_last_edit_date" : 1339963372
-   },
-   {
-      "body" : "",
       "excerpt" : "Outsourcing activities to a broad community of amateurs or volunteers.",
       "tag_name" : "crowdsourcing",
       "excerpt_last_edit_date" : 1340812911,
       "body_last_edit_date" : 1340797566
    },
    {
-      "body" : "<p>This tag is to be used for general questions about (forms of) institutions, organizations, and associations. More specific tags exist for:</p>\n\n<ul>\n<li><p>types of institutions:  ↓<a href=\"/questions/tagged/libraries\" class=\"post-tag\" title=\"show questions tagged 'libraries'\" rel=\"tag\">libraries</a> ↓<a href=\"/questions/tagged/archives\" class=\"post-tag\" title=\"show questions tagged 'archives'\" rel=\"tag\">archives</a> ↓<a href=\"/questions/tagged/museums\" class=\"post-tag\" title=\"show questions tagged 'museums'\" rel=\"tag\">museums</a> ...</p></li>\n<li><p>particular institutions: ↓<a href=\"/questions/tagged/loc\" class=\"post-tag\" title=\"show questions tagged 'loc'\" rel=\"tag\">loc</a> ↓<a href=\"/questions/tagged/internet-archive\" class=\"post-tag\" title=\"show questions tagged 'internet-archive'\" rel=\"tag\">internet-archive</a> ...</p></li>\n</ul>\n",
+      "body" : "<p>This tag is to be used for general questions about (forms of) institutions, organizations, and associations. More specific tags exist for:</p>\n\n<ul>\n<li><p>types of libraries: ↓<a href=\"/questions/tagged/public-libraries\" class=\"post-tag\" title=\"show questions tagged 'public-libraries'\" rel=\"tag\">public-libraries</a>, ↓<a href=\"/questions/tagged/academic-libraries\" class=\"post-tag\" title=\"show questions tagged 'academic-libraries'\" rel=\"tag\">academic-libraries</a>, ↓<a href=\"/questions/tagged/school-libraries\" class=\"post-tag\" title=\"show questions tagged 'school-libraries'\" rel=\"tag\">school-libraries</a>, ↓<a href=\"/questions/tagged/corporate-libraries\" class=\"post-tag\" title=\"show questions tagged 'corporate-libraries'\" rel=\"tag\">corporate-libraries</a>, ↓<a href=\"/questions/tagged/home-libraries\" class=\"post-tag\" title=\"show questions tagged 'home-libraries'\" rel=\"tag\">home-libraries</a>, ↓<a href=\"/questions/tagged/small-libraries\" class=\"post-tag\" title=\"show questions tagged 'small-libraries'\" rel=\"tag\">small-libraries</a>.</p></li>\n<li><p>other types of institutions: ↓<a href=\"/questions/tagged/archives\" class=\"post-tag\" title=\"show questions tagged 'archives'\" rel=\"tag\">archives</a>, ↓<a href=\"/questions/tagged/museums\" class=\"post-tag\" title=\"show questions tagged 'museums'\" rel=\"tag\">museums</a></p></li>\n<li><p>particular institutions: ↓<a href=\"/questions/tagged/loc\" class=\"post-tag\" title=\"show questions tagged 'loc'\" rel=\"tag\">loc</a> ↓<a href=\"/questions/tagged/internet-archive\" class=\"post-tag\" title=\"show questions tagged 'internet-archive'\" rel=\"tag\">internet-archive</a> ...</p></li>\n</ul>\n",
       "excerpt" : "formal organizations such as libraries and archives and their associations.",
       "tag_name" : "institutions",
       "excerpt_last_edit_date" : 1341168410,
-      "body_last_edit_date" : 1341168407
+      "body_last_edit_date" : 1342191362
+   },
+   {
+      "body" : "",
+      "excerpt" : "A challenge is any formal request that an item be reclassified, restricted, withdrawn, or otherwise made more inaccessible.",
+      "tag_name" : "challenges",
+      "excerpt_last_edit_date" : 1339983606,
+      "body_last_edit_date" : 1339963372
    }
 ]

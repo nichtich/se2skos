@@ -20,7 +20,9 @@ use Log::Contextual qw( :log ),
 	-logger => Log::Contextual::SimpleLogger->new({ levels_upto => 'info' });
 
 my $site = (shift @ARGV) // '';
-$site =~ /^[a-z]+$/ or die "Usage: $0 <site>";
+$site =~ /^[a-z]+$/ or die "Usage: $0 <site> [-f]";
+
+my $force = grep { /^-f/ } @ARGV;
 
 my $dir = "data/$site";
 mkdir($dir);
@@ -45,7 +47,7 @@ sub get_cached {
 	my $data;
 
 	$file = "$dir/$file.json";
-	if (-f $file ) {
+	if (!$force and -f $file ) {
 		return from_json(read_file($file));
 	} else {
 		$data = $command->();

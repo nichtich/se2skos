@@ -1,3 +1,8 @@
+This repository includes tags and tag descriptions from StackExchange sites
+converted to knowledge organization systems in SKOS format.
+
+# Tags in StackExchange
+
 [StackExchange](http://stackexchange.com) is a network of Questions & Answers
 websites. Questions in each website are collaboratively [indexed by social
 tagging in a set-model](http://arxiv.org/abs/cs/0701072) (each question is
@@ -7,26 +12,23 @@ can be described with a short excerpt, a more detailed text, and they may have
 synonyms. Tags can be edited by the community. The content of all StackExhange
 websites, including tags and tag descriptions is licensed under CC-BY-SA.
 
-This repository includes scripts to dowload tags and tag descriptions from a
-StackExchange website and to convert them to SKOS format. The program consists
-of multiple scripts:
+# Repository outline
 
-	download-tags.pl
-	convert-tags.pl
-    lib/StackExchange/API.pm
+    data/                     - downloaded and transformed tagging data
+
+	download-tags.pl          - script to download tags
+	convert-tags.pl           - transform downloaded tags to SKOS
+
+    lib/StackExchange/API.pm  - tiny wrapper of StackExchange API
+
+# From Tags to SKOS
 
 Although Jeff Atwood was [against hierarchical links between
 tags](http://blog.stackoverflow.com/2010/08/tag-folksonomy-and-tag-synonyms/#comment-48892),
 these relations are supported if given in a tag wiki with Unicode
 upwards/downwards arrows (↑/↓). Mappings to other knowledge organization
-systems will also be added later.
+systems are also added.
 
-The scripts require the experimental Perl module SKOS::Simple, which is
-included as git submodule. You may install SKOS::Simple from CPAN or checkout:
+# Example
 
-    git submodule init
-	git submodule update
-
-Feel free to fork and reuse!
-
-![sample-graph.png](sample graph from libraries.stackexchange.com)
+![sample graph from libraries.stackexchange.com](samples/sample-graph.png)

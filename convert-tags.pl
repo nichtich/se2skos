@@ -4,87 +4,137 @@ use strict;
 use 5.10.0;
 use utf8;
 
-use JSON;
-use Data::Dumper;
-
-use lib 'lib';
-use SKOS::Simple;
-use File::Slurp::Unicode;
-use GraphViz qw(2.04);
-
 use Log::Contextual::SimpleLogger;
 use Log::Contextual qw( :log ),
 	-logger => Log::Contextual::SimpleLogger->new({ levels_upto => 'info' });
 
+use JSON;
+use Turtle::Writer;
+use RDF::NS '20120521';
+use constant NS => RDF::NS->new('20120521');
+use File::Slurp::Unicode;
+use autodie;
+
 my $site = (shift @ARGV) // '';
 my $dir = "data/$site";
-die "Usage: $0 <site>" unless $site =~ /^[a-z]+$/ and -d $dir;
+die "Usage: $0 <site> [-d]" unless $site =~ /^[a-z]+$/ and -d $dir;
 
-binmode ':utf8', *STDOUT;
+my $debug = grep { /^-d/ } @ARGV;
 
 my $siteurl = "http://$site.stackexchange.com/";
 
-my $wikis    = from_json(read_file("$dir/wikis.json"));
-my $synonyms = from_json(read_file("$dir/synonyms.json"));
-my $tags     = from_json(read_file("$dir/tags.json"));
+*OUT = *STDOUT;
+#binmode ':utf8', *OUT;
+unless ($debug) {
+	my $file = "$dir/tags-as-skos.ttl";
+	say $file;
+	open OUT, '>', $file; 
+}
 
-$tags  = { map { $_->{name} => $_ } @$tags };
+$SKOS::KnownTargets::MAP = {
+	lcsh => [
+		# qr{http://www.worldcat.org/search\?q=su%3A(.+)}) {
+		# TODO: search at id.loc.gov
+		# http://id.loc.gov/search/?q=Integrated+Library+systems
+	],
+	wikipedia => [
+		qr{http://en.wikipedia.org/wiki/([^#?]+)} => sub { 
+			"http://dbpedia.org/resource/$1";
+		}
+	],
+	gnd => [ qr{http://d-nb.info/gnd/[0-9X-]+} ],
+	jita => [ qr{http://eprints.rclis.org/handle/10760/[0-9]+} ],
+};
+
+
+
+my $tags = from_json(read_file("$dir/tags.json"));
+
+my $wikis = from_json(read_file("$dir/wikis.json"));
 $wikis = { map { $_->{tag_name} => $_ } @$wikis };
-$synonyms = { map { $_->{from_tag} => $_ } @$synonyms };
 
-my $skos = SKOS::Simple->new(
-	base => $siteurl."tags/",
-	identity => "label",
-	license => "http://creativecommons.org/licenses/by-sa/",
-	# TODO: add attribution!
-);
+my $synonyms;
+my %alias;
+foreach ( @{ from_json(read_file("$dir/synonyms.json")) } ) {
+	push @{$synonyms->{$_->{to_tag}}}, $_->{from_tag};
+	$alias{$_->{from_tag}} = $_->{to_tag};
+}
 
-my $g = GraphViz->new();
+say OUT NS->TTL(qw(skos dcterms));
+say OUT '@prefix library: <http://purl.org/library/> .';
+say OUT "\@base <${siteurl}tags/> .";
+say OUT turtle_statement '<>', 
+	a => 'skos:ConceptScheme',
+	'dcterms:license' => "<http://creativecommons.org/licenses/by-sa/>",
+	'dcterms:source' => "<$siteurl>",
+;
 
-say STDERR (keys %$tags) . " tags";
-say STDERR (keys %$wikis) . " tag wikis";
+foreach my $tag (sort { $a->{name} cmp $b->{name} } @$tags) {
+	my $name = $tag->{name};
+	my $w    = $wikis->{$name};
 
-foreach my $w (values %$wikis) {
-	my $tag = $w->{tag_name};
+	my %prop = (
+		'skos:scopeNote' => { en => $w->{excerpt} },
+		'skos:altLabel' => { en => $synonyms->{$name} },
+		'library:holdingsCount' => $tag->{count},
+	);
 
-	# only tags with wiki and links are included
-	next unless $w->{body} =~ /([↓]?)<a href="\/questions\/tagged\/([^"]+)"/;
-
-	$skos->addConcept( label => $tag, scopeNote => $w->{excerpt} );
-	$g->add_node( $tag );
-	my @rel;	
-
-	while( $w->{body} =~ /([↓]?)<a href="\/questions\/tagged\/([^"]+)"/g ) {
-	#while( $w->{body} =~ /(.?)<a href="\/questions\/tagged\/([^"]+)"/g ) {
+	# links between tags
+	while( $w->{body} =~ /([↓↑]?)<a href="\/questions\/tagged\/([^"]+)"/g ) {
 		my ($rel,$to) = ($1,$2);
-		$to = $synonyms->{$to}->{to_tag} if $synonyms->{$to};
+		$to = $alias{$to} if $alias{$to};
 		given($1) {
 			when('↓') { 
-				$skos->addConcept( label => $tag, narrower => $to );
-				$g->add_node( $to, color => 'gray' ) unless $wikis->{$to};
-				$g->add_edge( $tag, $to, style => "bold" );
+				push @{$prop{'skos:narrower'}}, "<$to>";
 			};
 			when('↑') { 
-				$skos->addConcept( label => $tag, broader => $to );
-				$g->add_node( $to, color => 'gray' ) unless $wikis->{$to};
-				$g->add_edge( $to, $tag, style => "bold" );
+				push @{$prop{'skos:broader'}}, "<$to>";
 			};
-			when('') { 
-				$skos->addConcept( label => $tag, related => $to );
-				$g->add_edge( $tag, $to );
-#				$g->add_edge( $tag, $to, constraint => 'false' );
+			default { 
+				push @{$prop{'skos:related'}}, "<$to>";
 			};
 		}
 	}
 
+	# mappings to other knowledge organization systems
+	my %mappings;
+	while( $w->{body} =~ /(.?)<a href="(http[^"]+)"[^>]*>([^<]+)<\/a>/g ) {
+		my ($rel,$url,$text) = ($1,$2,$3);
+
+		my ($kos, $uri) = SKOS::KnownTargets::detect($url);
+		push @{$mappings{$kos}}, "<$uri>" if $kos;
+	}
+	
+	while (my ($name, $uris) = each %mappings) {
+		my $rel = @$uris == 1 ? 'skos:closeMatch' : 'skos:narrowMatch';
+		push @{$prop{$rel}}, @$uris;
+	}
+
+	say OUT turtle_statement "<$name>", a => 'skos:Concept', %prop;
 }
 
-say "$dir/tags.ttl";
-write_file( "$dir/tags-as-skos.ttl", $skos->turtle ); 
+package SKOS::KnownTargets;
+use Scalar::Util qw(reftype);
 
-# create graphviz
-say "$dir/tags.svg";
-open (my $fh, '>', "$dir/tag-graph.svg");
-print $fh $g->as_svg;
-close $fh;
+our $MAP = { };
 
+sub detect {
+	my $url = shift;
+
+	while (my ($name, $m) = each %$MAP) {
+		foreach(my $i = 0; $i < @$m; $i++) {
+			my $e = $m->[$i];
+			next unless reftype($e) eq 'SCALAR';
+			next unless $url =~ $e;
+
+			# we got a match
+			while ($i<@$m and reftype($m->[$i]) eq 'SCALAR') { $i++; }
+			return ($name,$url) if $i == @$m;
+
+			my $uri = $m->[$i]->($url);
+			return ($name,$uri) if $uri;
+		}
+	}
+
+	return;
+}
