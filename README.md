@@ -32,4 +32,4 @@ systems are also added.
 
 ## Example
 
-![sample graph from libraries.stackexchange.com](sample-graph.png)
+![sample graph from libraries.stackexchange.com](/nichtich/se2skos/blob/master/samples/sample-graph.png)
