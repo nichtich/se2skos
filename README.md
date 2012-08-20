@@ -18,6 +18,7 @@ websites, including tags and tag descriptions is licensed under CC-BY-SA.
 
 	download-tags.pl          - script to download tags
 	convert-tags.pl           - transform downloaded tags to SKOS
+	graph-tags.pl			  - create a graph of the SKOS thesaurus
 
     lib/StackExchange/API.pm  - tiny wrapper of StackExchange API
 
@@ -31,4 +32,4 @@ systems are also added.
 
 ## Example
 
-![sample graph from libraries.stackexchange.com](blob/master/samples/sample-graph.png)
+![sample graph from libraries.stackexchange.com](/nichtich/se2skos/blob/master/samples/sample-graph.png)

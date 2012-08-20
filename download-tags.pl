@@ -20,7 +20,7 @@ use Log::Contextual qw( :log ),
 	-logger => Log::Contextual::SimpleLogger->new({ levels_upto => 'info' });
 
 my $site = (shift @ARGV) // '';
-$site =~ /^[a-z]+$/ or die "Usage: $0 <site> [-f]";
+$site =~ /^[a-z]+$/ or die "Usage: $0 <site> [-f]\n";
 
 my $force = grep { /^-f/ } @ARGV;
 
@@ -33,7 +33,7 @@ my $api = StackExchange::API->new( site => $site );
 sub write_file_utf8 {
     my $name = shift;
 	open my $fh, '>:encoding(UTF-8)', $name
-		or die "Couldn't create '$name': $!";
+		or die "Couldn't create '$name': $!\n";
 	local $/;
 	print {$fh} $_ for @_;
 }
@@ -48,6 +48,7 @@ sub get_cached {
 
 	$file = "$dir/$file.json";
 	if (!$force and -f $file ) {
+		log_info { "$file already exists, use -f to retrieve new" };
 		return from_json(read_file($file));
 	} else {
 		$data = $command->();

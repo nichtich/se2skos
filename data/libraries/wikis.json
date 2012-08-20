@@ -49,13 +49,6 @@
       "body_last_edit_date" : 1338762775
    },
    {
-      "body" : "",
-      "excerpt" : "Online Public Access Catalog. The patron-facing display of a library&#39;s holdings. ",
-      "tag_name" : "opac",
-      "excerpt_last_edit_date" : 1338762759,
-      "body_last_edit_date" : 1338643431
-   },
-   {
       "body" : "<p>Academic libraries are libraries with the primary purpose of serving members of their post-secondary educational institutions rather than, e.g. members of the general public or another sort of institution.</p>\n\n<p>This is part of a non-overlapping categorization of libraries along with <a href=\"/questions/tagged/public-libraries\" class=\"post-tag\" title=\"show questions tagged 'public-libraries'\" rel=\"tag\">public-libraries</a>, <a href=\"/questions/tagged/school-libraries\" class=\"post-tag\" title=\"show questions tagged 'school-libraries'\" rel=\"tag\">school-libraries</a> (for primary and secondary education), <a href=\"/questions/tagged/government-libraries\" class=\"post-tag\" title=\"show questions tagged 'government-libraries'\" rel=\"tag\">government-libraries</a>, <a href=\"/questions/tagged/corporate-libraries\" class=\"post-tag\" title=\"show questions tagged 'corporate-libraries'\" rel=\"tag\">corporate-libraries</a>, and others. Many or most academic libraries are also <a href=\"/questions/tagged/research-libraries\" class=\"post-tag\" title=\"show questions tagged 'research-libraries'\" rel=\"tag\">research-libraries</a>, although that tag should not be included if not immediately relevant to the question.</p>\n\n<p>This tag should be used to indicate questions about academic libraries as an institution or that would almost exclusively occur in the context of academic libraries.</p>\n",
       "excerpt" : "Academic libraries are libraries with the primary purpose of serving members of their post-secondary educational institutions rather than, e.g. members of the general public or another sort of institution. (Libraries for primary and secondary education fall under [school-libraries].) This tag should be used to indicate questions about academic libraries as an institution or that would almost exclusively occur in the context of academic libraries.",
       "tag_name" : "academic-libraries",
@@ -70,11 +63,11 @@
       "body_last_edit_date" : 1343128051
    },
    {
-      "body" : "<p>See also ↑<a href=\"/questions/tagged/collection-development\" class=\"post-tag\" title=\"show questions tagged 'collection-development'\" rel=\"tag\">collection-development</a> and ⇡<a href=\"/questions/tagged/collection\" class=\"post-tag\" title=\"show questions tagged 'collection'\" rel=\"tag\">collection</a> for related and more general aspects.</p>\n",
+      "body" : "<p>A process for removing duplicate, damaged, obsolete, or little-used material from a library collection.</p>\n\n<p>See also ↑<a href=\"/questions/tagged/collection-development\" class=\"post-tag\" title=\"show questions tagged 'collection-development'\" rel=\"tag\">collection-development</a> and ⇡<a href=\"/questions/tagged/collection\" class=\"post-tag\" title=\"show questions tagged 'collection'\" rel=\"tag\">collection</a> for related and more general aspects.</p>\n",
       "excerpt" : "A process for removing duplicate, damaged, obsolete, or little-used material from a library collection. ",
       "tag_name" : "weeding",
       "excerpt_last_edit_date" : 1341973047,
-      "body_last_edit_date" : 1340822932
+      "body_last_edit_date" : 1344320489
    },
    {
       "body" : "<p>The process of archiving materials, including selection, acquisition, and physical preparation for long-term storage and access. If you have a question about archives as institutions or that would usually occur only in the context of an archive, use ↑<a href=\"/questions/tagged/archives\" class=\"post-tag\" title=\"show questions tagged 'archives'\" rel=\"tag\">archives</a>.</p>\n\n<p>Specific forms of archiving, such as  ↓<a href=\"/questions/tagged/digital-archiving\" class=\"post-tag\" title=\"show questions tagged 'digital-archiving'\" rel=\"tag\">digital-archiving</a> and  ↓<a href=\"/questions/tagged/web-archiving\" class=\"post-tag\" title=\"show questions tagged 'web-archiving'\" rel=\"tag\">web-archiving</a>, may have their own tags. Please use discretion when applying more than one of these.</p>\n\n<p>Specific steps in this process are not unique to archives or archiving and have their own tags; e.g., <a href=\"/questions/tagged/preservation\" class=\"post-tag\" title=\"show questions tagged 'preservation'\" rel=\"tag\">preservation</a>. If your interest is only in the process and not in its context, please do not use this tag.</p>\n",
@@ -106,6 +99,13 @@
    },
    {
       "body" : "",
+      "excerpt" : "Online Public Access Catalog. The patron-facing display of a library&#39;s holdings. ",
+      "tag_name" : "opac",
+      "excerpt_last_edit_date" : 1338762759,
+      "body_last_edit_date" : 1338643431
+   },
+   {
+      "body" : "",
       "excerpt" : "Application Programming Interface. A method provided by a computer system that allows another to interact with it",
       "tag_name" : "api",
       "excerpt_last_edit_date" : 1338762661,
@@ -120,10 +120,10 @@
    },
    {
       "body" : "",
-      "excerpt" : "Machine-readable patterns of Lines and/or shapes containing encoded data that is read by an optical scanner. ",
-      "tag_name" : "barcodes",
-      "excerpt_last_edit_date" : 1338762657,
-      "body_last_edit_date" : 1338643868
+      "excerpt" : "Libraries for primary and secondary school students, which function to introduce students to library etiquette and research techniques",
+      "tag_name" : "school-libraries",
+      "excerpt_last_edit_date" : 1344319562,
+      "body_last_edit_date" : 1344319562
    },
    {
       "body" : "",
@@ -147,11 +147,32 @@
       "body_last_edit_date" : 1339064103
    },
    {
+      "body" : "",
+      "excerpt" : "Machine-readable patterns of Lines and/or shapes containing encoded data that is read by an optical scanner. ",
+      "tag_name" : "barcodes",
+      "excerpt_last_edit_date" : 1338762657,
+      "body_last_edit_date" : 1338643868
+   },
+   {
+      "body" : "<p>For specific kinds of collections use ↓<a href=\"/questions/tagged/special-collections\" class=\"post-tag\" title=\"show questions tagged 'special-collections'\" rel=\"tag\">special-collections</a>, ↓<a href=\"/questions/tagged/digital-collections\" class=\"post-tag\" title=\"show questions tagged 'digital-collections'\" rel=\"tag\">digital-collections</a>, or a create a new tag. For the creation and management of collections, use ↓<a href=\"/questions/tagged/collection-development\" class=\"post-tag\" title=\"show questions tagged 'collection-development'\" rel=\"tag\">collection-development</a> or ↓<a href=\"/questions/tagged/collection-management\" class=\"post-tag\" title=\"show questions tagged 'collection-management'\" rel=\"tag\">collection-management</a>.</p>\n",
+      "excerpt" : "a managed set of publications or objects held by a library, archive, or museum",
+      "tag_name" : "collection",
+      "excerpt_last_edit_date" : 1341692682,
+      "body_last_edit_date" : 1341692692
+   },
+   {
       "body" : "<p>The Library of Congress Classification is a ↑<a href=\"/questions/tagged/classification\" class=\"post-tag\" title=\"show questions tagged 'classification'\" rel=\"tag\">classification</a> that was first developed in the late nineteenth century to organize the collection of the <a href=\"/questions/tagged/library-of-congress\" class=\"post-tag\" title=\"show questions tagged 'library-of-congress'\" rel=\"tag\">library-of-congress</a>. It was influenced by <a href=\"/questions/tagged/ddc\" class=\"post-tag\" title=\"show questions tagged 'ddc'\" rel=\"tag\">ddc</a> and <a href=\"/questions/tagged/cutter\" class=\"post-tag\" title=\"show questions tagged 'cutter'\" rel=\"tag\">cutter</a> classification. The LCC notations are used as base of LOC call numbers. See the <a href=\"http://en.wikipedia.org/wiki/Library_of_Congress_Classification\" rel=\"nofollow\">Wikipedia article on LCC</a> and <a href=\"http://www.loc.gov/aba/cataloging/classification/\" rel=\"nofollow\">the LOC website</a> for further information.</p>\n",
       "excerpt" : "The Library of Congress Classification (LCC) is used by the library of congress and other academic libraries especially in the US.",
       "tag_name" : "lcc",
       "excerpt_last_edit_date" : 1341862991,
       "body_last_edit_date" : 1341862989
+   },
+   {
+      "body" : "<p>This is <strong>NOT</strong> the tag for anything you might do in the course of your professional life; this is a tag for questions about the profession itself, not about all of the things that professionals might be interested in.</p>\n\n<p>For special aspects see ↓<a href=\"/questions/tagged/professional-development\" class=\"post-tag\" title=\"show questions tagged 'professional-development'\" rel=\"tag\">professional-development</a> and ↓<a href=\"/questions/tagged/hiring\" class=\"post-tag\" title=\"show questions tagged 'hiring'\" rel=\"tag\">hiring</a>.</p>\n",
+      "excerpt" : "being a librarian, archivist, information scientist, etc. For example, professional and career concerns and questions about the current nature or future development of the profession.",
+      "tag_name" : "profession",
+      "excerpt_last_edit_date" : 1341616719,
+      "body_last_edit_date" : 1341616735
    },
    {
       "body" : "<p>The main tasks managed by an integrated library system include ↓<a href=\"/questions/tagged/circulation\" class=\"post-tag\" title=\"show questions tagged 'circulation'\" rel=\"tag\">circulation</a>, ↓<a href=\"/questions/tagged/collection-management\" class=\"post-tag\" title=\"show questions tagged 'collection-management'\" rel=\"tag\">collection-management</a>, and ↓<a href=\"/questions/tagged/cataloging\" class=\"post-tag\" title=\"show questions tagged 'cataloging'\" rel=\"tag\">cataloging</a>. The ILS may also include an ↓<a href=\"/questions/tagged/opac\" class=\"post-tag\" title=\"show questions tagged 'opac'\" rel=\"tag\">opac</a> among other modules. In practice the ↑<a href=\"/questions/tagged/software\" class=\"post-tag\" title=\"show questions tagged 'software'\" rel=\"tag\">software</a> is tightly coupled, so combination of modules from different vendors is difficult. See also the <a href=\"http://en.wikipedia.org/wiki/Integrated_library_system\" rel=\"nofollow\">Wikipedia article on ILS</a>.</p>\n\n<p>Recent publications on ILS can be found via mappings to</p>\n\n<ul>\n<li>LC Subject heading <em><a href=\"http://www.worldcat.org/search?q=su%3AIntegrated+library+systems+%28Computer+systems%29\" rel=\"nofollow\">Integrated library systems (Computer systems)</a></em></li>\n<li>JITA class\n<em><a href=\"http://eprints.rclis.org/handle/10760/3775\" rel=\"nofollow\">LQ. Library automation systems</a></em></li>\n<li>GND authority record <em><a href=\"http://d-nb.info/gnd/4583297-3\" rel=\"nofollow\">Bibliotheksinformationssystem</a></em></li>\n</ul>\n",
@@ -168,46 +189,18 @@
       "body_last_edit_date" : 1343076126
    },
    {
-      "body" : "<p>For specific kinds of collections use ↓<a href=\"/questions/tagged/special-collections\" class=\"post-tag\" title=\"show questions tagged 'special-collections'\" rel=\"tag\">special-collections</a>, ↓<a href=\"/questions/tagged/digital-collections\" class=\"post-tag\" title=\"show questions tagged 'digital-collections'\" rel=\"tag\">digital-collections</a>, or a create a new tag. For the creation and management of collections, use ↓<a href=\"/questions/tagged/collection-development\" class=\"post-tag\" title=\"show questions tagged 'collection-development'\" rel=\"tag\">collection-development</a> or ↓<a href=\"/questions/tagged/collection-management\" class=\"post-tag\" title=\"show questions tagged 'collection-management'\" rel=\"tag\">collection-management</a>.</p>\n",
-      "excerpt" : "a managed set of publications or objects held by a library, archive, or museum",
-      "tag_name" : "collection",
-      "excerpt_last_edit_date" : 1341692682,
-      "body_last_edit_date" : 1341692692
-   },
-   {
-      "body" : "<p>This is <strong>NOT</strong> the tag for anything you might do in the course of your professional life; this is a tag for questions about the profession itself, not about all of the things that professionals might be interested in.</p>\n\n<p>For special aspects see ↓<a href=\"/questions/tagged/professional-development\" class=\"post-tag\" title=\"show questions tagged 'professional-development'\" rel=\"tag\">professional-development</a> and ↓<a href=\"/questions/tagged/hiring\" class=\"post-tag\" title=\"show questions tagged 'hiring'\" rel=\"tag\">hiring</a>.</p>\n",
-      "excerpt" : "being a librarian, archivist, information scientist, etc. For example, professional and career concerns and questions about the current nature or future development of the profession.",
-      "tag_name" : "profession",
-      "excerpt_last_edit_date" : 1341616719,
-      "body_last_edit_date" : 1341616735
+      "body" : "<p><a href=\"http://en.wikipedia.org/wiki/Email\" rel=\"nofollow\">Email</a> belongs to the ↑<a href=\"/questions/tagged/document-types\" class=\"post-tag\" title=\"show questions tagged 'document-types'\" rel=\"tag\">document-types</a> that predate <a href=\"/questions/tagged/internet\" class=\"post-tag\" title=\"show questions tagged 'internet'\" rel=\"tag\">internet</a>. In its current form email is specified in <a href=\"http://tools.ietf.org/html/rfc5322\" rel=\"nofollow\">RFC 5322</a>. Questions about email on libraries.stackexchange include use of email as method of digital communication and publication and archiving emails.</p>\n",
+      "excerpt" : "questions about electronic mail as infomation objects in libraries and similar context",
+      "tag_name" : "email",
+      "excerpt_last_edit_date" : 1344692726,
+      "body_last_edit_date" : 1344692729
    },
    {
       "body" : "",
-      "excerpt" : "This tag exists for professional librarians to solicit recommendations for additions to their collections, not for private users.",
-      "tag_name" : "book-recommendations",
-      "excerpt_last_edit_date" : 1343089547,
-      "body_last_edit_date" : 1343089547
-   },
-   {
-      "body" : "",
-      "excerpt" : "The nook is a tablet reading device developed by Barnes &amp; Noble.",
-      "tag_name" : "nook",
-      "excerpt_last_edit_date" : 1337790551,
-      "body_last_edit_date" : 1337737315
-   },
-   {
-      "body" : "<p>e-readers are computers primarily designed to read and store <a href=\"/questions/tagged/ebooks\" class=\"post-tag\" title=\"show questions tagged 'ebooks'\" rel=\"tag\">ebooks</a>, periodicals and other digital publications (<a href=\"/questions/tagged/e-resources\" class=\"post-tag\" title=\"show questions tagged 'e-resources'\" rel=\"tag\">e-resources</a>). </p>\n\n<p>Particular e-readers include ↓<a href=\"/questions/tagged/kindle\" class=\"post-tag\" title=\"show questions tagged 'kindle'\" rel=\"tag\">kindle</a>, and ↓<a href=\"/questions/tagged/nook\" class=\"post-tag\" title=\"show questions tagged 'nook'\" rel=\"tag\">nook</a>. See Wikipedia for an overview of \n<a href=\"http://en.wikipedia.org/wiki/E-book#Dedicated_hardware_readers\" rel=\"nofollow\">dedicated hardware ebook readers</a>.</p>\n",
-      "excerpt" : "portable electronic device to read ebooks and other digital publications",
-      "tag_name" : "e-readers",
-      "excerpt_last_edit_date" : 1341085281,
-      "body_last_edit_date" : 1341085277
-   },
-   {
-      "body" : "<p>A log file is a file which is generated by a software process to record some specific details (events) about the workings of this process. Most logfiles are plain, human-readable text files, some however are using a binary format to conserve space and need specific treatment for post-processing. (Example: Unix login history in <code>utmp</code>/<code>wtmp</code> format)</p>\n\n<p>A log file can be categorized into several types:</p>\n\n<ol>\n<li>Access log which records information related to the usage of the service provided by this process.</li>\n<li>Error log which records error conditions.</li>\n<li>Info/Debug log which records more detailed information as compared with other logs.</li>\n<li>Transaction log to document a chain of events, this often is required to be immutable to avoid later tampering.</li>\n<li><code>redo logs</code>, containing the complete information to replay a chain of actions, often used where incomplete data transactions would lead to inconsistent data, for example in file systems or databases.</li>\n</ol>\n\n<p>The main two goals of creating and maintaining log files are:</p>\n\n<ol>\n<li>Finding and debugging problems.</li>\n<li>Gathering usage information.</li>\n</ol>\n\n<p>Depending on the frequence of events and the level of detail, logfiles may be growing very quickly, and usually require a strategy for managing their growth. </p>\n",
-      "excerpt" : "A log file is file which is generated by a software process to record some specific details about the workings of this process.",
-      "tag_name" : "log-files",
-      "excerpt_last_edit_date" : 1339179180,
-      "body_last_edit_date" : 1339179177
+      "excerpt" : "A challenge is any formal request that an item be reclassified, restricted, withdrawn, or otherwise made more inaccessible.",
+      "tag_name" : "challenges",
+      "excerpt_last_edit_date" : 1339983606,
+      "body_last_edit_date" : 1339963372
    },
    {
       "body" : "",
@@ -217,6 +210,13 @@
       "body_last_edit_date" : 1340797566
    },
    {
+      "body" : "<p>A log file is a file which is generated by a software process to record some specific details (events) about the workings of this process. Most logfiles are plain, human-readable text files, some however are using a binary format to conserve space and need specific treatment for post-processing. (Example: Unix login history in <code>utmp</code>/<code>wtmp</code> format)</p>\n\n<p>A log file can be categorized into several types:</p>\n\n<ol>\n<li>Access log which records information related to the usage of the service provided by this process.</li>\n<li>Error log which records error conditions.</li>\n<li>Info/Debug log which records more detailed information as compared with other logs.</li>\n<li>Transaction log to document a chain of events, this often is required to be immutable to avoid later tampering.</li>\n<li><code>redo logs</code>, containing the complete information to replay a chain of actions, often used where incomplete data transactions would lead to inconsistent data, for example in file systems or databases.</li>\n</ol>\n\n<p>The main two goals of creating and maintaining log files are:</p>\n\n<ol>\n<li>Finding and debugging problems.</li>\n<li>Gathering usage information.</li>\n</ol>\n\n<p>Depending on the frequence of events and the level of detail, logfiles may be growing very quickly, and usually require a strategy for managing their growth. </p>\n",
+      "excerpt" : "A log file is file which is generated by a software process to record some specific details about the workings of this process.",
+      "tag_name" : "log-files",
+      "excerpt_last_edit_date" : 1339179180,
+      "body_last_edit_date" : 1339179177
+   },
+   {
       "body" : "<p>This tag is to be used for general questions about (forms of) institutions, organizations, and associations. More specific tags exist for:</p>\n\n<ul>\n<li><p>types of libraries: ↓<a href=\"/questions/tagged/public-libraries\" class=\"post-tag\" title=\"show questions tagged 'public-libraries'\" rel=\"tag\">public-libraries</a>, ↓<a href=\"/questions/tagged/academic-libraries\" class=\"post-tag\" title=\"show questions tagged 'academic-libraries'\" rel=\"tag\">academic-libraries</a>, ↓<a href=\"/questions/tagged/school-libraries\" class=\"post-tag\" title=\"show questions tagged 'school-libraries'\" rel=\"tag\">school-libraries</a>, ↓<a href=\"/questions/tagged/corporate-libraries\" class=\"post-tag\" title=\"show questions tagged 'corporate-libraries'\" rel=\"tag\">corporate-libraries</a>, ↓<a href=\"/questions/tagged/home-libraries\" class=\"post-tag\" title=\"show questions tagged 'home-libraries'\" rel=\"tag\">home-libraries</a>, ↓<a href=\"/questions/tagged/small-libraries\" class=\"post-tag\" title=\"show questions tagged 'small-libraries'\" rel=\"tag\">small-libraries</a>.</p></li>\n<li><p>other types of institutions: ↓<a href=\"/questions/tagged/archives\" class=\"post-tag\" title=\"show questions tagged 'archives'\" rel=\"tag\">archives</a>, ↓<a href=\"/questions/tagged/museums\" class=\"post-tag\" title=\"show questions tagged 'museums'\" rel=\"tag\">museums</a></p></li>\n<li><p>particular institutions: ↓<a href=\"/questions/tagged/loc\" class=\"post-tag\" title=\"show questions tagged 'loc'\" rel=\"tag\">loc</a> ↓<a href=\"/questions/tagged/internet-archive\" class=\"post-tag\" title=\"show questions tagged 'internet-archive'\" rel=\"tag\">internet-archive</a> ...</p></li>\n</ul>\n",
       "excerpt" : "formal organizations such as libraries and archives and their associations.",
       "tag_name" : "institutions",
@@ -224,10 +224,24 @@
       "body_last_edit_date" : 1342191362
    },
    {
+      "body" : "<p>The ↑<a href=\"/questions/tagged/ils\" class=\"post-tag\" title=\"show questions tagged 'ils'\" rel=\"tag\">ils</a> Koha was created 1999 in New Zealand and has since been used and developed in several countries. A special version of the open source software is provided by LibLime.</p>\n\n<p>See <a href=\"http://en.wikipedia.org/wiki/Koha_%28software%29\" rel=\"nofollow\">Wikipedia article about Koha</a> and the <a href=\"http://koha-community.org/\" rel=\"nofollow\">Koha community site</a> for more information.</p>\n",
+      "excerpt" : "an open source integrated library system (ILS) used by public, school and special libraries",
+      "tag_name" : "koha",
+      "excerpt_last_edit_date" : 1345384569,
+      "body_last_edit_date" : 1345384581
+   },
+   {
       "body" : "",
-      "excerpt" : "A challenge is any formal request that an item be reclassified, restricted, withdrawn, or otherwise made more inaccessible.",
-      "tag_name" : "challenges",
-      "excerpt_last_edit_date" : 1339983606,
-      "body_last_edit_date" : 1339963372
+      "excerpt" : "This tag exists for professional librarians to solicit recommendations for additions to their collections, not for private users.",
+      "tag_name" : "book-recommendations",
+      "excerpt_last_edit_date" : 1343089547,
+      "body_last_edit_date" : 1343089547
+   },
+   {
+      "body" : "<p>e-readers are computers primarily designed to read and store <a href=\"/questions/tagged/ebooks\" class=\"post-tag\" title=\"show questions tagged 'ebooks'\" rel=\"tag\">ebooks</a>, periodicals and other digital publications (<a href=\"/questions/tagged/e-resources\" class=\"post-tag\" title=\"show questions tagged 'e-resources'\" rel=\"tag\">e-resources</a>). </p>\n\n<p>Particular e-readers include ↓<a href=\"/questions/tagged/kindle\" class=\"post-tag\" title=\"show questions tagged 'kindle'\" rel=\"tag\">kindle</a>, and ↓<a href=\"/questions/tagged/nook\" class=\"post-tag\" title=\"show questions tagged 'nook'\" rel=\"tag\">nook</a>. See Wikipedia for an overview of \n<a href=\"http://en.wikipedia.org/wiki/E-book#Dedicated_hardware_readers\" rel=\"nofollow\">dedicated hardware ebook readers</a>.</p>\n",
+      "excerpt" : "portable electronic device to read ebooks and other digital publications",
+      "tag_name" : "e-readers",
+      "excerpt_last_edit_date" : 1341085281,
+      "body_last_edit_date" : 1341085277
    }
 ]

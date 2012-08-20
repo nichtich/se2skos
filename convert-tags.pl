@@ -17,7 +17,7 @@ use autodie;
 
 my $site = (shift @ARGV) // '';
 my $dir = "data/$site";
-die "Usage: $0 <site> [-d]" unless $site =~ /^[a-z]+$/ and -d $dir;
+die "Usage: $0 <site> [-d]\n" unless $site =~ /^[a-z]+$/ and -d $dir;
 
 my $debug = grep { /^-d/ } @ARGV;
 
@@ -69,29 +69,40 @@ say OUT turtle_statement '<>',
 	'dcterms:source' => "<$siteurl>",
 ;
 
-foreach my $tag (sort { $a->{name} cmp $b->{name} } @$tags) {
+my %concepts;
+foreach my $tag (@$tags) {
 	my $name = $tag->{name};
-	my $w    = $wikis->{$name};
-
-	my %prop = (
-		'skos:scopeNote' => { en => $w->{excerpt} },
+	$concepts{$name} = {
+		'skos:scopeNote' => { en => $wikis->{$name}->{excerpt} },
+		'skos:prefLabel' => { en => $name }, 
 		'skos:altLabel' => { en => $synonyms->{$name} },
 		'library:holdingsCount' => $tag->{count},
-	);
+	};
+}
 
+foreach my $tag (@$tags) {
+	my $name = $tag->{name};
+	my $w    = $wikis->{$name};
+	my $prop = $concepts{$name};
+	
 	# links between tags
 	while( $w->{body} =~ /([↓↑]?)<a href="\/questions\/tagged\/([^"]+)"/g ) {
 		my ($rel,$to) = ($1,$2);
 		$to = $alias{$to} if $alias{$to};
+		unless ( $concepts{$to} ) {
+			# TODO: link to tag wiki
+			warn "tag '$to' referenced from '$name' not found!\n";
+			next;
+		}
 		given($1) {
 			when('↓') { 
-				push @{$prop{'skos:narrower'}}, "<$to>";
+				push @{$prop->{'skos:narrower'}}, "<$to>";
 			};
 			when('↑') { 
-				push @{$prop{'skos:broader'}}, "<$to>";
+				push @{$concepts{$to}->{'skos:narrower'}}, "<$name>";
 			};
 			default { 
-				push @{$prop{'skos:related'}}, "<$to>";
+				push @{$prop->{'skos:related'}}, "<$to>";
 			};
 		}
 	}
@@ -107,10 +118,13 @@ foreach my $tag (sort { $a->{name} cmp $b->{name} } @$tags) {
 	
 	while (my ($name, $uris) = each %mappings) {
 		my $rel = @$uris == 1 ? 'skos:closeMatch' : 'skos:narrowMatch';
-		push @{$prop{$rel}}, @$uris;
+		push @{$prop->{$rel}}, @$uris;
 	}
+}
 
-	say OUT turtle_statement "<$name>", a => 'skos:Concept', %prop;
+foreach my $name (sort keys %concepts) {
+	my $prop = $concepts{$name};
+	say OUT turtle_statement "<$name>", a => 'skos:Concept', %$prop;
 }
 
 package SKOS::KnownTargets;
