@@ -42,18 +42,19 @@
     skos:scopeNote "Application Programming Interface. A method provided by a computer system that allows another to interact with it"@en .
 
 <archives> a skos:Concept ;
-    skos:prefLabel "archives"@en ;
-    library:holdingsCount 9 ;
     skos:related <archiving>, <digital-collections>, <special-collections> ;
     skos:scopeNote "Institutions or repositories dedicated to the long-term storage and preservation of materials, usually of a unique and historical nature or with the assumption that it will have that nature in the future. If you have a question about the process of archiving materials, including selection, acquisition, and physical preparation for long-term storage and access, use [tag:archiving] instead. See also: [tag:special-collections]"@en ;
-    skos:altLabel "archive"@en ;
-    skos:narrower <archiving> .
+    skos:closeMatch <http://eprints.rclis.org/handle/10760/3660> ;
+    library:holdingsCount 9 ;
+    skos:prefLabel "archives"@en ;
+    skos:narrower <archiving> ;
+    skos:altLabel "archive"@en .
 
 <archiving> a skos:Concept ;
-    skos:prefLabel "archiving"@en ;
-    library:holdingsCount 4 ;
     skos:related <preservation> ;
     skos:scopeNote "The process of archiving materials, including selection, acquisition, and physical preparation for long-term storage and access. If you have a question about archives as institutions or that would usually occur only in the context of an archive, use [tag:archives]."@en ;
+    skos:prefLabel "archiving"@en ;
+    library:holdingsCount 4 ;
     skos:narrower <digital-archiving>, <web-archiving> .
 
 <arduino> a skos:Concept ;
@@ -85,9 +86,9 @@
     library:holdingsCount 1 .
 
 <barcodes> a skos:Concept ;
+    skos:scopeNote "Machine-readable patterns of Lines and/or shapes containing encoded data that is read by an optical scanner. "@en ;
     skos:prefLabel "barcodes"@en ;
-    library:holdingsCount 3 ;
-    skos:scopeNote "Machine-readable patterns of Lines and/or shapes containing encoded data that is read by an optical scanner. "@en .
+    library:holdingsCount 3 .
 
 <bibliographies> a skos:Concept ;
     skos:prefLabel "bibliographies"@en ;
@@ -99,9 +100,9 @@
     skos:narrower <citations> .
 
 <book-recommendations> a skos:Concept ;
+    skos:scopeNote "This tag exists for professional librarians to solicit recommendations for additions to their collections, not for private users."@en ;
     skos:prefLabel "book-recommendations"@en ;
-    library:holdingsCount 1 ;
-    skos:scopeNote "This tag exists for professional librarians to solicit recommendations for additions to their collections, not for private users."@en .
+    library:holdingsCount 1 .
 
 <book-repair> a skos:Concept ;
     skos:prefLabel "book-repair"@en ;
@@ -132,19 +133,19 @@
     library:holdingsCount 1 .
 
 <cataloging> a skos:Concept ;
-    skos:prefLabel "cataloging"@en ;
-    library:holdingsCount 14 ;
     skos:related <bibliographies>, <circulation>, <metadata> ;
-    skos:scopeNote "Creation of bibliographic records which describe publications and library holdings."@en .
+    skos:scopeNote "Creation of bibliographic records which describe publications and library holdings."@en ;
+    skos:prefLabel "cataloging"@en ;
+    library:holdingsCount 14 .
 
 <censorship> a skos:Concept ;
     skos:prefLabel "censorship"@en ;
     library:holdingsCount 2 .
 
 <challenges> a skos:Concept ;
+    skos:scopeNote "A challenge is any formal request that an item be reclassified, restricted, withdrawn, or otherwise made more inaccessible."@en ;
     skos:prefLabel "challenges"@en ;
-    library:holdingsCount 1 ;
-    skos:scopeNote "A challenge is any formal request that an item be reclassified, restricted, withdrawn, or otherwise made more inaccessible."@en .
+    library:holdingsCount 1 .
 
 <change> a skos:Concept ;
     skos:prefLabel "change"@en ;
@@ -155,15 +156,16 @@
     library:holdingsCount 15 .
 
 <citations> a skos:Concept ;
-    skos:prefLabel "citations"@en ;
-    library:holdingsCount 3 ;
     skos:related <metadata> ;
-    skos:scopeNote "questions about citation analysis, styles, indexing, search etc."@en .
+    skos:scopeNote "questions about citation analysis, styles, indexing, search etc."@en ;
+    skos:closeMatch <http://d-nb.info/gnd/4296615-2>, <http://eprints.rclis.org/handle/10760/3629> ;
+    skos:prefLabel "citations"@en ;
+    library:holdingsCount 3 .
 
 <classification> a skos:Concept ;
+    skos:scopeNote "The organization of content by subject for the purpose of colocsting similar document to aid in browsing a collection. "@en ;
     skos:prefLabel "classification"@en ;
     library:holdingsCount 13 ;
-    skos:scopeNote "The organization of content by subject for the purpose of colocsting similar document to aid in browsing a collection. "@en ;
     skos:narrower <lcc> .
 
 <close-stack> a skos:Concept ;
@@ -179,15 +181,16 @@
     library:holdingsCount 1 .
 
 <collection> a skos:Concept ;
+    skos:scopeNote "a managed set of publications or objects held by a library, archive, or museum"@en ;
     skos:prefLabel "collection"@en ;
     library:holdingsCount 2 ;
-    skos:scopeNote "a managed set of publications or objects held by a library, archive, or museum"@en ;
     skos:narrower <collection-development>, <special-collections>, <digital-collections>, <collection-development>, <collection-management> .
 
 <collection-development> a skos:Concept ;
+    skos:scopeNote "Collection development includes selection and deselection of material to be included in the collection of a library or archive."@en ;
+    skos:closeMatch <http://dbpedia.org/resource/Library_collection_development> ;
     skos:prefLabel "collection-development"@en ;
     library:holdingsCount 15 ;
-    skos:scopeNote "Collection development includes selection and deselection of material to be included in the collection of a library or archive."@en ;
     skos:narrower <purchasing>, <weeding>, <patron-driven>, <weeding> .
 
 <collection-management> a skos:Concept ;
@@ -215,9 +218,9 @@
     library:holdingsCount 1 .
 
 <crowdsourcing> a skos:Concept ;
+    skos:scopeNote "Outsourcing activities to a broad community of amateurs or volunteers."@en ;
     skos:prefLabel "crowdsourcing"@en ;
-    library:holdingsCount 1 ;
-    skos:scopeNote "Outsourcing activities to a broad community of amateurs or volunteers."@en .
+    library:holdingsCount 1 .
 
 <curation> a skos:Concept ;
     skos:prefLabel "curation"@en ;
@@ -240,37 +243,38 @@
     library:holdingsCount 4 .
 
 <dewey-decimal-system> a skos:Concept ;
+    skos:scopeNote "A system that attempts to create a defined set of numbers for subject."@en ;
     skos:prefLabel "dewey-decimal-system"@en ;
-    library:holdingsCount 5 ;
-    skos:scopeNote "A system that attempts to create a defined set of numbers for subject."@en .
+    library:holdingsCount 5 .
 
 <digital-archiving> a skos:Concept ;
     skos:prefLabel "digital-archiving"@en ;
     library:holdingsCount 13 .
 
 <digital-collections> a skos:Concept ;
+    skos:scopeNote "Dealing with the presentation and organization of digitized and born digital collections. Including issues around web design, search, faceted browsing, etc."@en ;
     skos:prefLabel "digital-collections"@en ;
-    library:holdingsCount 15 ;
-    skos:scopeNote "Dealing with the presentation and organization of digitized and born digital collections. Including issues around web design, search, faceted browsing, etc."@en .
+    library:holdingsCount 15 .
 
 <digital-formats> a skos:Concept ;
     skos:prefLabel "digital-formats"@en ;
     library:holdingsCount 1 .
 
 <digital-humanities> a skos:Concept ;
-    skos:prefLabel "digital-humanities"@en ;
-    library:holdingsCount 5 ;
     skos:related <tei> ;
-    skos:scopeNote "analyzing broad swathes of human experience in ways that weren&#39;t feasible before computers and digital materials as well as applying humanities techniques to digital objects.\r\n\r\n&quot;Humanities computing&quot; is an older term for the field which became DH; please use this tag instead."@en .
+    skos:scopeNote "analyzing broad swathes of human experience in ways that weren&#39;t feasible before computers and digital materials as well as applying humanities techniques to digital objects.\r\n\r\n&quot;Humanities computing&quot; is an older term for the field which became DH; please use this tag instead."@en ;
+    skos:closeMatch <http://dbpedia.org/resource/Digital_humanities> ;
+    skos:prefLabel "digital-humanities"@en ;
+    library:holdingsCount 5 .
 
 <digital-media> a skos:Concept ;
     skos:prefLabel "digital-media"@en ;
     library:holdingsCount 9 .
 
 <digital-preservation> a skos:Concept ;
+    skos:scopeNote "Digital preservation is the active management of digital content over time to ensure ongoing access. It includes issues relating to ensuring the authenticity and availability of digital objects and information, the obsolescence of file formats, considerations of the longevity of storage media and systems, and the emulation and migration of digital information. The goal of digital preservation is long term access to digital content. "@en ;
     skos:prefLabel "digital-preservation"@en ;
-    library:holdingsCount 19 ;
-    skos:scopeNote "Digital preservation is the active management of digital content over time to ensure ongoing access. It includes issues relating to ensuring the authenticity and availability of digital objects and information, the obsolescence of file formats, considerations of the longevity of storage media and systems, and the emulation and migration of digital information. The goal of digital preservation is long term access to digital content. "@en .
+    library:holdingsCount 19 .
 
 <digitization> a skos:Concept ;
     skos:prefLabel "digitization"@en ;
@@ -298,10 +302,11 @@
     library:holdingsCount 1 .
 
 <e-readers> a skos:Concept ;
-    skos:prefLabel "e-readers"@en ;
-    library:holdingsCount 1 ;
     skos:related <ebooks>, <e-resources> ;
-    skos:scopeNote "portable electronic device to read ebooks and other digital publications"@en .
+    skos:scopeNote "portable electronic device to read ebooks and other digital publications"@en ;
+    skos:closeMatch <http://dbpedia.org/resource/E-book> ;
+    skos:prefLabel "e-readers"@en ;
+    library:holdingsCount 1 .
 
 <e-resources> a skos:Concept ;
     skos:prefLabel "e-resources"@en ;
@@ -312,10 +317,11 @@
     library:holdingsCount 11 .
 
 <email> a skos:Concept ;
-    skos:prefLabel "email"@en ;
-    library:holdingsCount 2 ;
     skos:related <internet> ;
-    skos:scopeNote "questions about electronic mail as infomation objects in libraries and similar context"@en .
+    skos:scopeNote "questions about electronic mail as infomation objects in libraries and similar context"@en ;
+    skos:closeMatch <http://dbpedia.org/resource/Email> ;
+    skos:prefLabel "email"@en ;
+    library:holdingsCount 2 .
 
 <employees> a skos:Concept ;
     skos:prefLabel "employees"@en ;
@@ -402,9 +408,10 @@
     library:holdingsCount 4 .
 
 <ils> a skos:Concept ;
+    skos:scopeNote "an integrated library system (ILS) is a software system for collection management, circulation and other tasks in a library."@en ;
+    skos:closeMatch <http://dbpedia.org/resource/Integrated_library_system>, <http://eprints.rclis.org/handle/10760/3775> ;
     skos:prefLabel "ils"@en ;
     library:holdingsCount 2 ;
-    skos:scopeNote "an integrated library system (ILS) is a software system for collection management, circulation and other tasks in a library."@en ;
     skos:narrower <circulation>, <collection-management>, <cataloging>, <opac>, <koha> .
 
 <imls> a skos:Concept ;
@@ -428,14 +435,14 @@
     library:holdingsCount 4 .
 
 <innovative-interfaces> a skos:Concept ;
+    skos:scopeNote "Innovative Interfaces, Inc. is an ILS vendor based in Emeryville, California, USA. Its main products include the Millennium ILS, Sierra ILS, and Encore discovery layer."@en ;
     skos:prefLabel "innovative-interfaces"@en ;
-    library:holdingsCount 3 ;
-    skos:scopeNote "Innovative Interfaces, Inc. is an ILS vendor based in Emeryville, California, USA. Its main products include the Millennium ILS, Sierra ILS, and Encore discovery layer."@en .
+    library:holdingsCount 3 .
 
 <institutions> a skos:Concept ;
+    skos:scopeNote "formal organizations such as libraries and archives and their associations."@en ;
     skos:prefLabel "institutions"@en ;
     library:holdingsCount 1 ;
-    skos:scopeNote "formal organizations such as libraries and archives and their associations."@en ;
     skos:narrower <public-libraries>, <academic-libraries>, <school-libraries>, <home-libraries>, <small-libraries>, <archives>, <museums>, <loc>, <internet-archive> .
 
 <intellectual-property> a skos:Concept ;
@@ -459,19 +466,20 @@
     library:holdingsCount 2 .
 
 <koha> a skos:Concept ;
+    skos:scopeNote "an open source integrated library system (ILS) used by public, school and special libraries"@en ;
+    skos:closeMatch <http://dbpedia.org/resource/Koha_%28software%29> ;
     skos:prefLabel "koha"@en ;
-    library:holdingsCount 1 ;
-    skos:scopeNote "an open source integrated library system (ILS) used by public, school and special libraries"@en .
+    library:holdingsCount 1 .
 
 <laws> a skos:Concept ;
     skos:prefLabel "laws"@en ;
     library:holdingsCount 1 .
 
 <lcc> a skos:Concept ;
-    skos:prefLabel "lcc"@en ;
-    library:holdingsCount 3 ;
     skos:related <library-of-congress>, <cutter> ;
-    skos:scopeNote "The Library of Congress Classification (LCC) is used by the library of congress and other academic libraries especially in the US."@en .
+    skos:scopeNote "The Library of Congress Classification (LCC) is used by the library of congress and other academic libraries especially in the US."@en ;
+    skos:prefLabel "lcc"@en ;
+    library:holdingsCount 3 .
 
 <legal-questions> a skos:Concept ;
     skos:prefLabel "legal-questions"@en ;
@@ -490,9 +498,9 @@
     library:holdingsCount 4 .
 
 <linked-data> a skos:Concept ;
+    skos:scopeNote "Structured data that includes many relationships between unique identifiers. Each resource is identified by an HTTP URI, which can be used to retrieve information about the resource and links to other resources in RDF format. Relationships have links types from Ontologies and the set of all connected linked data is also known as Semantic Web."@en ;
     skos:prefLabel "linked-data"@en ;
-    library:holdingsCount 3 ;
-    skos:scopeNote "Structured data that includes many relationships between unique identifiers. Each resource is identified by an HTTP URI, which can be used to retrieve information about the resource and links to other resources in RDF format. Relationships have links types from Ontologies and the set of all connected linked data is also known as Semantic Web."@en .
+    library:holdingsCount 3 .
 
 <lis-research> a skos:Concept ;
     skos:prefLabel "lis-research"@en ;
@@ -503,9 +511,9 @@
     library:holdingsCount 1 .
 
 <log-files> a skos:Concept ;
+    skos:scopeNote "A log file is file which is generated by a software process to record some specific details about the workings of this process."@en ;
     skos:prefLabel "log-files"@en ;
-    library:holdingsCount 1 ;
-    skos:scopeNote "A log file is file which is generated by a software process to record some specific details about the workings of this process."@en .
+    library:holdingsCount 1 .
 
 <magazines> a skos:Concept ;
     skos:prefLabel "magazines"@en ;
@@ -568,9 +576,9 @@
     library:holdingsCount 1 .
 
 <opac> a skos:Concept ;
+    skos:scopeNote "Online Public Access Catalog. The patron-facing display of a library&#39;s holdings. "@en ;
     skos:prefLabel "opac"@en ;
-    library:holdingsCount 6 ;
-    skos:scopeNote "Online Public Access Catalog. The patron-facing display of a library&#39;s holdings. "@en .
+    library:holdingsCount 6 .
 
 <open-access> a skos:Concept ;
     skos:prefLabel "open-access"@en ;
@@ -617,9 +625,9 @@
     library:holdingsCount 2 .
 
 <preservation> a skos:Concept ;
+    skos:scopeNote "Preservation is concerned with establishing or maintaining the accessibility and integrity of recorded information in various forms, both analog and digital. "@en ;
     skos:prefLabel "preservation"@en ;
-    library:holdingsCount 13 ;
-    skos:scopeNote "Preservation is concerned with establishing or maintaining the accessibility and integrity of recorded information in various forms, both analog and digital. "@en .
+    library:holdingsCount 13 .
 
 <print-on-demand> a skos:Concept ;
     skos:prefLabel "print-on-demand"@en ;
@@ -630,9 +638,9 @@
     library:holdingsCount 4 .
 
 <profession> a skos:Concept ;
+    skos:scopeNote "being a librarian, archivist, information scientist, etc. For example, professional and career concerns and questions about the current nature or future development of the profession."@en ;
     skos:prefLabel "profession"@en ;
     library:holdingsCount 2 ;
-    skos:scopeNote "being a librarian, archivist, information scientist, etc. For example, professional and career concerns and questions about the current nature or future development of the profession."@en ;
     skos:narrower <professional-development>, <hiring> .
 
 <professional-development> a skos:Concept ;
@@ -652,9 +660,9 @@
     library:holdingsCount 1 .
 
 <public-libraries> a skos:Concept ;
+    skos:scopeNote "Public libraries are libraries with the primary purpose of serving members of the public rather than, e.g., members of a specific institution or organization. This tag should be used to indicate questions about, or that may almost always occur in the context of, public libraries."@en ;
     skos:prefLabel "public-libraries"@en ;
-    library:holdingsCount 20 ;
-    skos:scopeNote "Public libraries are libraries with the primary purpose of serving members of the public rather than, e.g., members of a specific institution or organization. This tag should be used to indicate questions about, or that may almost always occur in the context of, public libraries."@en .
+    library:holdingsCount 20 .
 
 <public-services> a skos:Concept ;
     skos:prefLabel "public-services"@en ;
@@ -717,9 +725,9 @@
     library:holdingsCount 1 .
 
 <rfid> a skos:Concept ;
+    skos:scopeNote "Radio-Frequency IDentifiers.  Used in libraries to uniquely identify books in patron self-service and back-room automation systems. "@en ;
     skos:prefLabel "rfid"@en ;
-    library:holdingsCount 5 ;
-    skos:scopeNote "Radio-Frequency IDentifiers.  Used in libraries to uniquely identify books in patron self-service and back-room automation systems. "@en .
+    library:holdingsCount 5 .
 
 <rights> a skos:Concept ;
     skos:prefLabel "rights"@en ;
@@ -738,9 +746,9 @@
     library:holdingsCount 2 .
 
 <school-libraries> a skos:Concept ;
+    skos:scopeNote "Libraries for primary and secondary school students, which function to introduce students to library etiquette and research techniques"@en ;
     skos:prefLabel "school-libraries"@en ;
-    library:holdingsCount 6 ;
-    skos:scopeNote "Libraries for primary and secondary school students, which function to introduce students to library etiquette and research techniques"@en .
+    library:holdingsCount 6 .
 
 <science-fiction> a skos:Concept ;
     skos:prefLabel "science-fiction"@en ;
@@ -860,9 +868,9 @@
     library:holdingsCount 1 .
 
 <terminology> a skos:Concept ;
+    skos:scopeNote "Questions about technical terms and definitions"@en ;
     skos:prefLabel "terminology"@en ;
-    library:holdingsCount 2 ;
-    skos:scopeNote "Questions about technical terms and definitions"@en .
+    library:holdingsCount 2 .
 
 <testing> a skos:Concept ;
     skos:prefLabel "testing"@en ;
@@ -917,20 +925,21 @@
     library:holdingsCount 2 .
 
 <web-archiving> a skos:Concept ;
-    skos:prefLabel "web-archiving"@en ;
-    library:holdingsCount 5 ;
     skos:related <digital-archiving>, <archiving>, <preservation>, <digital-collections>, <internet> ;
-    skos:scopeNote "Collecting and preserving portions of the WWW"@en .
+    skos:scopeNote "Collecting and preserving portions of the WWW"@en ;
+    skos:closeMatch <http://dbpedia.org/resource/Web_archiving> ;
+    skos:prefLabel "web-archiving"@en ;
+    library:holdingsCount 5 .
 
 <website> a skos:Concept ;
     skos:prefLabel "website"@en ;
     library:holdingsCount 2 .
 
 <weeding> a skos:Concept ;
-    skos:prefLabel "weeding"@en ;
-    library:holdingsCount 5 ;
     skos:related <collection> ;
-    skos:scopeNote "A process for removing duplicate, damaged, obsolete, or little-used material from a library collection. "@en .
+    skos:scopeNote "A process for removing duplicate, damaged, obsolete, or little-used material from a library collection. "@en ;
+    skos:prefLabel "weeding"@en ;
+    library:holdingsCount 5 .
 
 <wikipedia> a skos:Concept ;
     skos:prefLabel "wikipedia"@en ;

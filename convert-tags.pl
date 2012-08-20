@@ -111,11 +111,10 @@ foreach my $tag (@$tags) {
 	my %mappings;
 	while( $w->{body} =~ /(.?)<a href="(http[^"]+)"[^>]*>([^<]+)<\/a>/g ) {
 		my ($rel,$url,$text) = ($1,$2,$3);
-
 		my ($kos, $uri) = SKOS::KnownTargets::detect($url);
 		push @{$mappings{$kos}}, "<$uri>" if $kos;
 	}
-	
+
 	while (my ($name, $uris) = each %mappings) {
 		my $rel = @$uris == 1 ? 'skos:closeMatch' : 'skos:narrowMatch';
 		push @{$prop->{$rel}}, @$uris;
@@ -138,17 +137,19 @@ sub detect {
 	while (my ($name, $m) = each %$MAP) {
 		foreach(my $i = 0; $i < @$m; $i++) {
 			my $e = $m->[$i];
-			next unless reftype($e) eq 'SCALAR';
+			next unless reftype($e) eq 'REGEXP';
 			next unless $url =~ $e;
 
 			# we got a match
-			while ($i<@$m and reftype($m->[$i]) eq 'SCALAR') { $i++; }
+			while ($i<@$m and reftype($m->[$i]) eq 'REGEXP') { $i++; }
 			return ($name,$url) if $i == @$m;
 
+			# additional filter
 			my $uri = $m->[$i]->($url);
 			return ($name,$uri) if $uri;
 		}
 	}
 
+	use Data::Dumper;
 	return;
 }
